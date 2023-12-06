@@ -1,0 +1,2668 @@
+
+
+Model Name: BERT
+Scenario: Scenario_OAS_O
+Dataset: original
+================================================================================
+Epoch 1
+Average Training Loss: 0.1481 | Training F1-Score: 0.8525
+Average Validation Loss: 0.0695 | Validation F1-Score: 0.9508
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0254 | Training F1-Score: 0.9858
+Average Validation Loss: 0.0761 | Validation F1-Score: 0.9508
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0190 | Training F1-Score: 0.9843
+Average Validation Loss: 0.0824 | Validation F1-Score: 0.9632
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0031 | Training F1-Score: 0.9983
+Average Validation Loss: 0.1084 | Validation F1-Score: 0.9568
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAS_O and dataset original has finished.
+Accuracy on Validation Set: 0.9865470852017937
+Precision on Validation Set: 0.9294871794871795
+Recall on Validation Set: 0.9731543624161074
+F1 Score on Validation Set (binary): 0.9508196721311476
+F1 Score on Validation Set (macro): 0.97151373216947
+F1 Score on Validation Set (weighted): 0.9866770030675054
+
+
+Model Name: BERT
+Scenario: Scenario_OAS_O
+Dataset: augmented_spam_1.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1340 | Training F1-Score: 0.9118
+Average Validation Loss: 0.0595 | Validation F1-Score: 0.9270
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0275 | Training F1-Score: 0.9875
+Average Validation Loss: 0.0599 | Validation F1-Score: 0.9508
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0108 | Training F1-Score: 0.9937
+Average Validation Loss: 0.0548 | Validation F1-Score: 0.9667
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0033 | Training F1-Score: 0.9987
+Average Validation Loss: 0.0594 | Validation F1-Score: 0.9571
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0040 | Training F1-Score: 0.9975
+Average Validation Loss: 0.0614 | Validation F1-Score: 0.9732
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0009 | Training F1-Score: 1.0000
+Average Validation Loss: 0.0636 | Validation F1-Score: 0.9732
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAS_O and dataset augmented_spam_1.csv has finished.
+Accuracy on Validation Set: 0.9910313901345291
+Precision on Validation Set: 0.9602649006622517
+Recall on Validation Set: 0.9731543624161074
+F1 Score on Validation Set (binary): 0.9666666666666668
+F1 Score on Validation Set (macro): 0.9807426597582038
+F1 Score on Validation Set (weighted): 0.9910566385526305
+
+
+Model Name: BERT
+Scenario: Scenario_OAS_O
+Dataset: augmented_spam_2.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0797 | Training F1-Score: 0.9755
+Average Validation Loss: 0.0428 | Validation F1-Score: 0.9635
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0112 | Training F1-Score: 0.9964
+Average Validation Loss: 0.0976 | Validation F1-Score: 0.9441
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0086 | Training F1-Score: 0.9967
+Average Validation Loss: 0.0770 | Validation F1-Score: 0.9211
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0033 | Training F1-Score: 0.9986
+Average Validation Loss: 0.0432 | Validation F1-Score: 0.9799
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAS_O and dataset augmented_spam_2.csv has finished.
+Accuracy on Validation Set: 0.9901345291479821
+Precision on Validation Set: 0.9539473684210527
+Recall on Validation Set: 0.9731543624161074
+F1 Score on Validation Set (binary): 0.9634551495016611
+F1 Score on Validation Set (macro): 0.9788763565030337
+F1 Score on Validation Set (weighted): 0.990176021184757
+
+
+Model Name: BERT
+Scenario: Scenario_OAS_O
+Dataset: augmented_spam_3.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1183 | Training F1-Score: 0.9594
+Average Validation Loss: 0.0425 | Validation F1-Score: 0.9664
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0215 | Training F1-Score: 0.9946
+Average Validation Loss: 0.0470 | Validation F1-Score: 0.9635
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0129 | Training F1-Score: 0.9962
+Average Validation Loss: 0.0590 | Validation F1-Score: 0.9625
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0036 | Training F1-Score: 0.9985
+Average Validation Loss: 0.0568 | Validation F1-Score: 0.9730
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAS_O and dataset augmented_spam_3.csv has finished.
+Accuracy on Validation Set: 0.9910313901345291
+Precision on Validation Set: 0.9664429530201343
+Recall on Validation Set: 0.9664429530201343
+F1 Score on Validation Set (binary): 0.9664429530201343
+F1 Score on Validation Set (macro): 0.9806334847916407
+F1 Score on Validation Set (weighted): 0.9910313901345291
+
+
+Model Name: BERT
+Scenario: Scenario_OAS_O
+Dataset: augmented_spam_4.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0851 | Training F1-Score: 0.9699
+Average Validation Loss: 0.0435 | Validation F1-Score: 0.9600
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0111 | Training F1-Score: 0.9970
+Average Validation Loss: 0.0384 | Validation F1-Score: 0.9733
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0034 | Training F1-Score: 0.9995
+Average Validation Loss: 0.0530 | Validation F1-Score: 0.9630
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0007 | Training F1-Score: 0.9998
+Average Validation Loss: 0.0656 | Validation F1-Score: 0.9632
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0003 | Training F1-Score: 1.0000
+Average Validation Loss: 0.0669 | Validation F1-Score: 0.9695
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAS_O and dataset augmented_spam_4.csv has finished.
+Accuracy on Validation Set: 0.9928251121076234
+Precision on Validation Set: 0.9668874172185431
+Recall on Validation Set: 0.9798657718120806
+F1 Score on Validation Set (binary): 0.9733333333333333
+F1 Score on Validation Set (macro): 0.9845941278065631
+F1 Score on Validation Set (weighted): 0.9928453108421046
+
+
+Model Name: BERT
+Scenario: Scenario_OAS_O
+Dataset: augmented_spam_5.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0776 | Training F1-Score: 0.9770
+Average Validation Loss: 0.0358 | Validation F1-Score: 0.9730
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0151 | Training F1-Score: 0.9961
+Average Validation Loss: 0.0467 | Validation F1-Score: 0.9542
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0086 | Training F1-Score: 0.9974
+Average Validation Loss: 0.0395 | Validation F1-Score: 0.9662
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0030 | Training F1-Score: 0.9990
+Average Validation Loss: 0.0517 | Validation F1-Score: 0.9600
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAS_O and dataset augmented_spam_5.csv has finished.
+Accuracy on Validation Set: 0.9928251121076234
+Precision on Validation Set: 0.9795918367346939
+Recall on Validation Set: 0.9664429530201343
+F1 Score on Validation Set (binary): 0.9729729729729729
+F1 Score on Validation Set (macro): 0.9844182341597026
+F1 Score on Validation Set (weighted): 0.9928045824911449
+
+
+Model Name: BERT
+Scenario: Scenario_OAM_O
+Dataset: original
+================================================================================
+Epoch 1
+Average Training Loss: 0.1430 | Training F1-Score: 0.9113
+Average Validation Loss: 0.0948 | Validation F1-Score: 0.9006
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0378 | Training F1-Score: 0.9711
+Average Validation Loss: 0.0816 | Validation F1-Score: 0.9325
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0197 | Training F1-Score: 0.9802
+Average Validation Loss: 0.0972 | Validation F1-Score: 0.9597
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0086 | Training F1-Score: 0.9950
+Average Validation Loss: 0.0957 | Validation F1-Score: 0.9632
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0075 | Training F1-Score: 0.9909
+Average Validation Loss: 0.0987 | Validation F1-Score: 0.9697
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAM_O and dataset original has finished.
+Accuracy on Validation Set: 0.9811659192825112
+Precision on Validation Set: 0.8950617283950617
+Recall on Validation Set: 0.9731543624161074
+F1 Score on Validation Set (binary): 0.932475884244373
+F1 Score on Validation Set (macro): 0.9607663423306285
+F1 Score on Validation Set (weighted): 0.9814957631884498
+
+
+Model Name: BERT
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_5.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1544 | Training F1-Score: 0.8313
+Average Validation Loss: 0.0774 | Validation F1-Score: 0.9346
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0344 | Training F1-Score: 0.9695
+Average Validation Loss: 0.0703 | Validation F1-Score: 0.9416
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0155 | Training F1-Score: 0.9865
+Average Validation Loss: 0.0896 | Validation F1-Score: 0.9662
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0121 | Training F1-Score: 0.9835
+Average Validation Loss: 0.1006 | Validation F1-Score: 0.9662
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0023 | Training F1-Score: 0.9992
+Average Validation Loss: 0.1103 | Validation F1-Score: 0.9630
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAM_O and dataset augmented_mixed_5.csv has finished.
+Accuracy on Validation Set: 0.9838565022421525
+Precision on Validation Set: 0.9119496855345912
+Recall on Validation Set: 0.9731543624161074
+F1 Score on Validation Set (binary): 0.9415584415584416
+F1 Score on Validation Set (macro): 0.9660965985107505
+F1 Score on Validation Set (weighted): 0.9840765753986753
+
+
+Model Name: BERT
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_10.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1504 | Training F1-Score: 0.8187
+Average Validation Loss: 0.0777 | Validation F1-Score: 0.9664
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0418 | Training F1-Score: 0.9691
+Average Validation Loss: 0.0637 | Validation F1-Score: 0.9600
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0213 | Training F1-Score: 0.9848
+Average Validation Loss: 0.0721 | Validation F1-Score: 0.9697
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0075 | Training F1-Score: 0.9962
+Average Validation Loss: 0.0800 | Validation F1-Score: 0.9697
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0019 | Training F1-Score: 0.9992
+Average Validation Loss: 0.0991 | Validation F1-Score: 0.9730
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAM_O and dataset augmented_mixed_10.csv has finished.
+Accuracy on Validation Set: 0.989237668161435
+Precision on Validation Set: 0.9536423841059603
+Recall on Validation Set: 0.9664429530201343
+F1 Score on Validation Set (binary): 0.9600000000000001
+F1 Score on Validation Set (macro): 0.9768911917098446
+F1 Score on Validation Set (weighted): 0.9892679662631567
+
+
+Model Name: BERT
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_20.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1472 | Training F1-Score: 0.7783
+Average Validation Loss: 0.1024 | Validation F1-Score: 0.9660
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0513 | Training F1-Score: 0.9598
+Average Validation Loss: 0.0582 | Validation F1-Score: 0.9732
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0177 | Training F1-Score: 0.9848
+Average Validation Loss: 0.0643 | Validation F1-Score: 0.9764
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0077 | Training F1-Score: 0.9944
+Average Validation Loss: 0.0765 | Validation F1-Score: 0.9728
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0048 | Training F1-Score: 0.9958
+Average Validation Loss: 0.0800 | Validation F1-Score: 0.9764
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAM_O and dataset augmented_mixed_20.csv has finished.
+Accuracy on Validation Set: 0.9928251121076234
+Precision on Validation Set: 0.9731543624161074
+Recall on Validation Set: 0.9731543624161074
+F1 Score on Validation Set (binary): 0.9731543624161074
+F1 Score on Validation Set (macro): 0.9845067878333125
+F1 Score on Validation Set (weighted): 0.9928251121076234
+
+
+Model Name: BERT
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_30.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1369 | Training F1-Score: 0.9044
+Average Validation Loss: 0.0746 | Validation F1-Score: 0.9381
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0328 | Training F1-Score: 0.9752
+Average Validation Loss: 0.0863 | Validation F1-Score: 0.9662
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0148 | Training F1-Score: 0.9910
+Average Validation Loss: 0.0748 | Validation F1-Score: 0.9012
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0105 | Training F1-Score: 0.9917
+Average Validation Loss: 0.1224 | Validation F1-Score: 0.9660
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAM_O and dataset augmented_mixed_30.csv has finished.
+Accuracy on Validation Set: 0.9829596412556054
+Precision on Validation Set: 0.9113924050632911
+Recall on Validation Set: 0.9664429530201343
+F1 Score on Validation Set (binary): 0.9381107491856678
+F1 Score on Validation Set (macro): 0.9641151769849297
+F1 Score on Validation Set (weighted): 0.9831695424665411
+
+
+Model Name: BERT
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_40.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1446 | Training F1-Score: 0.8756
+Average Validation Loss: 0.0841 | Validation F1-Score: 0.9662
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0406 | Training F1-Score: 0.9746
+Average Validation Loss: 0.0577 | Validation F1-Score: 0.9632
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0121 | Training F1-Score: 0.9916
+Average Validation Loss: 0.0707 | Validation F1-Score: 0.9697
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0047 | Training F1-Score: 0.9964
+Average Validation Loss: 0.1044 | Validation F1-Score: 0.9730
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0020 | Training F1-Score: 0.9982
+Average Validation Loss: 0.1261 | Validation F1-Score: 0.9761
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAM_O and dataset augmented_mixed_40.csv has finished.
+Accuracy on Validation Set: 0.9901345291479821
+Precision on Validation Set: 0.96
+Recall on Validation Set: 0.9664429530201343
+F1 Score on Validation Set (binary): 0.9632107023411371
+F1 Score on Validation Set (macro): 0.9787570860229766
+F1 Score on Validation Set (weighted): 0.9901484720929882
+
+
+Model Name: BERT
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_50.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1414 | Training F1-Score: 0.8358
+Average Validation Loss: 0.0699 | Validation F1-Score: 0.9355
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0397 | Training F1-Score: 0.9586
+Average Validation Loss: 0.0692 | Validation F1-Score: 0.9763
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0138 | Training F1-Score: 0.9889
+Average Validation Loss: 0.0755 | Validation F1-Score: 0.9533
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0067 | Training F1-Score: 0.9928
+Average Validation Loss: 0.0944 | Validation F1-Score: 0.9630
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0021 | Training F1-Score: 0.9978
+Average Validation Loss: 0.0976 | Validation F1-Score: 0.9697
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAM_O and dataset augmented_mixed_50.csv has finished.
+Accuracy on Validation Set: 0.9937219730941704
+Precision on Validation Set: 0.9863013698630136
+Recall on Validation Set: 0.9664429530201343
+F1 Score on Validation Set (binary): 0.9762711864406781
+F1 Score on Validation Set (macro): 0.9863268076906233
+F1 Score on Validation Set (weighted): 0.9936949176109867
+
+
+Model Name: BERT
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_60.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1462 | Training F1-Score: 0.8910
+Average Validation Loss: 0.0680 | Validation F1-Score: 0.9632
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0354 | Training F1-Score: 0.9677
+Average Validation Loss: 0.0602 | Validation F1-Score: 0.9764
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0192 | Training F1-Score: 0.9834
+Average Validation Loss: 0.0947 | Validation F1-Score: 0.9695
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0115 | Training F1-Score: 0.9865
+Average Validation Loss: 0.1273 | Validation F1-Score: 0.9619
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0032 | Training F1-Score: 0.9990
+Average Validation Loss: 0.0919 | Validation F1-Score: 0.9697
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAM_O and dataset augmented_mixed_60.csv has finished.
+Accuracy on Validation Set: 0.9937219730941704
+Precision on Validation Set: 0.9797297297297297
+Recall on Validation Set: 0.9731543624161074
+F1 Score on Validation Set (binary): 0.9764309764309763
+F1 Score on Validation Set (macro): 0.9864048312056589
+F1 Score on Validation Set (weighted): 0.9937130279329375
+
+
+Model Name: BERT
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_70.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1140 | Training F1-Score: 0.8764
+Average Validation Loss: 0.0765 | Validation F1-Score: 0.9763
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0361 | Training F1-Score: 0.9635
+Average Validation Loss: 0.0803 | Validation F1-Score: 0.9697
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0130 | Training F1-Score: 0.9897
+Average Validation Loss: 0.0889 | Validation F1-Score: 0.9763
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0107 | Training F1-Score: 0.9893
+Average Validation Loss: 0.0753 | Validation F1-Score: 0.9699
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0035 | Training F1-Score: 0.9975
+Average Validation Loss: 0.0954 | Validation F1-Score: 0.9763
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0011 | Training F1-Score: 1.0000
+Average Validation Loss: 0.0921 | Validation F1-Score: 0.9797
+------------------------------------------------------------
+Epoch 7
+Average Training Loss: 0.0006 | Training F1-Score: 1.0000
+Average Validation Loss: 0.0988 | Validation F1-Score: 0.9797
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAM_O and dataset augmented_mixed_70.csv has finished.
+Accuracy on Validation Set: 0.9919282511210762
+Precision on Validation Set: 0.9666666666666667
+Recall on Validation Set: 0.9731543624161074
+F1 Score on Validation Set (binary): 0.9698996655518394
+F1 Score on Validation Set (macro): 0.982619434018799
+F1 Score on Validation Set (weighted): 0.9919396589851721
+
+
+Model Name: BERT
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_80.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1110 | Training F1-Score: 0.9216
+Average Validation Loss: 0.0627 | Validation F1-Score: 0.8957
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0312 | Training F1-Score: 0.9712
+Average Validation Loss: 0.0868 | Validation F1-Score: 0.9655
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0058 | Training F1-Score: 0.9954
+Average Validation Loss: 0.1163 | Validation F1-Score: 0.9726
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0042 | Training F1-Score: 0.9954
+Average Validation Loss: 0.1017 | Validation F1-Score: 0.9763
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAM_O and dataset augmented_mixed_80.csv has finished.
+Accuracy on Validation Set: 0.9695067264573991
+Precision on Validation Set: 0.8248587570621468
+Recall on Validation Set: 0.9798657718120806
+F1 Score on Validation Set (binary): 0.8957055214723927
+F1 Score on Validation Set (macro): 0.9389241893076249
+F1 Score on Validation Set (weighted): 0.970592038295414
+
+
+Model Name: BERT
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_90.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1237 | Training F1-Score: 0.8742
+Average Validation Loss: 0.0556 | Validation F1-Score: 0.9450
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0306 | Training F1-Score: 0.9689
+Average Validation Loss: 0.0873 | Validation F1-Score: 0.9732
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0075 | Training F1-Score: 0.9921
+Average Validation Loss: 0.0913 | Validation F1-Score: 0.9730
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0023 | Training F1-Score: 0.9978
+Average Validation Loss: 0.1095 | Validation F1-Score: 0.9730
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAM_O and dataset augmented_mixed_90.csv has finished.
+Accuracy on Validation Set: 0.9847533632286996
+Precision on Validation Set: 0.9125
+Recall on Validation Set: 0.9798657718120806
+F1 Score on Validation Set (binary): 0.9449838187702266
+F1 Score on Validation Set (macro): 0.9680671306240514
+F1 Score on Validation Set (weighted): 0.9849810909689616
+
+
+Model Name: BERT
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_100.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1057 | Training F1-Score: 0.9150
+Average Validation Loss: 0.0841 | Validation F1-Score: 0.9695
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0275 | Training F1-Score: 0.9752
+Average Validation Loss: 0.0586 | Validation F1-Score: 0.9763
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0060 | Training F1-Score: 0.9967
+Average Validation Loss: 0.0942 | Validation F1-Score: 0.9728
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0038 | Training F1-Score: 0.9975
+Average Validation Loss: 0.1125 | Validation F1-Score: 0.9763
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0024 | Training F1-Score: 0.9971
+Average Validation Loss: 0.1457 | Validation F1-Score: 0.9759
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OAM_O and dataset augmented_mixed_100.csv has finished.
+Accuracy on Validation Set: 0.9937219730941704
+Precision on Validation Set: 0.9863013698630136
+Recall on Validation Set: 0.9664429530201343
+F1 Score on Validation Set (binary): 0.9762711864406781
+F1 Score on Validation Set (macro): 0.9863268076906233
+F1 Score on Validation Set (weighted): 0.9936949176109867
+
+
+Model Name: BERT
+Scenario: Scenario_AM_O
+Dataset: augmented_mixed_5.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.6386 | Training F1-Score: 0.4167
+Average Validation Loss: 0.5410 | Validation F1-Score: 0.5504
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.4649 | Training F1-Score: 0.7000
+Average Validation Loss: 0.4278 | Validation F1-Score: 0.6424
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.3719 | Training F1-Score: 0.8852
+Average Validation Loss: 0.3453 | Validation F1-Score: 0.7263
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.2645 | Training F1-Score: 0.9492
+Average Validation Loss: 0.3047 | Validation F1-Score: 0.6959
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.2133 | Training F1-Score: 0.9492
+Average Validation Loss: 0.2475 | Validation F1-Score: 0.7655
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.1676 | Training F1-Score: 0.9825
+Average Validation Loss: 0.2056 | Validation F1-Score: 0.8328
+------------------------------------------------------------
+Epoch 7
+Average Training Loss: 0.1435 | Training F1-Score: 0.9825
+Average Validation Loss: 0.1858 | Validation F1-Score: 0.8402
+------------------------------------------------------------
+Epoch 8
+Average Training Loss: 0.1213 | Training F1-Score: 0.9825
+Average Validation Loss: 0.1843 | Validation F1-Score: 0.8114
+------------------------------------------------------------
+Epoch 9
+Average Training Loss: 0.0996 | Training F1-Score: 0.9825
+Average Validation Loss: 0.1780 | Validation F1-Score: 0.8208
+------------------------------------------------------------
+Epoch 10
+Average Training Loss: 0.0954 | Training F1-Score: 0.9825
+Average Validation Loss: 0.1748 | Validation F1-Score: 0.8280
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_O and dataset augmented_mixed_5.csv has finished.
+Accuracy on Validation Set: 0.947085201793722
+Precision on Validation Set: 0.7319587628865979
+Recall on Validation Set: 0.9530201342281879
+F1 Score on Validation Set (binary): 0.8279883381924198
+F1 Score on Validation Set (macro): 0.8983608887570471
+F1 Score on Validation Set (weighted): 0.9499253495743571
+
+
+Model Name: BERT
+Scenario: Scenario_AM_O
+Dataset: augmented_mixed_10.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.5619 | Training F1-Score: 0.4151
+Average Validation Loss: 0.4350 | Validation F1-Score: 0.5643
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.2821 | Training F1-Score: 0.8992
+Average Validation Loss: 0.2126 | Validation F1-Score: 0.9381
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.1667 | Training F1-Score: 0.9344
+Average Validation Loss: 0.1535 | Validation F1-Score: 0.9320
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0967 | Training F1-Score: 0.9748
+Average Validation Loss: 0.1351 | Validation F1-Score: 0.8701
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0813 | Training F1-Score: 0.9748
+Average Validation Loss: 0.1152 | Validation F1-Score: 0.9377
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0506 | Training F1-Score: 0.9915
+Average Validation Loss: 0.1096 | Validation F1-Score: 0.9435
+------------------------------------------------------------
+Epoch 7
+Average Training Loss: 0.0427 | Training F1-Score: 0.9915
+Average Validation Loss: 0.1071 | Validation F1-Score: 0.9470
+------------------------------------------------------------
+Epoch 8
+Average Training Loss: 0.0408 | Training F1-Score: 0.9915
+Average Validation Loss: 0.1074 | Validation F1-Score: 0.9498
+------------------------------------------------------------
+Epoch 9
+Average Training Loss: 0.0422 | Training F1-Score: 0.9915
+Average Validation Loss: 0.1059 | Validation F1-Score: 0.9498
+------------------------------------------------------------
+Epoch 10
+Average Training Loss: 0.0352 | Training F1-Score: 0.9915
+Average Validation Loss: 0.1057 | Validation F1-Score: 0.9530
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_O and dataset augmented_mixed_10.csv has finished.
+Accuracy on Validation Set: 0.9874439461883409
+Precision on Validation Set: 0.9530201342281879
+Recall on Validation Set: 0.9530201342281879
+F1 Score on Validation Set (binary): 0.9530201342281879
+F1 Score on Validation Set (macro): 0.9728868787082968
+F1 Score on Validation Set (weighted): 0.9874439461883409
+
+
+Model Name: BERT
+Scenario: Scenario_AM_O
+Dataset: augmented_mixed_20.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.3899 | Training F1-Score: 0.5419
+Average Validation Loss: 0.1868 | Validation F1-Score: 0.8754
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.1350 | Training F1-Score: 0.9224
+Average Validation Loss: 0.1425 | Validation F1-Score: 0.8333
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0878 | Training F1-Score: 0.9627
+Average Validation Loss: 0.1028 | Validation F1-Score: 0.9006
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0458 | Training F1-Score: 0.9793
+Average Validation Loss: 0.0826 | Validation F1-Score: 0.9632
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0368 | Training F1-Score: 0.9791
+Average Validation Loss: 0.0964 | Validation F1-Score: 0.9028
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0323 | Training F1-Score: 0.9916
+Average Validation Loss: 0.0846 | Validation F1-Score: 0.9536
+------------------------------------------------------------
+Epoch 7
+Average Training Loss: 0.0209 | Training F1-Score: 0.9916
+Average Validation Loss: 0.0862 | Validation F1-Score: 0.9568
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_O and dataset augmented_mixed_20.csv has finished.
+Accuracy on Validation Set: 0.9901345291479821
+Precision on Validation Set: 0.96
+Recall on Validation Set: 0.9664429530201343
+F1 Score on Validation Set (binary): 0.9632107023411371
+F1 Score on Validation Set (macro): 0.9787570860229766
+F1 Score on Validation Set (weighted): 0.9901484720929882
+
+
+Model Name: BERT
+Scenario: Scenario_AM_O
+Dataset: augmented_mixed_30.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.3095 | Training F1-Score: 0.6891
+Average Validation Loss: 0.1498 | Validation F1-Score: 0.8286
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.1107 | Training F1-Score: 0.9000
+Average Validation Loss: 0.1533 | Validation F1-Score: 0.7807
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0657 | Training F1-Score: 0.9514
+Average Validation Loss: 0.0870 | Validation F1-Score: 0.9416
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0482 | Training F1-Score: 0.9644
+Average Validation Loss: 0.0855 | Validation F1-Score: 0.9148
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0265 | Training F1-Score: 0.9834
+Average Validation Loss: 0.1005 | Validation F1-Score: 0.9627
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0186 | Training F1-Score: 0.9944
+Average Validation Loss: 0.0902 | Validation F1-Score: 0.9600
+------------------------------------------------------------
+Epoch 7
+Average Training Loss: 0.0182 | Training F1-Score: 0.9944
+Average Validation Loss: 0.0914 | Validation F1-Score: 0.9600
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_O and dataset augmented_mixed_30.csv has finished.
+Accuracy on Validation Set: 0.9757847533632287
+Precision on Validation Set: 0.8630952380952381
+Recall on Validation Set: 0.9731543624161074
+F1 Score on Validation Set (binary): 0.9148264984227129
+F1 Score on Validation Set (macro): 0.9503562706436617
+F1 Score on Validation Set (weighted): 0.9763901934279804
+
+
+Model Name: BERT
+Scenario: Scenario_AM_O
+Dataset: augmented_mixed_40.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.2691 | Training F1-Score: 0.7881
+Average Validation Loss: 0.1530 | Validation F1-Score: 0.8056
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0636 | Training F1-Score: 0.9631
+Average Validation Loss: 0.1526 | Validation F1-Score: 0.7796
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0376 | Training F1-Score: 0.9713
+Average Validation Loss: 0.0967 | Validation F1-Score: 0.9351
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0215 | Training F1-Score: 0.9896
+Average Validation Loss: 0.1008 | Validation F1-Score: 0.9381
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0109 | Training F1-Score: 0.9916
+Average Validation Loss: 0.1012 | Validation F1-Score: 0.9474
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0057 | Training F1-Score: 0.9958
+Average Validation Loss: 0.1077 | Validation F1-Score: 0.9474
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_O and dataset augmented_mixed_40.csv has finished.
+Accuracy on Validation Set: 0.9820627802690582
+Precision on Validation Set: 0.9056603773584906
+Recall on Validation Set: 0.9664429530201343
+F1 Score on Validation Set (binary): 0.935064935064935
+F1 Score on Validation Set (macro): 0.9623295539008339
+F1 Score on Validation Set (weighted): 0.9823073059985282
+
+
+Model Name: BERT
+Scenario: Scenario_AM_O
+Dataset: augmented_mixed_50.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.2325 | Training F1-Score: 0.6573
+Average Validation Loss: 0.1461 | Validation F1-Score: 0.8045
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0693 | Training F1-Score: 0.9353
+Average Validation Loss: 0.1025 | Validation F1-Score: 0.8716
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0383 | Training F1-Score: 0.9720
+Average Validation Loss: 0.1072 | Validation F1-Score: 0.9589
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0165 | Training F1-Score: 0.9884
+Average Validation Loss: 0.0939 | Validation F1-Score: 0.9533
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0056 | Training F1-Score: 0.9983
+Average Validation Loss: 0.1114 | Validation F1-Score: 0.9530
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0035 | Training F1-Score: 0.9967
+Average Validation Loss: 0.1092 | Validation F1-Score: 0.9502
+------------------------------------------------------------
+Epoch 7
+Average Training Loss: 0.0020 | Training F1-Score: 1.0000
+Average Validation Loss: 0.1138 | Validation F1-Score: 0.9533
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_O and dataset augmented_mixed_50.csv has finished.
+Accuracy on Validation Set: 0.9874439461883409
+Precision on Validation Set: 0.9470198675496688
+Recall on Validation Set: 0.959731543624161
+F1 Score on Validation Set (binary): 0.9533333333333331
+F1 Score on Validation Set (macro): 0.9730397236614852
+F1 Score on Validation Set (weighted): 0.9874792939736827
+
+
+Model Name: BERT
+Scenario: Scenario_AM_O
+Dataset: augmented_mixed_60.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.2228 | Training F1-Score: 0.7947
+Average Validation Loss: 0.0882 | Validation F1-Score: 0.9474
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0529 | Training F1-Score: 0.9590
+Average Validation Loss: 0.0878 | Validation F1-Score: 0.9231
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0258 | Training F1-Score: 0.9753
+Average Validation Loss: 0.0931 | Validation F1-Score: 0.9796
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0103 | Training F1-Score: 0.9944
+Average Validation Loss: 0.0953 | Validation F1-Score: 0.9664
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0058 | Training F1-Score: 0.9972
+Average Validation Loss: 0.0967 | Validation F1-Score: 0.9568
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_O and dataset augmented_mixed_60.csv has finished.
+Accuracy on Validation Set: 0.97847533632287
+Precision on Validation Set: 0.8834355828220859
+Recall on Validation Set: 0.9664429530201343
+F1 Score on Validation Set (binary): 0.923076923076923
+F1 Score on Validation Set (macro): 0.9552819443330391
+F1 Score on Validation Set (weighted): 0.9788797043027674
+
+
+Model Name: BERT
+Scenario: Scenario_AM_O
+Dataset: augmented_mixed_70.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1942 | Training F1-Score: 0.8167
+Average Validation Loss: 0.1022 | Validation F1-Score: 0.9595
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0674 | Training F1-Score: 0.9455
+Average Validation Loss: 0.0778 | Validation F1-Score: 0.9630
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0294 | Training F1-Score: 0.9857
+Average Validation Loss: 0.0730 | Validation F1-Score: 0.9508
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0093 | Training F1-Score: 0.9940
+Average Validation Loss: 0.0813 | Validation F1-Score: 0.9667
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0044 | Training F1-Score: 0.9988
+Average Validation Loss: 0.0844 | Validation F1-Score: 0.9699
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0026 | Training F1-Score: 0.9988
+Average Validation Loss: 0.0858 | Validation F1-Score: 0.9699
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_O and dataset augmented_mixed_70.csv has finished.
+Accuracy on Validation Set: 0.9865470852017937
+Precision on Validation Set: 0.9294871794871795
+Recall on Validation Set: 0.9731543624161074
+F1 Score on Validation Set (binary): 0.9508196721311476
+F1 Score on Validation Set (macro): 0.97151373216947
+F1 Score on Validation Set (weighted): 0.9866770030675054
+
+
+Model Name: BERT
+Scenario: Scenario_AM_O
+Dataset: augmented_mixed_80.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1877 | Training F1-Score: 0.7958
+Average Validation Loss: 0.1063 | Validation F1-Score: 0.8538
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0435 | Training F1-Score: 0.9478
+Average Validation Loss: 0.0822 | Validation F1-Score: 0.8769
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0191 | Training F1-Score: 0.9794
+Average Validation Loss: 0.0730 | Validation F1-Score: 0.9699
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0093 | Training F1-Score: 0.9917
+Average Validation Loss: 0.1060 | Validation F1-Score: 0.9763
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0031 | Training F1-Score: 0.9990
+Average Validation Loss: 0.1106 | Validation F1-Score: 0.9795
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0013 | Training F1-Score: 1.0000
+Average Validation Loss: 0.1309 | Validation F1-Score: 0.9724
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_O and dataset augmented_mixed_80.csv has finished.
+Accuracy on Validation Set: 0.9919282511210762
+Precision on Validation Set: 0.9666666666666667
+Recall on Validation Set: 0.9731543624161074
+F1 Score on Validation Set (binary): 0.9698996655518394
+F1 Score on Validation Set (macro): 0.982619434018799
+F1 Score on Validation Set (weighted): 0.9919396589851721
+
+
+Model Name: BERT
+Scenario: Scenario_AM_O
+Dataset: augmented_mixed_90.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1750 | Training F1-Score: 0.7991
+Average Validation Loss: 0.0663 | Validation F1-Score: 0.9733
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0562 | Training F1-Score: 0.9471
+Average Validation Loss: 0.0740 | Validation F1-Score: 0.9359
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0310 | Training F1-Score: 0.9771
+Average Validation Loss: 0.0693 | Validation F1-Score: 0.9603
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0223 | Training F1-Score: 0.9889
+Average Validation Loss: 0.0809 | Validation F1-Score: 0.9730
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_O and dataset augmented_mixed_90.csv has finished.
+Accuracy on Validation Set: 0.9928251121076234
+Precision on Validation Set: 0.9668874172185431
+Recall on Validation Set: 0.9798657718120806
+F1 Score on Validation Set (binary): 0.9733333333333333
+F1 Score on Validation Set (macro): 0.9845941278065631
+F1 Score on Validation Set (weighted): 0.9928453108421046
+
+
+Model Name: BERT
+Scenario: Scenario_AM_O
+Dataset: augmented_mixed_100.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1761 | Training F1-Score: 0.8387
+Average Validation Loss: 0.0755 | Validation F1-Score: 0.9796
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0489 | Training F1-Score: 0.9623
+Average Validation Loss: 0.0787 | Validation F1-Score: 0.9508
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0248 | Training F1-Score: 0.9673
+Average Validation Loss: 0.0768 | Validation F1-Score: 0.9635
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0034 | Training F1-Score: 0.9992
+Average Validation Loss: 0.0877 | Validation F1-Score: 0.9699
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_O and dataset augmented_mixed_100.csv has finished.
+Accuracy on Validation Set: 0.9946188340807175
+Precision on Validation Set: 0.993103448275862
+Recall on Validation Set: 0.9664429530201343
+F1 Score on Validation Set (binary): 0.9795918367346937
+F1 Score on Validation Set (macro): 0.9882463315904874
+F1 Score on Validation Set (weighted): 0.9945877865655397
+
+
+Model Name: BERT
+Scenario: Scenario_AM_F
+Dataset: augmented_mixed_5.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.6647 | Training F1-Score: 0.3488
+Average Validation Loss: 0.5872 | Validation F1-Score: 0.6967
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.5224 | Training F1-Score: 0.4341
+Average Validation Loss: 0.4883 | Validation F1-Score: 0.4550
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.3977 | Training F1-Score: 0.7467
+Average Validation Loss: 0.3392 | Validation F1-Score: 0.8851
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.3042 | Training F1-Score: 0.9643
+Average Validation Loss: 0.2579 | Validation F1-Score: 0.9223
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.2158 | Training F1-Score: 0.9655
+Average Validation Loss: 0.2218 | Validation F1-Score: 0.8702
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.1613 | Training F1-Score: 0.9655
+Average Validation Loss: 0.1956 | Validation F1-Score: 0.8889
+------------------------------------------------------------
+Epoch 7
+Average Training Loss: 0.1281 | Training F1-Score: 0.9825
+Average Validation Loss: 0.1675 | Validation F1-Score: 0.9160
+------------------------------------------------------------
+Epoch 8
+Average Training Loss: 0.1123 | Training F1-Score: 0.9825
+Average Validation Loss: 0.1509 | Validation F1-Score: 0.9242
+------------------------------------------------------------
+Epoch 9
+Average Training Loss: 0.1156 | Training F1-Score: 0.9825
+Average Validation Loss: 0.1439 | Validation F1-Score: 0.9236
+------------------------------------------------------------
+Epoch 10
+Average Training Loss: 0.0943 | Training F1-Score: 0.9825
+Average Validation Loss: 0.1426 | Validation F1-Score: 0.9165
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_F and dataset augmented_mixed_5.csv has finished.
+Accuracy on Validation Set: 0.9764895908111989
+Precision on Validation Set: 0.8746958637469586
+Recall on Validation Set: 0.9625167336010709
+F1 Score on Validation Set (binary): 0.9165073295092415
+F1 Score on Validation Set (macro): 0.9514129336841247
+F1 Score on Validation Set (weighted): 0.9769594257561229
+
+
+Model Name: BERT
+Scenario: Scenario_AM_F
+Dataset: augmented_mixed_10.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.5705 | Training F1-Score: 0.4737
+Average Validation Loss: 0.4054 | Validation F1-Score: 0.6550
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.2218 | Training F1-Score: 0.9194
+Average Validation Loss: 0.1633 | Validation F1-Score: 0.9099
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0821 | Training F1-Score: 0.9508
+Average Validation Loss: 0.1104 | Validation F1-Score: 0.9423
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0460 | Training F1-Score: 0.9831
+Average Validation Loss: 0.0974 | Validation F1-Score: 0.9411
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0266 | Training F1-Score: 0.9915
+Average Validation Loss: 0.1071 | Validation F1-Score: 0.9469
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0212 | Training F1-Score: 0.9915
+Average Validation Loss: 0.1007 | Validation F1-Score: 0.9446
+------------------------------------------------------------
+Epoch 7
+Average Training Loss: 0.0155 | Training F1-Score: 1.0000
+Average Validation Loss: 0.1019 | Validation F1-Score: 0.9465
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_F and dataset augmented_mixed_10.csv has finished.
+Accuracy on Validation Set: 0.9840272792534099
+Precision on Validation Set: 0.930628272251309
+Recall on Validation Set: 0.9518072289156626
+F1 Score on Validation Set (binary): 0.9410986101919259
+F1 Score on Validation Set (macro): 0.9659297680877619
+F1 Score on Validation Set (weighted): 0.9841030383496462
+
+
+Model Name: BERT
+Scenario: Scenario_AM_F
+Dataset: augmented_mixed_20.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.3572 | Training F1-Score: 0.6346
+Average Validation Loss: 0.1525 | Validation F1-Score: 0.9393
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.1020 | Training F1-Score: 0.9393
+Average Validation Loss: 0.1012 | Validation F1-Score: 0.9555
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0395 | Training F1-Score: 0.9793
+Average Validation Loss: 0.1030 | Validation F1-Score: 0.9521
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0227 | Training F1-Score: 0.9916
+Average Validation Loss: 0.0942 | Validation F1-Score: 0.9563
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0164 | Training F1-Score: 0.9916
+Average Validation Loss: 0.1004 | Validation F1-Score: 0.9573
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0088 | Training F1-Score: 1.0000
+Average Validation Loss: 0.1057 | Validation F1-Score: 0.9579
+------------------------------------------------------------
+Epoch 7
+Average Training Loss: 0.0070 | Training F1-Score: 1.0000
+Average Validation Loss: 0.0976 | Validation F1-Score: 0.9540
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_F and dataset augmented_mixed_20.csv has finished.
+Accuracy on Validation Set: 0.9883345297918162
+Precision on Validation Set: 0.9595687331536388
+Recall on Validation Set: 0.9531459170013387
+F1 Score on Validation Set (binary): 0.9563465413028878
+F1 Score on Validation Set (macro): 0.9748071391133807
+F1 Score on Validation Set (weighted): 0.9883179642876789
+
+
+Model Name: BERT
+Scenario: Scenario_AM_F
+Dataset: augmented_mixed_30.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.3914 | Training F1-Score: 0.6941
+Average Validation Loss: 0.1855 | Validation F1-Score: 0.8145
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.1155 | Training F1-Score: 0.9370
+Average Validation Loss: 0.1087 | Validation F1-Score: 0.8702
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0573 | Training F1-Score: 0.9694
+Average Validation Loss: 0.0904 | Validation F1-Score: 0.8936
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0225 | Training F1-Score: 0.9888
+Average Validation Loss: 0.0775 | Validation F1-Score: 0.9562
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0104 | Training F1-Score: 0.9972
+Average Validation Loss: 0.0811 | Validation F1-Score: 0.9506
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0060 | Training F1-Score: 1.0000
+Average Validation Loss: 0.0874 | Validation F1-Score: 0.9535
+------------------------------------------------------------
+Epoch 7
+Average Training Loss: 0.0039 | Training F1-Score: 1.0000
+Average Validation Loss: 0.0822 | Validation F1-Score: 0.9476
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_F and dataset augmented_mixed_30.csv has finished.
+Accuracy on Validation Set: 0.9881550610193827
+Precision on Validation Set: 0.9474375821287779
+Recall on Validation Set: 0.965194109772423
+F1 Score on Validation Set (binary): 0.9562334217506631
+F1 Score on Validation Set (macro): 0.974692053341085
+F1 Score on Validation Set (weighted): 0.9882014394907154
+
+
+Model Name: BERT
+Scenario: Scenario_AM_F
+Dataset: augmented_mixed_40.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.2270 | Training F1-Score: 0.8439
+Average Validation Loss: 0.1837 | Validation F1-Score: 0.7625
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0648 | Training F1-Score: 0.9533
+Average Validation Loss: 0.0793 | Validation F1-Score: 0.9476
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0422 | Training F1-Score: 0.9613
+Average Validation Loss: 0.1497 | Validation F1-Score: 0.7929
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0265 | Training F1-Score: 0.9733
+Average Validation Loss: 0.0769 | Validation F1-Score: 0.9381
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0134 | Training F1-Score: 0.9937
+Average Validation Loss: 0.0774 | Validation F1-Score: 0.9411
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0085 | Training F1-Score: 0.9979
+Average Validation Loss: 0.0785 | Validation F1-Score: 0.9478
+------------------------------------------------------------
+Epoch 7
+Average Training Loss: 0.0045 | Training F1-Score: 1.0000
+Average Validation Loss: 0.0800 | Validation F1-Score: 0.9572
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_F and dataset augmented_mixed_40.csv has finished.
+Accuracy on Validation Set: 0.9827709978463748
+Precision on Validation Set: 0.9043478260869565
+Recall on Validation Set: 0.9745649263721553
+F1 Score on Validation Set (binary): 0.9381443298969072
+F1 Score on Validation Set (macro): 0.9640679948066688
+F1 Score on Validation Set (weighted): 0.9830408421688382
+
+
+Model Name: BERT
+Scenario: Scenario_AM_F
+Dataset: augmented_mixed_50.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.2882 | Training F1-Score: 0.6573
+Average Validation Loss: 0.1065 | Validation F1-Score: 0.9161
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0871 | Training F1-Score: 0.9353
+Average Validation Loss: 0.0883 | Validation F1-Score: 0.9190
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0438 | Training F1-Score: 0.9800
+Average Validation Loss: 0.0972 | Validation F1-Score: 0.8664
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0257 | Training F1-Score: 0.9851
+Average Validation Loss: 0.0777 | Validation F1-Score: 0.9703
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0193 | Training F1-Score: 0.9933
+Average Validation Loss: 0.0707 | Validation F1-Score: 0.9497
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0116 | Training F1-Score: 0.9950
+Average Validation Loss: 0.0764 | Validation F1-Score: 0.9658
+------------------------------------------------------------
+Epoch 7
+Average Training Loss: 0.0131 | Training F1-Score: 0.9966
+Average Validation Loss: 0.0756 | Validation F1-Score: 0.9666
+------------------------------------------------------------
+Epoch 8
+Average Training Loss: 0.0106 | Training F1-Score: 0.9966
+Average Validation Loss: 0.0758 | Validation F1-Score: 0.9666
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_F and dataset augmented_mixed_50.csv has finished.
+Accuracy on Validation Set: 0.9861809045226131
+Precision on Validation Set: 0.9272959183673469
+Recall on Validation Set: 0.9732262382864793
+F1 Score on Validation Set (binary): 0.9497060744611365
+F1 Score on Validation Set (macro): 0.9708480439922451
+F1 Score on Validation Set (weighted): 0.9863212944854004
+
+
+Model Name: BERT
+Scenario: Scenario_AM_F
+Dataset: augmented_mixed_60.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.2072 | Training F1-Score: 0.7588
+Average Validation Loss: 0.0751 | Validation F1-Score: 0.9594
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0517 | Training F1-Score: 0.9590
+Average Validation Loss: 0.0608 | Validation F1-Score: 0.9705
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0148 | Training F1-Score: 0.9916
+Average Validation Loss: 0.0542 | Validation F1-Score: 0.9564
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0063 | Training F1-Score: 0.9944
+Average Validation Loss: 0.0655 | Validation F1-Score: 0.9758
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0029 | Training F1-Score: 0.9986
+Average Validation Loss: 0.0864 | Validation F1-Score: 0.9782
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0021 | Training F1-Score: 1.0000
+Average Validation Loss: 0.0803 | Validation F1-Score: 0.9803
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_F and dataset augmented_mixed_60.csv has finished.
+Accuracy on Validation Set: 0.9879755922469491
+Precision on Validation Set: 0.9314720812182741
+Recall on Validation Set: 0.9825970548862115
+F1 Score on Validation Set (binary): 0.9563517915309446
+F1 Score on Validation Set (macro): 0.97468958085237
+F1 Score on Validation Set (weighted): 0.9881105257290341
+
+
+Model Name: BERT
+Scenario: Scenario_AM_F
+Dataset: augmented_mixed_70.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1925 | Training F1-Score: 0.8493
+Average Validation Loss: 0.0855 | Validation F1-Score: 0.9302
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0587 | Training F1-Score: 0.9512
+Average Validation Loss: 0.0666 | Validation F1-Score: 0.9567
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0319 | Training F1-Score: 0.9716
+Average Validation Loss: 0.0674 | Validation F1-Score: 0.9547
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0119 | Training F1-Score: 0.9917
+Average Validation Loss: 0.0765 | Validation F1-Score: 0.9671
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0064 | Training F1-Score: 0.9964
+Average Validation Loss: 0.0872 | Validation F1-Score: 0.9657
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_F and dataset augmented_mixed_70.csv has finished.
+Accuracy on Validation Set: 0.9883345297918162
+Precision on Validation Set: 0.9522546419098143
+Recall on Validation Set: 0.9611780455153949
+F1 Score on Validation Set (binary): 0.9566955363091273
+F1 Score on Validation Set (macro): 0.9749774477148665
+F1 Score on Validation Set (weighted): 0.9883574970172003
+
+
+Model Name: BERT
+Scenario: Scenario_AM_F
+Dataset: augmented_mixed_80.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1805 | Training F1-Score: 0.8110
+Average Validation Loss: 0.0790 | Validation F1-Score: 0.9677
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0657 | Training F1-Score: 0.9491
+Average Validation Loss: 0.0667 | Validation F1-Score: 0.9515
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0290 | Training F1-Score: 0.9793
+Average Validation Loss: 0.0668 | Validation F1-Score: 0.9653
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0165 | Training F1-Score: 0.9886
+Average Validation Loss: 0.0564 | Validation F1-Score: 0.9765
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0070 | Training F1-Score: 0.9958
+Average Validation Loss: 0.0646 | Validation F1-Score: 0.9798
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0106 | Training F1-Score: 0.9865
+Average Validation Loss: 0.0629 | Validation F1-Score: 0.9785
+------------------------------------------------------------
+Epoch 7
+Average Training Loss: 0.0026 | Training F1-Score: 0.9979
+Average Validation Loss: 0.0854 | Validation F1-Score: 0.9816
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_F and dataset augmented_mixed_80.csv has finished.
+Accuracy on Validation Set: 0.9937185929648241
+Precision on Validation Set: 0.978494623655914
+Recall on Validation Set: 0.9745649263721553
+F1 Score on Validation Set (binary): 0.976525821596244
+F1 Score on Validation Set (macro): 0.9864500028938435
+F1 Score on Validation Set (weighted): 0.9937132497229195
+
+
+Model Name: BERT
+Scenario: Scenario_AM_F
+Dataset: augmented_mixed_90.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1658 | Training F1-Score: 0.8280
+Average Validation Loss: 0.0675 | Validation F1-Score: 0.9327
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0531 | Training F1-Score: 0.9575
+Average Validation Loss: 0.0561 | Validation F1-Score: 0.9500
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0209 | Training F1-Score: 0.9807
+Average Validation Loss: 0.0641 | Validation F1-Score: 0.9784
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0089 | Training F1-Score: 0.9908
+Average Validation Loss: 0.0697 | Validation F1-Score: 0.9810
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0032 | Training F1-Score: 0.9972
+Average Validation Loss: 0.0664 | Validation F1-Score: 0.9825
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_F and dataset augmented_mixed_90.csv has finished.
+Accuracy on Validation Set: 0.9861809045226131
+Precision on Validation Set: 0.922979797979798
+Recall on Validation Set: 0.9785809906291834
+F1 Score on Validation Set (binary): 0.9499675113710201
+F1 Score on Validation Set (macro): 0.9709754266901951
+F1 Score on Validation Set (weighted): 0.9863505664374305
+
+
+Model Name: BERT
+Scenario: Scenario_AM_F
+Dataset: augmented_mixed_100.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1666 | Training F1-Score: 0.8670
+Average Validation Loss: 0.1421 | Validation F1-Score: 0.7996
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0610 | Training F1-Score: 0.9490
+Average Validation Loss: 0.0643 | Validation F1-Score: 0.9157
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0347 | Training F1-Score: 0.9768
+Average Validation Loss: 0.0432 | Validation F1-Score: 0.9786
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0204 | Training F1-Score: 0.9809
+Average Validation Loss: 0.0549 | Validation F1-Score: 0.9509
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0121 | Training F1-Score: 0.9917
+Average Validation Loss: 0.0478 | Validation F1-Score: 0.9838
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0069 | Training F1-Score: 0.9983
+Average Validation Loss: 0.0472 | Validation F1-Score: 0.9852
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_AM_F and dataset augmented_mixed_100.csv has finished.
+Accuracy on Validation Set: 0.994256999282125
+Precision on Validation Set: 0.9773030707610146
+Recall on Validation Set: 0.9799196787148594
+F1 Score on Validation Set (binary): 0.9786096256684491
+F1 Score on Validation Set (macro): 0.9876464380415214
+F1 Score on Validation Set (weighted): 0.9942602429333716
+
+
+Model Name: BERT
+Scenario: Scenario_OGM_O
+Dataset: original
+================================================================================
+Epoch 1
+Average Training Loss: 0.1481 | Training F1-Score: 0.9097
+Average Validation Loss: 0.0741 | Validation F1-Score: 0.9412
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0349 | Training F1-Score: 0.9768
+Average Validation Loss: 0.0808 | Validation F1-Score: 0.9664
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0307 | Training F1-Score: 0.9673
+Average Validation Loss: 0.0784 | Validation F1-Score: 0.9730
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0076 | Training F1-Score: 0.9950
+Average Validation Loss: 0.0955 | Validation F1-Score: 0.9697
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OGM_O and dataset original has finished.
+Accuracy on Validation Set: 0.9838565022421525
+Precision on Validation Set: 0.9171974522292994
+Recall on Validation Set: 0.9664429530201343
+F1 Score on Validation Set (binary): 0.9411764705882353
+F1 Score on Validation Set (macro): 0.965910480616363
+F1 Score on Validation Set (weighted): 0.984033965991233
+
+
+Model Name: BERT
+Scenario: Scenario_OGM_O
+Dataset: generated_350_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1563 | Training F1-Score: 0.8779
+Average Validation Loss: 0.0550 | Validation F1-Score: 0.9667
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0318 | Training F1-Score: 0.9827
+Average Validation Loss: 0.0497 | Validation F1-Score: 0.9574
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0089 | Training F1-Score: 0.9968
+Average Validation Loss: 0.0572 | Validation F1-Score: 0.9728
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0044 | Training F1-Score: 0.9989
+Average Validation Loss: 0.0471 | Validation F1-Score: 0.9733
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0011 | Training F1-Score: 1.0000
+Average Validation Loss: 0.0600 | Validation F1-Score: 0.9730
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0008 | Training F1-Score: 1.0000
+Average Validation Loss: 0.0543 | Validation F1-Score: 0.9699
+------------------------------------------------------------
+Epoch 7
+Average Training Loss: 0.0006 | Training F1-Score: 1.0000
+Average Validation Loss: 0.0586 | Validation F1-Score: 0.9732
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OGM_O and dataset generated_350_each.csv has finished.
+Accuracy on Validation Set: 0.9928251121076234
+Precision on Validation Set: 0.9668874172185431
+Recall on Validation Set: 0.9798657718120806
+F1 Score on Validation Set (binary): 0.9733333333333333
+F1 Score on Validation Set (macro): 0.9845941278065631
+F1 Score on Validation Set (weighted): 0.9928453108421046
+
+
+Model Name: BERT
+Scenario: Scenario_OGM_O
+Dataset: generated_500_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1605 | Training F1-Score: 0.8655
+Average Validation Loss: 0.0564 | Validation F1-Score: 0.9419
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0231 | Training F1-Score: 0.9887
+Average Validation Loss: 0.0478 | Validation F1-Score: 0.9574
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0120 | Training F1-Score: 0.9932
+Average Validation Loss: 0.0661 | Validation F1-Score: 0.9241
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0056 | Training F1-Score: 0.9959
+Average Validation Loss: 0.0594 | Validation F1-Score: 0.9577
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0010 | Training F1-Score: 0.9995
+Average Validation Loss: 0.0629 | Validation F1-Score: 0.9630
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OGM_O and dataset generated_500_each.csv has finished.
+Accuracy on Validation Set: 0.9883408071748879
+Precision on Validation Set: 0.9358974358974359
+Recall on Validation Set: 0.9798657718120806
+F1 Score on Validation Set (binary): 0.957377049180328
+F1 Score on Validation Set (macro): 0.9753119012135406
+F1 Score on Validation Set (weighted): 0.9884534026585045
+
+
+Model Name: BERT
+Scenario: Scenario_OGM_O
+Dataset: generated_1000_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1399 | Training F1-Score: 0.9289
+Average Validation Loss: 0.0542 | Validation F1-Score: 0.9511
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0330 | Training F1-Score: 0.9829
+Average Validation Loss: 0.0547 | Validation F1-Score: 0.9571
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0077 | Training F1-Score: 0.9975
+Average Validation Loss: 0.0488 | Validation F1-Score: 0.9671
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0055 | Training F1-Score: 0.9978
+Average Validation Loss: 0.0545 | Validation F1-Score: 0.9608
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0018 | Training F1-Score: 0.9991
+Average Validation Loss: 0.0558 | Validation F1-Score: 0.9733
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0010 | Training F1-Score: 0.9997
+Average Validation Loss: 0.0586 | Validation F1-Score: 0.9671
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OGM_O and dataset generated_1000_each.csv has finished.
+Accuracy on Validation Set: 0.9910313901345291
+Precision on Validation Set: 0.9483870967741935
+Recall on Validation Set: 0.9865771812080537
+F1 Score on Validation Set (binary): 0.9671052631578947
+F1 Score on Validation Set (macro): 0.9809565775810242
+F1 Score on Validation Set (weighted): 0.9911059263556401
+
+
+Model Name: BERT
+Scenario: Scenario_OGM_O
+Dataset: generated_1500_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1116 | Training F1-Score: 0.9393
+Average Validation Loss: 0.0442 | Validation F1-Score: 0.9577
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0216 | Training F1-Score: 0.9919
+Average Validation Loss: 0.0529 | Validation F1-Score: 0.9600
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0140 | Training F1-Score: 0.9943
+Average Validation Loss: 0.0501 | Validation F1-Score: 0.9664
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0027 | Training F1-Score: 0.9986
+Average Validation Loss: 0.0750 | Validation F1-Score: 0.9695
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OGM_O and dataset generated_1500_each.csv has finished.
+Accuracy on Validation Set: 0.9883408071748879
+Precision on Validation Set: 0.930379746835443
+Recall on Validation Set: 0.9865771812080537
+F1 Score on Validation Set (binary): 0.9576547231270359
+F1 Score on Validation Set (macro): 0.9754472263581098
+F1 Score on Validation Set (weighted): 0.9884844237928967
+
+
+Model Name: BERT
+Scenario: Scenario_OGM_O
+Dataset: generated_2000_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1131 | Training F1-Score: 0.9503
+Average Validation Loss: 0.0487 | Validation F1-Score: 0.9667
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0214 | Training F1-Score: 0.9914
+Average Validation Loss: 0.0484 | Validation F1-Score: 0.9761
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0069 | Training F1-Score: 0.9975
+Average Validation Loss: 0.0543 | Validation F1-Score: 0.9481
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0015 | Training F1-Score: 0.9996
+Average Validation Loss: 0.0757 | Validation F1-Score: 0.9630
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0009 | Training F1-Score: 0.9996
+Average Validation Loss: 0.0670 | Validation F1-Score: 0.9632
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OGM_O and dataset generated_2000_each.csv has finished.
+Accuracy on Validation Set: 0.9937219730941704
+Precision on Validation Set: 0.9930555555555556
+Recall on Validation Set: 0.959731543624161
+F1 Score on Validation Set (binary): 0.9761092150170648
+F1 Score on Validation Set (macro): 0.9862476895942319
+F1 Score on Validation Set (weighted): 0.9936765090826136
+
+
+Model Name: BERT
+Scenario: Scenario_OGM_O
+Dataset: generated_2500_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0961 | Training F1-Score: 0.9575
+Average Validation Loss: 0.0473 | Validation F1-Score: 0.9363
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0158 | Training F1-Score: 0.9932
+Average Validation Loss: 0.0371 | Validation F1-Score: 0.9662
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0058 | Training F1-Score: 0.9982
+Average Validation Loss: 0.0446 | Validation F1-Score: 0.9660
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0016 | Training F1-Score: 0.9994
+Average Validation Loss: 0.0465 | Validation F1-Score: 0.9662
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0004 | Training F1-Score: 1.0000
+Average Validation Loss: 0.0577 | Validation F1-Score: 0.9763
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OGM_O and dataset generated_2500_each.csv has finished.
+Accuracy on Validation Set: 0.9910313901345291
+Precision on Validation Set: 0.9727891156462585
+Recall on Validation Set: 0.959731543624161
+F1 Score on Validation Set (binary): 0.9662162162162162
+F1 Score on Validation Set (macro): 0.9805227926996283
+F1 Score on Validation Set (weighted): 0.991005728113931
+
+
+Model Name: BERT
+Scenario: Scenario_OGM_O
+Dataset: generated_3000_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0887 | Training F1-Score: 0.9590
+Average Validation Loss: 0.1584 | Validation F1-Score: 0.8209
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0168 | Training F1-Score: 0.9925
+Average Validation Loss: 0.0377 | Validation F1-Score: 0.9735
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0073 | Training F1-Score: 0.9965
+Average Validation Loss: 0.0456 | Validation F1-Score: 0.9699
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0026 | Training F1-Score: 0.9992
+Average Validation Loss: 0.0432 | Validation F1-Score: 0.9697
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0003 | Training F1-Score: 1.0000
+Average Validation Loss: 0.0448 | Validation F1-Score: 0.9767
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OGM_O and dataset generated_3000_each.csv has finished.
+Accuracy on Validation Set: 0.9928251121076234
+Precision on Validation Set: 0.9607843137254902
+Recall on Validation Set: 0.9865771812080537
+F1 Score on Validation Set (binary): 0.9735099337748345
+F1 Score on Validation Set (macro): 0.9846802780907367
+F1 Score on Validation Set (weighted): 0.9928651850917162
+
+
+Model Name: BERT
+Scenario: Scenario_OGM_O
+Dataset: generated_3500_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0881 | Training F1-Score: 0.9623
+Average Validation Loss: 0.0415 | Validation F1-Score: 0.9595
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0165 | Training F1-Score: 0.9950
+Average Validation Loss: 0.0456 | Validation F1-Score: 0.9545
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0060 | Training F1-Score: 0.9983
+Average Validation Loss: 0.0427 | Validation F1-Score: 0.9730
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0015 | Training F1-Score: 0.9998
+Average Validation Loss: 0.0411 | Validation F1-Score: 0.9767
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0059 | Training F1-Score: 0.9976
+Average Validation Loss: 0.0434 | Validation F1-Score: 0.9632
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0008 | Training F1-Score: 0.9998
+Average Validation Loss: 0.0475 | Validation F1-Score: 0.9732
+------------------------------------------------------------
+Epoch 7
+Average Training Loss: 0.0002 | Training F1-Score: 1.0000
+Average Validation Loss: 0.0480 | Validation F1-Score: 0.9732
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OGM_O and dataset generated_3500_each.csv has finished.
+Accuracy on Validation Set: 0.9937219730941704
+Precision on Validation Set: 0.9671052631578947
+Recall on Validation Set: 0.9865771812080537
+F1 Score on Validation Set (binary): 0.9767441860465117
+F1 Score on Validation Set (macro): 0.9865576814110215
+F1 Score on Validation Set (weighted): 0.9937483771175727
+
+
+Model Name: BERT
+Scenario: Scenario_OGM_O
+Dataset: generated_4000_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0817 | Training F1-Score: 0.9677
+Average Validation Loss: 0.0361 | Validation F1-Score: 0.9697
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0182 | Training F1-Score: 0.9938
+Average Validation Loss: 0.0426 | Validation F1-Score: 0.9627
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0062 | Training F1-Score: 0.9982
+Average Validation Loss: 0.0664 | Validation F1-Score: 0.9359
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0049 | Training F1-Score: 0.9985
+Average Validation Loss: 0.0475 | Validation F1-Score: 0.9730
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OGM_O and dataset generated_4000_each.csv has finished.
+Accuracy on Validation Set: 0.9919282511210762
+Precision on Validation Set: 0.972972972972973
+Recall on Validation Set: 0.9664429530201343
+F1 Score on Validation Set (binary): 0.9696969696969697
+F1 Score on Validation Set (macro): 0.9825204972644187
+F1 Score on Validation Set (weighted): 0.9919167501994911
+
+
+Model Name: BERT
+Scenario: Scenario_OGM_O
+Dataset: generated_4500_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0811 | Training F1-Score: 0.9675
+Average Validation Loss: 0.0422 | Validation F1-Score: 0.9669
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0152 | Training F1-Score: 0.9947
+Average Validation Loss: 0.0358 | Validation F1-Score: 0.9732
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0083 | Training F1-Score: 0.9973
+Average Validation Loss: 0.0482 | Validation F1-Score: 0.9632
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0035 | Training F1-Score: 0.9987
+Average Validation Loss: 0.0585 | Validation F1-Score: 0.9515
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0027 | Training F1-Score: 0.9990
+Average Validation Loss: 0.0474 | Validation F1-Score: 0.9630
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OGM_O and dataset generated_4500_each.csv has finished.
+Accuracy on Validation Set: 0.9928251121076234
+Precision on Validation Set: 0.9731543624161074
+Recall on Validation Set: 0.9731543624161074
+F1 Score on Validation Set (binary): 0.9731543624161074
+F1 Score on Validation Set (macro): 0.9845067878333125
+F1 Score on Validation Set (weighted): 0.9928251121076234
+
+
+Model Name: BERT
+Scenario: Scenario_OGM_O
+Dataset: generated_5000_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0711 | Training F1-Score: 0.9690
+Average Validation Loss: 0.0443 | Validation F1-Score: 0.9697
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0125 | Training F1-Score: 0.9958
+Average Validation Loss: 0.0339 | Validation F1-Score: 0.9608
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0035 | Training F1-Score: 0.9988
+Average Validation Loss: 0.0518 | Validation F1-Score: 0.9605
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0038 | Training F1-Score: 0.9984
+Average Validation Loss: 0.0724 | Validation F1-Score: 0.9453
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0019 | Training F1-Score: 0.9992
+Average Validation Loss: 0.0496 | Validation F1-Score: 0.9667
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_OGM_O and dataset generated_5000_each.csv has finished.
+Accuracy on Validation Set: 0.989237668161435
+Precision on Validation Set: 0.9363057324840764
+Recall on Validation Set: 0.9865771812080537
+F1 Score on Validation Set (binary): 0.9607843137254902
+F1 Score on Validation Set (macro): 0.977273653744242
+F1 Score on Validation Set (weighted): 0.9893559773274888
+
+
+Model Name: BERT
+Scenario: Scenario_GM_O
+Dataset: generated_350_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.4412 | Training F1-Score: 0.8952
+Average Validation Loss: 0.5182 | Validation F1-Score: 0.5153
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.1255 | Training F1-Score: 0.9871
+Average Validation Loss: 0.5325 | Validation F1-Score: 0.5044
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0334 | Training F1-Score: 0.9971
+Average Validation Loss: 0.4642 | Validation F1-Score: 0.5591
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0135 | Training F1-Score: 0.9986
+Average Validation Loss: 0.8821 | Validation F1-Score: 0.4567
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0083 | Training F1-Score: 1.0000
+Average Validation Loss: 0.4818 | Validation F1-Score: 0.5924
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0053 | Training F1-Score: 1.0000
+Average Validation Loss: 0.6508 | Validation F1-Score: 0.5437
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_O and dataset generated_350_each.csv has finished.
+Accuracy on Validation Set: 0.7991031390134529
+Precision on Validation Set: 0.3955431754874652
+Recall on Validation Set: 0.9530201342281879
+F1 Score on Validation Set (binary): 0.5590551181102362
+F1 Score on Validation Set (macro): 0.7144869086486141
+F1 Score on Validation Set (weighted): 0.828377287904089
+
+
+Model Name: BERT
+Scenario: Scenario_GM_O
+Dataset: generated_500_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.3257 | Training F1-Score: 0.8919
+Average Validation Loss: 0.4331 | Validation F1-Score: 0.5257
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0532 | Training F1-Score: 0.9890
+Average Validation Loss: 0.3993 | Validation F1-Score: 0.5882
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0222 | Training F1-Score: 0.9960
+Average Validation Loss: 0.7013 | Validation F1-Score: 0.4791
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0103 | Training F1-Score: 0.9970
+Average Validation Loss: 0.8550 | Validation F1-Score: 0.4486
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0045 | Training F1-Score: 1.0000
+Average Validation Loss: 0.7104 | Validation F1-Score: 0.5081
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_O and dataset generated_500_each.csv has finished.
+Accuracy on Validation Set: 0.8242152466367713
+Precision on Validation Set: 0.42813455657492355
+Recall on Validation Set: 0.9395973154362416
+F1 Score on Validation Set (binary): 0.5882352941176471
+F1 Score on Validation Set (macro): 0.7382453551546047
+F1 Score on Validation Set (weighted): 0.848163041134151
+
+
+Model Name: BERT
+Scenario: Scenario_GM_O
+Dataset: generated_1000_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.2221 | Training F1-Score: 0.9331
+Average Validation Loss: 0.3135 | Validation F1-Score: 0.6161
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0246 | Training F1-Score: 0.9965
+Average Validation Loss: 0.3496 | Validation F1-Score: 0.6377
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0138 | Training F1-Score: 0.9980
+Average Validation Loss: 0.3050 | Validation F1-Score: 0.6614
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0068 | Training F1-Score: 0.9995
+Average Validation Loss: 0.2903 | Validation F1-Score: 0.6812
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0064 | Training F1-Score: 0.9990
+Average Validation Loss: 0.4512 | Validation F1-Score: 0.6432
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0018 | Training F1-Score: 1.0000
+Average Validation Loss: 0.3581 | Validation F1-Score: 0.6927
+------------------------------------------------------------
+Epoch 7
+Average Training Loss: 0.0014 | Training F1-Score: 1.0000
+Average Validation Loss: 0.3559 | Validation F1-Score: 0.6929
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_O and dataset generated_1000_each.csv has finished.
+Accuracy on Validation Set: 0.895067264573991
+Precision on Validation Set: 0.573394495412844
+Recall on Validation Set: 0.8389261744966443
+F1 Score on Validation Set (binary): 0.6811989100817438
+F1 Score on Validation Set (macro): 0.809198488857297
+F1 Score on Validation Set (weighted): 0.9029883147403704
+
+
+Model Name: BERT
+Scenario: Scenario_GM_O
+Dataset: generated_1500_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1617 | Training F1-Score: 0.9470
+Average Validation Loss: 0.5454 | Validation F1-Score: 0.5577
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0208 | Training F1-Score: 0.9940
+Average Validation Loss: 0.6426 | Validation F1-Score: 0.5583
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0094 | Training F1-Score: 0.9977
+Average Validation Loss: 0.3447 | Validation F1-Score: 0.6715
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0046 | Training F1-Score: 0.9997
+Average Validation Loss: 0.3903 | Validation F1-Score: 0.6797
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0033 | Training F1-Score: 0.9997
+Average Validation Loss: 0.4668 | Validation F1-Score: 0.6588
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0020 | Training F1-Score: 0.9997
+Average Validation Loss: 0.4658 | Validation F1-Score: 0.6620
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_O and dataset generated_1500_each.csv has finished.
+Accuracy on Validation Set: 0.8789237668161435
+Precision on Validation Set: 0.5267175572519084
+Recall on Validation Set: 0.9261744966442953
+F1 Score on Validation Set (binary): 0.6715328467153284
+F1 Score on Validation Set (macro): 0.7986581220932332
+F1 Score on Validation Set (weighted): 0.8918073149037697
+
+
+Model Name: BERT
+Scenario: Scenario_GM_O
+Dataset: generated_2000_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1221 | Training F1-Score: 0.9666
+Average Validation Loss: 0.3028 | Validation F1-Score: 0.6812
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0206 | Training F1-Score: 0.9952
+Average Validation Loss: 0.3834 | Validation F1-Score: 0.6651
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0054 | Training F1-Score: 0.9992
+Average Validation Loss: 0.2746 | Validation F1-Score: 0.7528
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0023 | Training F1-Score: 0.9995
+Average Validation Loss: 0.4402 | Validation F1-Score: 0.7030
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0020 | Training F1-Score: 0.9995
+Average Validation Loss: 0.4314 | Validation F1-Score: 0.7089
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0010 | Training F1-Score: 0.9997
+Average Validation Loss: 0.4744 | Validation F1-Score: 0.6946
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_O and dataset generated_2000_each.csv has finished.
+Accuracy on Validation Set: 0.9210762331838565
+Precision on Validation Set: 0.6473429951690821
+Recall on Validation Set: 0.8993288590604027
+F1 Score on Validation Set (binary): 0.7528089887640449
+F1 Score on Validation Set (macro): 0.8529253054812753
+F1 Score on Validation Set (weighted): 0.9262840774615241
+
+
+Model Name: BERT
+Scenario: Scenario_GM_O
+Dataset: generated_2500_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1162 | Training F1-Score: 0.9606
+Average Validation Loss: 0.1942 | Validation F1-Score: 0.7389
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0145 | Training F1-Score: 0.9964
+Average Validation Loss: 0.3172 | Validation F1-Score: 0.7150
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0080 | Training F1-Score: 0.9978
+Average Validation Loss: 0.4052 | Validation F1-Score: 0.6698
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0061 | Training F1-Score: 0.9978
+Average Validation Loss: 0.2851 | Validation F1-Score: 0.7432
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_O and dataset generated_2500_each.csv has finished.
+Accuracy on Validation Set: 0.9264573991031391
+Precision on Validation Set: 0.703030303030303
+Recall on Validation Set: 0.7785234899328859
+F1 Score on Validation Set (binary): 0.7388535031847134
+F1 Score on Validation Set (macro): 0.8480280042019601
+F1 Score on Validation Set (weighted): 0.9280240287141489
+
+
+Model Name: BERT
+Scenario: Scenario_GM_O
+Dataset: generated_3000_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0936 | Training F1-Score: 0.9730
+Average Validation Loss: 0.2686 | Validation F1-Score: 0.6974
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0163 | Training F1-Score: 0.9948
+Average Validation Loss: 0.5612 | Validation F1-Score: 0.5743
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0040 | Training F1-Score: 0.9992
+Average Validation Loss: 0.4061 | Validation F1-Score: 0.6846
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0011 | Training F1-Score: 1.0000
+Average Validation Loss: 0.4224 | Validation F1-Score: 0.7032
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_O and dataset generated_3000_each.csv has finished.
+Accuracy on Validation Set: 0.8941704035874439
+Precision on Validation Set: 0.5643153526970954
+Recall on Validation Set: 0.912751677852349
+F1 Score on Validation Set (binary): 0.6974358974358974
+F1 Score on Validation Set (macro): 0.8166527313266443
+F1 Score on Validation Set (weighted): 0.9040071288950213
+
+
+Model Name: BERT
+Scenario: Scenario_GM_O
+Dataset: generated_3500_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0919 | Training F1-Score: 0.9677
+Average Validation Loss: 0.1789 | Validation F1-Score: 0.7915
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0117 | Training F1-Score: 0.9969
+Average Validation Loss: 0.1994 | Validation F1-Score: 0.7787
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0041 | Training F1-Score: 0.9989
+Average Validation Loss: 0.4639 | Validation F1-Score: 0.6901
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0033 | Training F1-Score: 0.9989
+Average Validation Loss: 0.5150 | Validation F1-Score: 0.6651
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_O and dataset generated_3500_each.csv has finished.
+Accuracy on Validation Set: 0.9381165919282511
+Precision on Validation Set: 0.7197802197802198
+Recall on Validation Set: 0.8791946308724832
+F1 Score on Validation Set (binary): 0.7915407854984894
+F1 Score on Validation Set (macro): 0.8776029361931625
+F1 Score on Validation Set (weighted): 0.9406637228456718
+
+
+Model Name: BERT
+Scenario: Scenario_GM_O
+Dataset: generated_4000_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0808 | Training F1-Score: 0.9704
+Average Validation Loss: 0.6456 | Validation F1-Score: 0.5857
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0094 | Training F1-Score: 0.9973
+Average Validation Loss: 0.3337 | Validation F1-Score: 0.7139
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0029 | Training F1-Score: 0.9995
+Average Validation Loss: 0.3677 | Validation F1-Score: 0.7044
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0014 | Training F1-Score: 0.9998
+Average Validation Loss: 0.7898 | Validation F1-Score: 0.5918
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0014 | Training F1-Score: 0.9993
+Average Validation Loss: 0.2647 | Validation F1-Score: 0.7925
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0029 | Training F1-Score: 0.9992
+Average Validation Loss: 0.5316 | Validation F1-Score: 0.6780
+------------------------------------------------------------
+Epoch 7
+Average Training Loss: 0.0002 | Training F1-Score: 1.0000
+Average Validation Loss: 0.5588 | Validation F1-Score: 0.6880
+------------------------------------------------------------
+Epoch 8
+Average Training Loss: 0.0001 | Training F1-Score: 1.0000
+Average Validation Loss: 0.5736 | Validation F1-Score: 0.6880
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_O and dataset generated_4000_each.csv has finished.
+Accuracy on Validation Set: 0.9408071748878923
+Precision on Validation Set: 0.7455621301775148
+Recall on Validation Set: 0.8456375838926175
+F1 Score on Validation Set (binary): 0.7924528301886793
+F1 Score on Validation Set (macro): 0.8789670008683983
+F1 Score on Validation Set (weighted): 0.9423589985772147
+
+
+Model Name: BERT
+Scenario: Scenario_GM_O
+Dataset: generated_4500_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0867 | Training F1-Score: 0.9742
+Average Validation Loss: 0.4135 | Validation F1-Score: 0.6370
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0107 | Training F1-Score: 0.9971
+Average Validation Loss: 0.3239 | Validation F1-Score: 0.6914
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0020 | Training F1-Score: 0.9994
+Average Validation Loss: 0.2398 | Validation F1-Score: 0.7806
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0019 | Training F1-Score: 0.9998
+Average Validation Loss: 0.7248 | Validation F1-Score: 0.6096
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0016 | Training F1-Score: 0.9994
+Average Validation Loss: 0.4912 | Validation F1-Score: 0.7125
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0006 | Training F1-Score: 0.9998
+Average Validation Loss: 0.3242 | Validation F1-Score: 0.7649
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_O and dataset generated_4500_each.csv has finished.
+Accuracy on Validation Set: 0.9309417040358744
+Precision on Validation Set: 0.6782178217821783
+Recall on Validation Set: 0.9194630872483222
+F1 Score on Validation Set (binary): 0.7806267806267807
+F1 Score on Validation Set (macro): 0.8698237681739545
+F1 Score on Validation Set (weighted): 0.9351815608430497
+
+
+Model Name: BERT
+Scenario: Scenario_GM_O
+Dataset: generated_5000_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0703 | Training F1-Score: 0.9798
+Average Validation Loss: 0.2969 | Validation F1-Score: 0.7192
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0093 | Training F1-Score: 0.9975
+Average Validation Loss: 0.2290 | Validation F1-Score: 0.7670
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0061 | Training F1-Score: 0.9983
+Average Validation Loss: 0.3315 | Validation F1-Score: 0.7394
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0025 | Training F1-Score: 0.9992
+Average Validation Loss: 0.5442 | Validation F1-Score: 0.6468
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0005 | Training F1-Score: 0.9999
+Average Validation Loss: 0.3336 | Validation F1-Score: 0.7635
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_O and dataset generated_5000_each.csv has finished.
+Accuracy on Validation Set: 0.9264573991031391
+Precision on Validation Set: 0.6650246305418719
+Recall on Validation Set: 0.9060402684563759
+F1 Score on Validation Set (binary): 0.7670454545454546
+F1 Score on Validation Set (macro): 0.8616909913834834
+F1 Score on Validation Set (weighted): 0.931041129138344
+
+
+Model Name: BERT
+Scenario: Scenario_GM_F
+Dataset: generated_350_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.4231 | Training F1-Score: 0.8910
+Average Validation Loss: 0.5808 | Validation F1-Score: 0.5096
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.1454 | Training F1-Score: 0.9784
+Average Validation Loss: 0.3792 | Validation F1-Score: 0.6343
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0579 | Training F1-Score: 0.9943
+Average Validation Loss: 0.4952 | Validation F1-Score: 0.5894
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0260 | Training F1-Score: 0.9986
+Average Validation Loss: 0.6902 | Validation F1-Score: 0.5370
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0189 | Training F1-Score: 0.9986
+Average Validation Loss: 0.6627 | Validation F1-Score: 0.5529
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_F and dataset generated_350_each.csv has finished.
+Accuracy on Validation Set: 0.8578607322325915
+Precision on Validation Set: 0.48414376321353064
+Recall on Validation Set: 0.9196787148594378
+F1 Score on Validation Set (binary): 0.6343490304709141
+F1 Score on Validation Set (macro): 0.7730666961220687
+F1 Score on Validation Set (weighted): 0.8745905009543389
+
+
+Model Name: BERT
+Scenario: Scenario_GM_F
+Dataset: generated_500_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.3399 | Training F1-Score: 0.9040
+Average Validation Loss: 0.4088 | Validation F1-Score: 0.5762
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0536 | Training F1-Score: 0.9900
+Average Validation Loss: 0.3130 | Validation F1-Score: 0.6155
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0166 | Training F1-Score: 0.9990
+Average Validation Loss: 0.7493 | Validation F1-Score: 0.4932
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0061 | Training F1-Score: 1.0000
+Average Validation Loss: 0.9446 | Validation F1-Score: 0.4715
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0039 | Training F1-Score: 1.0000
+Average Validation Loss: 0.8068 | Validation F1-Score: 0.5106
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_F and dataset generated_500_each.csv has finished.
+Accuracy on Validation Set: 0.8589375448671931
+Precision on Validation Set: 0.48496530454895914
+Recall on Validation Set: 0.8420348058902276
+F1 Score on Validation Set (binary): 0.6154598825831703
+F1 Score on Validation Set (macro): 0.7645431281047719
+F1 Score on Validation Set (weighted): 0.8736532277524912
+
+
+Model Name: BERT
+Scenario: Scenario_GM_F
+Dataset: generated_1000_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.2427 | Training F1-Score: 0.9378
+Average Validation Loss: 0.4088 | Validation F1-Score: 0.6070
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0351 | Training F1-Score: 0.9935
+Average Validation Loss: 0.2953 | Validation F1-Score: 0.6735
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0125 | Training F1-Score: 0.9985
+Average Validation Loss: 0.3391 | Validation F1-Score: 0.6836
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0059 | Training F1-Score: 0.9995
+Average Validation Loss: 0.5990 | Validation F1-Score: 0.5856
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0042 | Training F1-Score: 0.9995
+Average Validation Loss: 0.3336 | Validation F1-Score: 0.6942
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_F and dataset generated_1000_each.csv has finished.
+Accuracy on Validation Set: 0.8802943287867911
+Precision on Validation Set: 0.5308641975308642
+Recall on Validation Set: 0.9210174029451138
+F1 Score on Validation Set (binary): 0.6735193343122858
+F1 Score on Validation Set (macro): 0.8001153423566703
+F1 Score on Validation Set (weighted): 0.892767625343928
+
+
+Model Name: BERT
+Scenario: Scenario_GM_F
+Dataset: generated_1500_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1583 | Training F1-Score: 0.9572
+Average Validation Loss: 0.4152 | Validation F1-Score: 0.6195
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0260 | Training F1-Score: 0.9923
+Average Validation Loss: 0.2443 | Validation F1-Score: 0.7256
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0129 | Training F1-Score: 0.9973
+Average Validation Loss: 0.3236 | Validation F1-Score: 0.7078
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0043 | Training F1-Score: 0.9993
+Average Validation Loss: 0.3141 | Validation F1-Score: 0.7238
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0013 | Training F1-Score: 1.0000
+Average Validation Loss: 0.3548 | Validation F1-Score: 0.7167
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_F and dataset generated_1500_each.csv has finished.
+Accuracy on Validation Set: 0.9102656137832017
+Precision on Validation Set: 0.6148837209302326
+Recall on Validation Set: 0.8848728246318608
+F1 Score on Validation Set (binary): 0.7255762897914381
+F1 Score on Validation Set (macro): 0.8359698655565215
+F1 Score on Validation Set (weighted): 0.9167640152280955
+
+
+Model Name: BERT
+Scenario: Scenario_GM_F
+Dataset: generated_2000_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1262 | Training F1-Score: 0.9622
+Average Validation Loss: 1.0050 | Validation F1-Score: 0.4428
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0158 | Training F1-Score: 0.9963
+Average Validation Loss: 0.2168 | Validation F1-Score: 0.7222
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0052 | Training F1-Score: 0.9987
+Average Validation Loss: 0.4924 | Validation F1-Score: 0.6403
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0012 | Training F1-Score: 1.0000
+Average Validation Loss: 0.5429 | Validation F1-Score: 0.6411
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0006 | Training F1-Score: 1.0000
+Average Validation Loss: 0.5024 | Validation F1-Score: 0.6626
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_F and dataset generated_2000_each.csv has finished.
+Accuracy on Validation Set: 0.9264178033022255
+Precision on Validation Set: 0.7311385459533608
+Recall on Validation Set: 0.713520749665328
+F1 Score on Validation Set (binary): 0.7222222222222222
+F1 Score on Validation Set (macro): 0.8399071392451616
+F1 Score on Validation Set (weighted): 0.9260376294855684
+
+
+Model Name: BERT
+Scenario: Scenario_GM_F
+Dataset: generated_2500_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1172 | Training F1-Score: 0.9599
+Average Validation Loss: 0.3051 | Validation F1-Score: 0.6793
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0107 | Training F1-Score: 0.9970
+Average Validation Loss: 0.2440 | Validation F1-Score: 0.7159
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0038 | Training F1-Score: 0.9992
+Average Validation Loss: 0.4013 | Validation F1-Score: 0.6801
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0030 | Training F1-Score: 0.9994
+Average Validation Loss: 0.4131 | Validation F1-Score: 0.6683
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0029 | Training F1-Score: 0.9994
+Average Validation Loss: 0.3188 | Validation F1-Score: 0.7199
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_F and dataset generated_2500_each.csv has finished.
+Accuracy on Validation Set: 0.9109834888729361
+Precision on Validation Set: 0.6256256256256256
+Recall on Validation Set: 0.8366800535475234
+F1 Score on Validation Set (binary): 0.715922107674685
+F1 Score on Validation Set (macro): 0.8315724605196153
+F1 Score on Validation Set (weighted): 0.9162139068407974
+
+
+Model Name: BERT
+Scenario: Scenario_GM_F
+Dataset: generated_3000_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.1046 | Training F1-Score: 0.9706
+Average Validation Loss: 0.2000 | Validation F1-Score: 0.7608
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0157 | Training F1-Score: 0.9962
+Average Validation Loss: 0.4880 | Validation F1-Score: 0.6471
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0054 | Training F1-Score: 0.9985
+Average Validation Loss: 0.3952 | Validation F1-Score: 0.7108
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0019 | Training F1-Score: 0.9997
+Average Validation Loss: 0.3993 | Validation F1-Score: 0.7242
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_F and dataset generated_3000_each.csv has finished.
+Accuracy on Validation Set: 0.9321608040201005
+Precision on Validation Set: 0.7214885954381752
+Recall on Validation Set: 0.8045515394912985
+F1 Score on Validation Set (binary): 0.7607594936708859
+F1 Score on Validation Set (macro): 0.8606181408128581
+F1 Score on Validation Set (weighted): 0.9337020537785731
+
+
+Model Name: BERT
+Scenario: Scenario_GM_F
+Dataset: generated_3500_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0922 | Training F1-Score: 0.9751
+Average Validation Loss: 0.1899 | Validation F1-Score: 0.7672
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0108 | Training F1-Score: 0.9970
+Average Validation Loss: 0.2184 | Validation F1-Score: 0.7762
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0041 | Training F1-Score: 0.9993
+Average Validation Loss: 0.4300 | Validation F1-Score: 0.6840
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0018 | Training F1-Score: 0.9997
+Average Validation Loss: 0.2980 | Validation F1-Score: 0.7651
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_F and dataset generated_3500_each.csv has finished.
+Accuracy on Validation Set: 0.9255204594400575
+Precision on Validation Set: 0.6602316602316602
+Recall on Validation Set: 0.9156626506024096
+F1 Score on Validation Set (binary): 0.7672462142456533
+F1 Score on Validation Set (macro): 0.8614566719129132
+F1 Score on Validation Set (weighted): 0.930406823809375
+
+
+Model Name: BERT
+Scenario: Scenario_GM_F
+Dataset: generated_4000_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0724 | Training F1-Score: 0.9796
+Average Validation Loss: 0.5209 | Validation F1-Score: 0.6270
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0108 | Training F1-Score: 0.9972
+Average Validation Loss: 0.3033 | Validation F1-Score: 0.7168
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0069 | Training F1-Score: 0.9985
+Average Validation Loss: 0.2277 | Validation F1-Score: 0.7697
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0029 | Training F1-Score: 0.9987
+Average Validation Loss: 0.3750 | Validation F1-Score: 0.7146
+------------------------------------------------------------
+Epoch 5
+Average Training Loss: 0.0004 | Training F1-Score: 1.0000
+Average Validation Loss: 0.2923 | Validation F1-Score: 0.7585
+------------------------------------------------------------
+Epoch 6
+Average Training Loss: 0.0002 | Training F1-Score: 1.0000
+Average Validation Loss: 0.3190 | Validation F1-Score: 0.7545
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_F and dataset generated_4000_each.csv has finished.
+Accuracy on Validation Set: 0.9253409906676239
+Precision on Validation Set: 0.6562795089707271
+Recall on Validation Set: 0.9303882195448461
+F1 Score on Validation Set (binary): 0.769656699889258
+F1 Score on Validation Set (macro): 0.8625537729474133
+F1 Score on Validation Set (weighted): 0.9305426932509232
+
+
+Model Name: BERT
+Scenario: Scenario_GM_F
+Dataset: generated_4500_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0687 | Training F1-Score: 0.9787
+Average Validation Loss: 0.1419 | Validation F1-Score: 0.8106
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0048 | Training F1-Score: 0.9991
+Average Validation Loss: 0.5420 | Validation F1-Score: 0.6661
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0039 | Training F1-Score: 0.9988
+Average Validation Loss: 0.2134 | Validation F1-Score: 0.8020
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0021 | Training F1-Score: 0.9994
+Average Validation Loss: 0.3861 | Validation F1-Score: 0.7422
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_F and dataset generated_4500_each.csv has finished.
+Accuracy on Validation Set: 0.9484924623115578
+Precision on Validation Set: 0.7994791666666666
+Recall on Validation Set: 0.821954484605087
+F1 Score on Validation Set (binary): 0.8105610561056106
+F1 Score on Validation Set (macro): 0.8903776305556612
+F1 Score on Validation Set (weighted): 0.9487932785469223
+
+
+Model Name: BERT
+Scenario: Scenario_GM_F
+Dataset: generated_5000_each.csv
+================================================================================
+Epoch 1
+Average Training Loss: 0.0722 | Training F1-Score: 0.9789
+Average Validation Loss: 0.1927 | Validation F1-Score: 0.7760
+------------------------------------------------------------
+Epoch 2
+Average Training Loss: 0.0113 | Training F1-Score: 0.9973
+Average Validation Loss: 0.3084 | Validation F1-Score: 0.7354
+------------------------------------------------------------
+Epoch 3
+Average Training Loss: 0.0050 | Training F1-Score: 0.9988
+Average Validation Loss: 0.3722 | Validation F1-Score: 0.7186
+------------------------------------------------------------
+Epoch 4
+Average Training Loss: 0.0019 | Training F1-Score: 0.9993
+Average Validation Loss: 0.4102 | Validation F1-Score: 0.7253
+------------------------------------------------------------
+
+Training for BERT with scenario Scenario_GM_F and dataset generated_5000_each.csv has finished.
+Accuracy on Validation Set: 0.9362885857860732
+Precision on Validation Set: 0.733890214797136
+Recall on Validation Set: 0.8232931726907631
+F1 Score on Validation Set (binary): 0.7760252365930599
+F1 Score on Validation Set (macro): 0.8694437303375384
+F1 Score on Validation Set (weighted): 0.9378142647040106

@@ -1,0 +1,2482 @@
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAS_O
+Dataset: original
+================================================================================
+Epoch 1, Train Loss: 0.90354505, Train Accuracy: 0.85281580, Train F1 Score: 0.01501502
+Epoch 1, Val Loss: 0.89375954, Val Accuracy: 0.86547085, Val F1 Score: 0.01315789
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.70770833, Train Accuracy: 0.88153466, Train F1 Score: 0.46341463
+Epoch 2, Val Loss: 0.40413097, Val Accuracy: 0.95156951, Val F1 Score: 0.80714286
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.31559167, Train Accuracy: 0.95041508, Train F1 Score: 0.82666667
+Epoch 3, Val Loss: 0.33171928, Val Accuracy: 0.92286996, Val F1 Score: 0.76756757
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.17101364, Train Accuracy: 0.97262733, Train F1 Score: 0.90286624
+Epoch 4, Val Loss: 0.21032723, Val Accuracy: 0.97040359, Val F1 Score: 0.89320388
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.11434606, Train Accuracy: 0.98810859, Train F1 Score: 0.95601660
+Epoch 5, Val Loss: 0.19472809, Val Accuracy: 0.97578475, Val F1 Score: 0.91029900
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.08471835, Train Accuracy: 0.99035225, Train F1 Score: 0.96419650
+Epoch 6, Val Loss: 0.19691791, Val Accuracy: 0.98295964, Val F1 Score: 0.93559322
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.04621363, Train Accuracy: 0.99708324, Train F1 Score: 0.98908480
+Epoch 7, Val Loss: 0.17876571, Val Accuracy: 0.97488789, Val F1 Score: 0.90849673
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.03777785, Train Accuracy: 0.99663451, Train F1 Score: 0.98746867
+Epoch 8, Val Loss: 0.18336878, Val Accuracy: 0.98475336, Val F1 Score: 0.94237288
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.05265592, Train Accuracy: 0.99214718, Train F1 Score: 0.97114592
+Epoch 9, Val Loss: 0.21700057, Val Accuracy: 0.97937220, Val F1 Score: 0.92150171
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.05020957, Train Accuracy: 0.99394211, Train F1 Score: 0.97763049
+Epoch 10, Val Loss: 0.15219625, Val Accuracy: 0.97937220, Val F1 Score: 0.92358804
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.04397895, Train Accuracy: 0.99282028, Train F1 Score: 0.97364086
+Epoch 11, Val Loss: 0.15075854, Val Accuracy: 0.98475336, Val F1 Score: 0.94314381
+--------------------------------------------------------------------------------
+Epoch 12, Train Loss: 0.01755193, Train Accuracy: 0.99798070, Train F1 Score: 0.99250624
+Epoch 12, Val Loss: 0.22209450, Val Accuracy: 0.98744395, Val F1 Score: 0.95172414
+--------------------------------------------------------------------------------
+Epoch 13, Train Loss: 0.02460198, Train Accuracy: 0.99596141, Train F1 Score: 0.98507463
+Epoch 13, Val Loss: 0.25932710, Val Accuracy: 0.96950673, Val F1 Score: 0.89240506
+--------------------------------------------------------------------------------
+Epoch 14, Train Loss: 0.02379572, Train Accuracy: 0.99730761, Train F1 Score: 0.99000000
+Epoch 14, Val Loss: 0.26849001, Val Accuracy: 0.98475336, Val F1 Score: 0.94158076
+--------------------------------------------------------------------------------
+Epoch 15, Train Loss: 0.00803779, Train Accuracy: 0.99865380, Train F1 Score: 0.99500000
+Epoch 15, Val Loss: 0.23024538, Val Accuracy: 0.95336323, Val F1 Score: 0.84615385
+--------------------------------------------------------------------------------
+Epoch 16, Train Loss: 0.01174409, Train Accuracy: 0.99708324, Train F1 Score: 0.98924731
+Epoch 16, Val Loss: 0.19146030, Val Accuracy: 0.98295964, Val F1 Score: 0.93687708
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAS_O, dataset: original completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.94      0.95      0.94       149
+
+    accuracy                           0.98      1115
+   macro avg       0.97      0.97      0.97      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAS_O
+Dataset: augmented_spam_1
+================================================================================
+Epoch 1, Train Loss: 0.75282375, Train Accuracy: 0.76399604, Train F1 Score: 0.41260463
+Epoch 1, Val Loss: 0.64134322, Val Accuracy: 0.84304933, Val F1 Score: 0.03314917
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.67002354, Train Accuracy: 0.80791296, Train F1 Score: 0.57356170
+Epoch 2, Val Loss: 0.43974902, Val Accuracy: 0.90044843, Val F1 Score: 0.64984227
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.45214628, Train Accuracy: 0.89634026, Train F1 Score: 0.78453947
+Epoch 3, Val Loss: 0.32501514, Val Accuracy: 0.92556054, Val F1 Score: 0.74461538
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.29294338, Train Accuracy: 0.93175074, Train F1 Score: 0.86379787
+Epoch 4, Val Loss: 0.26702335, Val Accuracy: 0.94439462, Val F1 Score: 0.80128205
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.23441252, Train Accuracy: 0.94480712, Train F1 Score: 0.88906561
+Epoch 5, Val Loss: 0.22644915, Val Accuracy: 0.94618834, Val F1 Score: 0.81481481
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.20111141, Train Accuracy: 0.96379822, Train F1 Score: 0.92557950
+Epoch 6, Val Loss: 0.19731498, Val Accuracy: 0.96322870, Val F1 Score: 0.86644951
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.22351716, Train Accuracy: 0.93550940, Train F1 Score: 0.87557252
+Epoch 7, Val Loss: 0.19337998, Val Accuracy: 0.96860987, Val F1 Score: 0.88294314
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.14405599, Train Accuracy: 0.97052423, Train F1 Score: 0.93895944
+Epoch 8, Val Loss: 0.17754118, Val Accuracy: 0.97309417, Val F1 Score: 0.89436620
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.10011433, Train Accuracy: 0.98298714, Train F1 Score: 0.96413678
+Epoch 9, Val Loss: 0.15738927, Val Accuracy: 0.97488789, Val F1 Score: 0.90540541
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.07951530, Train Accuracy: 0.98733927, Train F1 Score: 0.97326650
+Epoch 10, Val Loss: 0.15249098, Val Accuracy: 0.97578475, Val F1 Score: 0.90969900
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.06750547, Train Accuracy: 0.98951533, Train F1 Score: 0.97788903
+Epoch 11, Val Loss: 0.12896277, Val Accuracy: 0.98116592, Val F1 Score: 0.92881356
+--------------------------------------------------------------------------------
+Epoch 12, Train Loss: 0.05706790, Train Accuracy: 0.99327399, Train F1 Score: 0.98572628
+Epoch 12, Val Loss: 0.12757954, Val Accuracy: 0.97757848, Val F1 Score: 0.91638796
+--------------------------------------------------------------------------------
+Epoch 13, Train Loss: 0.04015102, Train Accuracy: 0.99485658, Train F1 Score: 0.98911223
+Epoch 13, Val Loss: 0.13250043, Val Accuracy: 0.98206278, Val F1 Score: 0.93197279
+--------------------------------------------------------------------------------
+Epoch 14, Train Loss: 0.03943683, Train Accuracy: 0.99465875, Train F1 Score: 0.98870765
+Epoch 14, Val Loss: 0.12545416, Val Accuracy: 0.98206278, Val F1 Score: 0.93197279
+--------------------------------------------------------------------------------
+Epoch 15, Train Loss: 0.04050293, Train Accuracy: 0.99406528, Train F1 Score: 0.98744770
+Epoch 15, Val Loss: 0.14459993, Val Accuracy: 0.97847534, Val F1 Score: 0.92105263
+--------------------------------------------------------------------------------
+Epoch 16, Train Loss: 0.04203660, Train Accuracy: 0.99347181, Train F1 Score: 0.98620978
+Epoch 16, Val Loss: 0.13800882, Val Accuracy: 0.98026906, Val F1 Score: 0.92617450
+--------------------------------------------------------------------------------
+Epoch 17, Train Loss: 0.02859693, Train Accuracy: 0.99604352, Train F1 Score: 0.99160369
+Epoch 17, Val Loss: 0.12679890, Val Accuracy: 0.98385650, Val F1 Score: 0.93877551
+--------------------------------------------------------------------------------
+Epoch 18, Train Loss: 0.02839862, Train Accuracy: 0.99525223, Train F1 Score: 0.98997494
+Epoch 18, Val Loss: 0.13570082, Val Accuracy: 0.98295964, Val F1 Score: 0.93559322
+--------------------------------------------------------------------------------
+Epoch 19, Train Loss: 0.01443799, Train Accuracy: 0.99841741, Train F1 Score: 0.99664430
+Epoch 19, Val Loss: 0.13761931, Val Accuracy: 0.98295964, Val F1 Score: 0.93559322
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAS_O, dataset: augmented_spam_1 completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.94      0.92      0.93       149
+
+    accuracy                           0.98      1115
+   macro avg       0.97      0.96      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAS_O
+Dataset: augmented_spam_2
+================================================================================
+Epoch 1, Train Loss: 0.69546795, Train Accuracy: 0.74226075, Train F1 Score: 0.46255994
+Epoch 1, Val Loss: 0.42321624, Val Accuracy: 0.82242152, Val F1 Score: 0.58050847
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.28036491, Train Accuracy: 0.92128074, Train F1 Score: 0.88180611
+Epoch 2, Val Loss: 0.20022371, Val Accuracy: 0.93901345, Val F1 Score: 0.80571429
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.16892388, Train Accuracy: 0.96338227, Train F1 Score: 0.94261159
+Epoch 3, Val Loss: 0.17500505, Val Accuracy: 0.96322870, Val F1 Score: 0.86468647
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.10633065, Train Accuracy: 0.97718026, Train F1 Score: 0.96397654
+Epoch 4, Val Loss: 0.15265584, Val Accuracy: 0.96591928, Val F1 Score: 0.87500000
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.06671273, Train Accuracy: 0.98602512, Train F1 Score: 0.97801280
+Epoch 5, Val Loss: 0.12354360, Val Accuracy: 0.97488789, Val F1 Score: 0.90728477
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.04502996, Train Accuracy: 0.99115514, Train F1 Score: 0.98608018
+Epoch 6, Val Loss: 0.12557199, Val Accuracy: 0.97309417, Val F1 Score: 0.90259740
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.03190707, Train Accuracy: 0.99363170, Train F1 Score: 0.98999444
+Epoch 7, Val Loss: 0.12365980, Val Accuracy: 0.97668161, Val F1 Score: 0.91503268
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.02166765, Train Accuracy: 0.99575447, Train F1 Score: 0.99332220
+Epoch 8, Val Loss: 0.12215956, Val Accuracy: 0.98206278, Val F1 Score: 0.93377483
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.01722449, Train Accuracy: 0.99593136, Train F1 Score: 0.99359510
+Epoch 9, Val Loss: 0.11263521, Val Accuracy: 0.97937220, Val F1 Score: 0.92255892
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.00801322, Train Accuracy: 0.99929241, Train F1 Score: 0.99888455
+Epoch 10, Val Loss: 0.14788004, Val Accuracy: 0.98116592, Val F1 Score: 0.92976589
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.00459808, Train Accuracy: 0.99964621, Train F1 Score: 0.99944228
+Epoch 11, Val Loss: 0.15955624, Val Accuracy: 0.98206278, Val F1 Score: 0.93243243
+--------------------------------------------------------------------------------
+Epoch 12, Train Loss: 0.00290514, Train Accuracy: 0.99982310, Train F1 Score: 0.99972122
+Epoch 12, Val Loss: 0.18231210, Val Accuracy: 0.98026906, Val F1 Score: 0.92617450
+--------------------------------------------------------------------------------
+Epoch 13, Train Loss: 0.01322103, Train Accuracy: 0.99787723, Train F1 Score: 0.99665365
+Epoch 13, Val Loss: 0.10504228, Val Accuracy: 0.97757848, Val F1 Score: 0.91694352
+--------------------------------------------------------------------------------
+Epoch 14, Train Loss: 0.03666103, Train Accuracy: 0.99292411, Train F1 Score: 0.98887653
+Epoch 14, Val Loss: 0.11423234, Val Accuracy: 0.98116592, Val F1 Score: 0.93023256
+--------------------------------------------------------------------------------
+Epoch 15, Train Loss: 0.01522103, Train Accuracy: 0.99681585, Train F1 Score: 0.99499165
+Epoch 15, Val Loss: 0.10938422, Val Accuracy: 0.98385650, Val F1 Score: 0.93877551
+--------------------------------------------------------------------------------
+Epoch 16, Train Loss: 0.00442566, Train Accuracy: 0.99964621, Train F1 Score: 0.99944228
+Epoch 16, Val Loss: 0.13941911, Val Accuracy: 0.98206278, Val F1 Score: 0.93197279
+--------------------------------------------------------------------------------
+Epoch 17, Train Loss: 0.00316102, Train Accuracy: 0.99982310, Train F1 Score: 0.99972122
+Epoch 17, Val Loss: 0.15371924, Val Accuracy: 0.98295964, Val F1 Score: 0.93515358
+--------------------------------------------------------------------------------
+Epoch 18, Train Loss: 0.00192445, Train Accuracy: 0.99982310, Train F1 Score: 0.99972122
+Epoch 18, Val Loss: 0.15374494, Val Accuracy: 0.98295964, Val F1 Score: 0.93515358
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAS_O, dataset: augmented_spam_2 completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.91      0.93      0.92       149
+
+    accuracy                           0.98      1115
+   macro avg       0.95      0.96      0.95      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAS_O
+Dataset: augmented_spam_3
+================================================================================
+Epoch 1, Train Loss: 0.62005717, Train Accuracy: 0.73012318, Train F1 Score: 0.54294229
+Epoch 1, Val Loss: 0.31668562, Val Accuracy: 0.89506726, Val F1 Score: 0.62857143
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.21630216, Train Accuracy: 0.93729003, Train F1 Score: 0.91870593
+Epoch 2, Val Loss: 0.17542942, Val Accuracy: 0.96322870, Val F1 Score: 0.86195286
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.12740150, Train Accuracy: 0.96688530, Train F1 Score: 0.95646688
+Epoch 3, Val Loss: 0.15465110, Val Accuracy: 0.96053812, Val F1 Score: 0.85714286
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.07989654, Train Accuracy: 0.98160294, Train F1 Score: 0.97590614
+Epoch 4, Val Loss: 0.12006771, Val Accuracy: 0.97578475, Val F1 Score: 0.90909091
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.05880006, Train Accuracy: 0.98832187, Train F1 Score: 0.98468639
+Epoch 5, Val Loss: 0.11288394, Val Accuracy: 0.98026906, Val F1 Score: 0.92413793
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.04261237, Train Accuracy: 0.99120141, Train F1 Score: 0.98849132
+Epoch 6, Val Loss: 0.10798080, Val Accuracy: 0.98026906, Val F1 Score: 0.92361111
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.03241003, Train Accuracy: 0.99344105, Train F1 Score: 0.99142439
+Epoch 7, Val Loss: 0.09745749, Val Accuracy: 0.98206278, Val F1 Score: 0.93103448
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.03737380, Train Accuracy: 0.99168133, Train F1 Score: 0.98910310
+Epoch 8, Val Loss: 0.12239023, Val Accuracy: 0.97847534, Val F1 Score: 0.91724138
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.02758746, Train Accuracy: 0.99280115, Train F1 Score: 0.99057592
+Epoch 9, Val Loss: 0.12160949, Val Accuracy: 0.97847534, Val F1 Score: 0.91891892
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.01318479, Train Accuracy: 0.99792033, Train F1 Score: 0.99727863
+Epoch 10, Val Loss: 0.10965095, Val Accuracy: 0.98026906, Val F1 Score: 0.92517007
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.00738702, Train Accuracy: 0.99888018, Train F1 Score: 0.99853526
+Epoch 11, Val Loss: 0.12286313, Val Accuracy: 0.98116592, Val F1 Score: 0.92783505
+--------------------------------------------------------------------------------
+Epoch 12, Train Loss: 0.00410790, Train Accuracy: 0.99936010, Train F1 Score: 0.99916318
+Epoch 12, Val Loss: 0.12807245, Val Accuracy: 0.98116592, Val F1 Score: 0.92783505
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAS_O, dataset: augmented_spam_3 completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.96      0.91      0.93       149
+
+    accuracy                           0.98      1115
+   macro avg       0.97      0.95      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAS_O
+Dataset: augmented_spam_4
+================================================================================
+Epoch 1, Train Loss: 0.53921818, Train Accuracy: 0.73324573, Train F1 Score: 0.66260388
+Epoch 1, Val Loss: 0.32337114, Val Accuracy: 0.90134529, Val F1 Score: 0.70108696
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.18037378, Train Accuracy: 0.95298584, Train F1 Score: 0.94544222
+Epoch 2, Val Loss: 0.21457001, Val Accuracy: 0.94439462, Val F1 Score: 0.79054054
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.10814778, Train Accuracy: 0.97138268, Train F1 Score: 0.96719116
+Epoch 3, Val Loss: 0.15961403, Val Accuracy: 0.95515695, Val F1 Score: 0.84472050
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.05058022, Train Accuracy: 0.98773544, Train F1 Score: 0.98593907
+Epoch 4, Val Loss: 0.11502158, Val Accuracy: 0.97578475, Val F1 Score: 0.90721649
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.03315574, Train Accuracy: 0.99240765, Train F1 Score: 0.99129853
+Epoch 5, Val Loss: 0.11805343, Val Accuracy: 0.98026906, Val F1 Score: 0.92517007
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.02857451, Train Accuracy: 0.99430574, Train F1 Score: 0.99347717
+Epoch 6, Val Loss: 0.13082953, Val Accuracy: 0.97578475, Val F1 Score: 0.91029900
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.01965158, Train Accuracy: 0.99678785, Train F1 Score: 0.99631861
+Epoch 7, Val Loss: 0.11286849, Val Accuracy: 0.98026906, Val F1 Score: 0.92465753
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.02036854, Train Accuracy: 0.99620383, Train F1 Score: 0.99565072
+Epoch 8, Val Loss: 0.12116363, Val Accuracy: 0.97130045, Val F1 Score: 0.89542484
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.02116024, Train Accuracy: 0.99532779, Train F1 Score: 0.99464704
+Epoch 9, Val Loss: 0.12203964, Val Accuracy: 0.98295964, Val F1 Score: 0.93425606
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.01433675, Train Accuracy: 0.99780990, Train F1 Score: 0.99749038
+Epoch 10, Val Loss: 0.11794745, Val Accuracy: 0.98206278, Val F1 Score: 0.93197279
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.03208931, Train Accuracy: 0.99328369, Train F1 Score: 0.99231283
+Epoch 11, Val Loss: 0.10442494, Val Accuracy: 0.97937220, Val F1 Score: 0.92203390
+--------------------------------------------------------------------------------
+Epoch 12, Train Loss: 0.01586524, Train Accuracy: 0.99693386, Train F1 Score: 0.99648888
+Epoch 12, Val Loss: 0.11664778, Val Accuracy: 0.98116592, Val F1 Score: 0.92832765
+--------------------------------------------------------------------------------
+Epoch 13, Train Loss: 0.01901701, Train Accuracy: 0.99503577, Train F1 Score: 0.99432955
+Epoch 13, Val Loss: 0.09775006, Val Accuracy: 0.98295964, Val F1 Score: 0.93515358
+--------------------------------------------------------------------------------
+Epoch 14, Train Loss: 0.00682716, Train Accuracy: 0.99897795, Train F1 Score: 0.99882924
+Epoch 14, Val Loss: 0.10363765, Val Accuracy: 0.98654709, Val F1 Score: 0.94809689
+--------------------------------------------------------------------------------
+Epoch 15, Train Loss: 0.00291709, Train Accuracy: 0.99970799, Train F1 Score: 0.99966544
+Epoch 15, Val Loss: 0.10611793, Val Accuracy: 0.98654709, Val F1 Score: 0.94809689
+--------------------------------------------------------------------------------
+Epoch 16, Train Loss: 0.01659880, Train Accuracy: 0.99649584, Train F1 Score: 0.99598394
+Epoch 16, Val Loss: 0.10651369, Val Accuracy: 0.97937220, Val F1 Score: 0.92307692
+--------------------------------------------------------------------------------
+Epoch 17, Train Loss: 0.00436562, Train Accuracy: 0.99897795, Train F1 Score: 0.99883002
+Epoch 17, Val Loss: 0.10330398, Val Accuracy: 0.98206278, Val F1 Score: 0.93197279
+--------------------------------------------------------------------------------
+Epoch 18, Train Loss: 0.00567341, Train Accuracy: 0.99883195, Train F1 Score: 0.99866131
+Epoch 18, Val Loss: 0.10646838, Val Accuracy: 0.98206278, Val F1 Score: 0.93243243
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAS_O, dataset: augmented_spam_4 completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.95      0.92      0.94       149
+
+    accuracy                           0.98      1115
+   macro avg       0.97      0.96      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAS_O
+Dataset: augmented_spam_5
+================================================================================
+Epoch 1, Train Loss: 0.56229699, Train Accuracy: 0.67839398, Train F1 Score: 0.63407181
+Epoch 1, Val Loss: 0.30692069, Val Accuracy: 0.89147982, Val F1 Score: 0.67029973
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.17115496, Train Accuracy: 0.94924131, Train F1 Score: 0.94725091
+Epoch 2, Val Loss: 0.18489708, Val Accuracy: 0.94260090, Val F1 Score: 0.80606061
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.07862827, Train Accuracy: 0.97757486, Train F1 Score: 0.97671825
+Epoch 3, Val Loss: 0.11187310, Val Accuracy: 0.97488789, Val F1 Score: 0.90410959
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.04382588, Train Accuracy: 0.98939170, Train F1 Score: 0.98895568
+Epoch 4, Val Loss: 0.12147210, Val Accuracy: 0.96950673, Val F1 Score: 0.88961039
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.02887308, Train Accuracy: 0.99207735, Train F1 Score: 0.99176782
+Epoch 5, Val Loss: 0.09866824, Val Accuracy: 0.97578475, Val F1 Score: 0.90657439
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.01965438, Train Accuracy: 0.99570297, Train F1 Score: 0.99552823
+Epoch 6, Val Loss: 0.10115538, Val Accuracy: 0.97488789, Val F1 Score: 0.90666667
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.01867441, Train Accuracy: 0.99556869, Train F1 Score: 0.99539042
+Epoch 7, Val Loss: 0.10873146, Val Accuracy: 0.97937220, Val F1 Score: 0.92150171
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.01037737, Train Accuracy: 0.99798577, Train F1 Score: 0.99790707
+Epoch 8, Val Loss: 0.13270128, Val Accuracy: 0.97578475, Val F1 Score: 0.90657439
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.01084841, Train Accuracy: 0.99718007, Train F1 Score: 0.99706909
+Epoch 9, Val Loss: 0.09080756, Val Accuracy: 0.98026906, Val F1 Score: 0.92413793
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.01707788, Train Accuracy: 0.99610581, Train F1 Score: 0.99595368
+Epoch 10, Val Loss: 0.09846850, Val Accuracy: 0.97757848, Val F1 Score: 0.91525424
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.01252732, Train Accuracy: 0.99704579, Train F1 Score: 0.99693080
+Epoch 11, Val Loss: 0.09082292, Val Accuracy: 0.97937220, Val F1 Score: 0.92203390
+--------------------------------------------------------------------------------
+Epoch 12, Train Loss: 0.00548792, Train Accuracy: 0.99825433, Train F1 Score: 0.99818815
+Epoch 12, Val Loss: 0.13557976, Val Accuracy: 0.97937220, Val F1 Score: 0.91986063
+--------------------------------------------------------------------------------
+Epoch 13, Train Loss: 0.00551061, Train Accuracy: 0.99865718, Train F1 Score: 0.99860685
+Epoch 13, Val Loss: 0.11847682, Val Accuracy: 0.97757848, Val F1 Score: 0.91525424
+--------------------------------------------------------------------------------
+Epoch 14, Train Loss: 0.00231460, Train Accuracy: 0.99959715, Train F1 Score: 0.99958176
+Epoch 14, Val Loss: 0.12498587, Val Accuracy: 0.97757848, Val F1 Score: 0.91525424
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAS_O, dataset: augmented_spam_5 completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.98      0.99      0.99       966
+         1.0       0.95      0.90      0.92       149
+
+    accuracy                           0.98      1115
+   macro avg       0.97      0.95      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAM_O
+Dataset: original
+================================================================================
+Epoch 1, Train Loss: 0.89824433, Train Accuracy: 0.85438636, Train F1 Score: 0.02698651
+Epoch 1, Val Loss: 0.88806408, Val Accuracy: 0.86278027, Val F1 Score: 0.02547771
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.65430490, Train Accuracy: 0.88579762, Train F1 Score: 0.56006914
+Epoch 2, Val Loss: 0.50912565, Val Accuracy: 0.89955157, Val F1 Score: 0.67816092
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.33240292, Train Accuracy: 0.94188916, Train F1 Score: 0.80540947
+Epoch 3, Val Loss: 0.28914839, Val Accuracy: 0.96502242, Val F1 Score: 0.87043189
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.19047400, Train Accuracy: 0.97150550, Train F1 Score: 0.89864326
+Epoch 4, Val Loss: 0.29622650, Val Accuracy: 0.97219731, Val F1 Score: 0.89273356
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.12791190, Train Accuracy: 0.98541620, Train F1 Score: 0.94614747
+Epoch 5, Val Loss: 0.29245233, Val Accuracy: 0.97399103, Val F1 Score: 0.89895470
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.10785140, Train Accuracy: 0.98384564, Train F1 Score: 0.94127243
+Epoch 6, Val Loss: 0.27401246, Val Accuracy: 0.97578475, Val F1 Score: 0.90969900
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.15767626, Train Accuracy: 0.96993493, Train F1 Score: 0.89563863
+Epoch 7, Val Loss: 0.25812653, Val Accuracy: 0.96771300, Val F1 Score: 0.88311688
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.09864613, Train Accuracy: 0.98496747, Train F1 Score: 0.94574899
+Epoch 8, Val Loss: 0.26203800, Val Accuracy: 0.98026906, Val F1 Score: 0.92361111
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.07537920, Train Accuracy: 0.99214718, Train F1 Score: 0.97090607
+Epoch 9, Val Loss: 0.28281350, Val Accuracy: 0.98026906, Val F1 Score: 0.92361111
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.04710020, Train Accuracy: 0.99573704, Train F1 Score: 0.98410042
+Epoch 10, Val Loss: 0.23706110, Val Accuracy: 0.97847534, Val F1 Score: 0.91946309
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.04058717, Train Accuracy: 0.99618578, Train F1 Score: 0.98582152
+Epoch 11, Val Loss: 0.27436011, Val Accuracy: 0.98206278, Val F1 Score: 0.93103448
+--------------------------------------------------------------------------------
+Epoch 12, Train Loss: 0.03136665, Train Accuracy: 0.99618578, Train F1 Score: 0.98586866
+Epoch 12, Val Loss: 0.30864514, Val Accuracy: 0.97488789, Val F1 Score: 0.90604027
+--------------------------------------------------------------------------------
+Epoch 13, Train Loss: 0.02953518, Train Accuracy: 0.99551268, Train F1 Score: 0.98341625
+Epoch 13, Val Loss: 0.20340912, Val Accuracy: 0.97847534, Val F1 Score: 0.91946309
+--------------------------------------------------------------------------------
+Epoch 14, Train Loss: 0.02659894, Train Accuracy: 0.99641014, Train F1 Score: 0.98668885
+Epoch 14, Val Loss: 0.25771962, Val Accuracy: 0.96502242, Val F1 Score: 0.87697161
+--------------------------------------------------------------------------------
+Epoch 15, Train Loss: 0.01573986, Train Accuracy: 0.99820507, Train F1 Score: 0.99333333
+Epoch 15, Val Loss: 0.29511544, Val Accuracy: 0.97937220, Val F1 Score: 0.92203390
+--------------------------------------------------------------------------------
+Epoch 16, Train Loss: 0.00995309, Train Accuracy: 0.99910254, Train F1 Score: 0.99666110
+Epoch 16, Val Loss: 0.30562715, Val Accuracy: 0.98295964, Val F1 Score: 0.93470790
+--------------------------------------------------------------------------------
+Epoch 17, Train Loss: 0.01978752, Train Accuracy: 0.99663451, Train F1 Score: 0.98757249
+Epoch 17, Val Loss: 0.22996736, Val Accuracy: 0.98385650, Val F1 Score: 0.93959732
+--------------------------------------------------------------------------------
+Epoch 18, Train Loss: 0.01570149, Train Accuracy: 0.99775634, Train F1 Score: 0.99169435
+Epoch 18, Val Loss: 0.25312688, Val Accuracy: 0.98295964, Val F1 Score: 0.93559322
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAM_O, dataset: original completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.92      0.92      0.92       149
+
+    accuracy                           0.98      1115
+   macro avg       0.95      0.95      0.95      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_5
+================================================================================
+Epoch 1, Train Loss: 0.89465146, Train Accuracy: 0.85867009, Train F1 Score: 0.03784571
+Epoch 1, Val Loss: 0.84766819, Val Accuracy: 0.85829596, Val F1 Score: 0.04819277
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.63483583, Train Accuracy: 0.82339106, Train F1 Score: 0.48115578
+Epoch 2, Val Loss: 0.32744257, Val Accuracy: 0.94798206, Val F1 Score: 0.81761006
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.28886664, Train Accuracy: 0.94013256, Train F1 Score: 0.80364656
+Epoch 3, Val Loss: 0.23496294, Val Accuracy: 0.97488789, Val F1 Score: 0.90604027
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.23498998, Train Accuracy: 0.96108617, Train F1 Score: 0.86191199
+Epoch 4, Val Loss: 0.22628978, Val Accuracy: 0.95784753, Val F1 Score: 0.85538462
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.15221233, Train Accuracy: 0.97113534, Train F1 Score: 0.89733840
+Epoch 5, Val Loss: 0.18375037, Val Accuracy: 0.97937220, Val F1 Score: 0.92358804
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.10210949, Train Accuracy: 0.98695745, Train F1 Score: 0.95177866
+Epoch 6, Val Loss: 0.18511210, Val Accuracy: 0.97668161, Val F1 Score: 0.91503268
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.07489124, Train Accuracy: 0.99037845, Train F1 Score: 0.96448303
+Epoch 7, Val Loss: 0.19675402, Val Accuracy: 0.97757848, Val F1 Score: 0.91856678
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.07615069, Train Accuracy: 0.99059226, Train F1 Score: 0.96540881
+Epoch 8, Val Loss: 0.18631185, Val Accuracy: 0.97309417, Val F1 Score: 0.90322581
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.08104098, Train Accuracy: 0.98909557, Train F1 Score: 0.95993716
+Epoch 9, Val Loss: 0.16574200, Val Accuracy: 0.96771300, Val F1 Score: 0.88819876
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.05424896, Train Accuracy: 0.99230276, Train F1 Score: 0.97169811
+Epoch 10, Val Loss: 0.17261539, Val Accuracy: 0.97309417, Val F1 Score: 0.90506329
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.07148761, Train Accuracy: 0.98717126, Train F1 Score: 0.95348837
+Epoch 11, Val Loss: 0.18444364, Val Accuracy: 0.97847534, Val F1 Score: 0.92052980
+--------------------------------------------------------------------------------
+Epoch 12, Train Loss: 0.03849549, Train Accuracy: 0.99593757, Train F1 Score: 0.98488465
+Epoch 12, Val Loss: 0.19657226, Val Accuracy: 0.97668161, Val F1 Score: 0.91558442
+--------------------------------------------------------------------------------
+Epoch 13, Train Loss: 0.01751106, Train Accuracy: 0.99871713, Train F1 Score: 0.99521531
+Epoch 13, Val Loss: 0.22636689, Val Accuracy: 0.97757848, Val F1 Score: 0.91856678
+--------------------------------------------------------------------------------
+Epoch 14, Train Loss: 0.01893330, Train Accuracy: 0.99914475, Train F1 Score: 0.99680511
+Epoch 14, Val Loss: 0.22476222, Val Accuracy: 0.97757848, Val F1 Score: 0.91856678
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAM_O, dataset: augmented_mixed_5 completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.97      0.98       966
+         1.0       0.83      0.96      0.89       149
+
+    accuracy                           0.97      1115
+   macro avg       0.91      0.96      0.93      1115
+weighted avg       0.97      0.97      0.97      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_10
+================================================================================
+Epoch 1, Train Loss: 0.89691367, Train Accuracy: 0.85653061, Train F1 Score: 0.04871448
+Epoch 1, Val Loss: 0.87944971, Val Accuracy: 0.86098655, Val F1 Score: 0.01273885
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.56569191, Train Accuracy: 0.90102041, Train F1 Score: 0.64520849
+Epoch 2, Val Loss: 0.33686605, Val Accuracy: 0.96950673, Val F1 Score: 0.87943262
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.30017787, Train Accuracy: 0.94020408, Train F1 Score: 0.80557399
+Epoch 3, Val Loss: 0.31039699, Val Accuracy: 0.95874439, Val F1 Score: 0.85256410
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.18761720, Train Accuracy: 0.97204082, Train F1 Score: 0.90036364
+Epoch 4, Val Loss: 0.24857563, Val Accuracy: 0.97757848, Val F1 Score: 0.91103203
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.12132973, Train Accuracy: 0.98714286, Train F1 Score: 0.95230886
+Epoch 5, Val Loss: 0.16684662, Val Accuracy: 0.98385650, Val F1 Score: 0.93793103
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.09245941, Train Accuracy: 0.98653061, Train F1 Score: 0.95074627
+Epoch 6, Val Loss: 0.18096109, Val Accuracy: 0.97757848, Val F1 Score: 0.91803279
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.10285919, Train Accuracy: 0.98204082, Train F1 Score: 0.93604651
+Epoch 7, Val Loss: 0.16828486, Val Accuracy: 0.98116592, Val F1 Score: 0.93023256
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.06361818, Train Accuracy: 0.99142857, Train F1 Score: 0.96851574
+Epoch 8, Val Loss: 0.19825582, Val Accuracy: 0.98385650, Val F1 Score: 0.93750000
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.05102096, Train Accuracy: 0.99469388, Train F1 Score: 0.98036254
+Epoch 9, Val Loss: 0.21958405, Val Accuracy: 0.97668161, Val F1 Score: 0.91333333
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.03167969, Train Accuracy: 0.99653061, Train F1 Score: 0.98715042
+Epoch 10, Val Loss: 0.18383995, Val Accuracy: 0.97937220, Val F1 Score: 0.92358804
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAM_O, dataset: augmented_mixed_10 completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.96      0.91      0.94       149
+
+    accuracy                           0.98      1115
+   macro avg       0.98      0.95      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_20
+================================================================================
+Epoch 1, Train Loss: 0.90242193, Train Accuracy: 0.86008230, Train F1 Score: 0.01319261
+Epoch 1, Val Loss: 0.89521626, Val Accuracy: 0.85919283, Val F1 Score: 0.04848485
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.70250386, Train Accuracy: 0.88496072, Train F1 Score: 0.47925487
+Epoch 2, Val Loss: 0.42043640, Val Accuracy: 0.90762332, Val F1 Score: 0.71309192
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.33829712, Train Accuracy: 0.93583988, Train F1 Score: 0.78761610
+Epoch 3, Val Loss: 0.36628688, Val Accuracy: 0.96502242, Val F1 Score: 0.85608856
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.20959867, Train Accuracy: 0.97343808, Train F1 Score: 0.90260631
+Epoch 4, Val Loss: 0.27564037, Val Accuracy: 0.97130045, Val F1 Score: 0.88732394
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.18094945, Train Accuracy: 0.95940890, Train F1 Score: 0.86134185
+Epoch 5, Val Loss: 0.26165749, Val Accuracy: 0.96771300, Val F1 Score: 0.87586207
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.11320948, Train Accuracy: 0.98410026, Train F1 Score: 0.94205862
+Epoch 6, Val Loss: 0.20125733, Val Accuracy: 0.98026906, Val F1 Score: 0.92413793
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.08640338, Train Accuracy: 0.98671904, Train F1 Score: 0.95173351
+Epoch 7, Val Loss: 0.19626656, Val Accuracy: 0.97937220, Val F1 Score: 0.92150171
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.05473990, Train Accuracy: 0.99476244, Train F1 Score: 0.98055556
+Epoch 8, Val Loss: 0.20687528, Val Accuracy: 0.98385650, Val F1 Score: 0.93793103
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.04495432, Train Accuracy: 0.99663300, Train F1 Score: 0.98741259
+Epoch 9, Val Loss: 0.23004442, Val Accuracy: 0.98206278, Val F1 Score: 0.93103448
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.03082354, Train Accuracy: 0.99738122, Train F1 Score: 0.99020979
+Epoch 10, Val Loss: 0.23287652, Val Accuracy: 0.98206278, Val F1 Score: 0.93103448
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.01953341, Train Accuracy: 0.99850355, Train F1 Score: 0.99440559
+Epoch 11, Val Loss: 0.29415365, Val Accuracy: 0.98206278, Val F1 Score: 0.93006993
+--------------------------------------------------------------------------------
+Epoch 12, Train Loss: 0.01629154, Train Accuracy: 0.99850355, Train F1 Score: 0.99439776
+Epoch 12, Val Loss: 0.22634549, Val Accuracy: 0.98116592, Val F1 Score: 0.92929293
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAM_O, dataset: augmented_mixed_20 completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.94      0.91      0.92       149
+
+    accuracy                           0.98      1115
+   macro avg       0.96      0.95      0.95      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_30
+================================================================================
+Epoch 1, Train Loss: 0.90324154, Train Accuracy: 0.85272790, Train F1 Score: 0.04479283
+Epoch 1, Val Loss: 0.89941971, Val Accuracy: 0.86188341, Val F1 Score: 0.04938272
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.89363719, Train Accuracy: 0.86256906, Train F1 Score: 0.06352941
+Epoch 2, Val Loss: 0.86040478, Val Accuracy: 0.86457399, Val F1 Score: 0.03821656
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.47471049, Train Accuracy: 0.89381906, Train F1 Score: 0.65661642
+Epoch 3, Val Loss: 0.25537577, Val Accuracy: 0.94977578, Val F1 Score: 0.83233533
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.19237276, Train Accuracy: 0.96495166, Train F1 Score: 0.87793145
+Epoch 4, Val Loss: 0.19670282, Val Accuracy: 0.96322870, Val F1 Score: 0.87227414
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.13824394, Train Accuracy: 0.98325276, Train F1 Score: 0.93864643
+Epoch 5, Val Loss: 0.21382667, Val Accuracy: 0.95695067, Val F1 Score: 0.85542169
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.08687785, Train Accuracy: 0.98843232, Train F1 Score: 0.95740623
+Epoch 6, Val Loss: 0.19255850, Val Accuracy: 0.96860987, Val F1 Score: 0.89028213
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.07005377, Train Accuracy: 0.99084945, Train F1 Score: 0.96613419
+Epoch 7, Val Loss: 0.17280757, Val Accuracy: 0.98026906, Val F1 Score: 0.92617450
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.04607423, Train Accuracy: 0.99551105, Train F1 Score: 0.98333333
+Epoch 8, Val Loss: 0.17935053, Val Accuracy: 0.97937220, Val F1 Score: 0.92358804
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.02790686, Train Accuracy: 0.99741022, Train F1 Score: 0.99035370
+Epoch 9, Val Loss: 0.23537031, Val Accuracy: 0.97847534, Val F1 Score: 0.92052980
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.02436403, Train Accuracy: 0.99602901, Train F1 Score: 0.98528471
+Epoch 10, Val Loss: 0.22698843, Val Accuracy: 0.97937220, Val F1 Score: 0.92150171
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.01160405, Train Accuracy: 0.99827348, Train F1 Score: 0.99358974
+Epoch 11, Val Loss: 0.22387648, Val Accuracy: 0.97847534, Val F1 Score: 0.92105263
+--------------------------------------------------------------------------------
+Epoch 12, Train Loss: 0.00398209, Train Accuracy: 0.99930939, Train F1 Score: 0.99743261
+Epoch 12, Val Loss: 0.24640442, Val Accuracy: 0.97847534, Val F1 Score: 0.91946309
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAM_O, dataset: augmented_mixed_30 completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.93      0.93      0.93       149
+
+    accuracy                           0.98      1115
+   macro avg       0.96      0.96      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_40
+================================================================================
+Epoch 1, Train Loss: 0.90044951, Train Accuracy: 0.85329485, Train F1 Score: 0.06153846
+Epoch 1, Val Loss: 0.89163864, Val Accuracy: 0.85739910, Val F1 Score: 0.03636364
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.58920258, Train Accuracy: 0.89530223, Train F1 Score: 0.57898130
+Epoch 2, Val Loss: 0.35174967, Val Accuracy: 0.92466368, Val F1 Score: 0.75722543
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.29027151, Train Accuracy: 0.95863396, Train F1 Score: 0.84947491
+Epoch 3, Val Loss: 0.57488414, Val Accuracy: 0.94529148, Val F1 Score: 0.75889328
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.23365582, Train Accuracy: 0.96665063, Train F1 Score: 0.87906977
+Epoch 4, Val Loss: 0.22059278, Val Accuracy: 0.96681614, Val F1 Score: 0.88328076
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.12214047, Train Accuracy: 0.98605099, Train F1 Score: 0.94842916
+Epoch 5, Val Loss: 0.17266377, Val Accuracy: 0.97399103, Val F1 Score: 0.90553746
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.08483107, Train Accuracy: 0.99021966, Train F1 Score: 0.96375520
+Epoch 6, Val Loss: 0.18450332, Val Accuracy: 0.97578475, Val F1 Score: 0.91205212
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.08132175, Train Accuracy: 0.99198333, Train F1 Score: 0.97020262
+Epoch 7, Val Loss: 0.20292009, Val Accuracy: 0.97937220, Val F1 Score: 0.92203390
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.08817045, Train Accuracy: 0.98765432, Train F1 Score: 0.95446481
+Epoch 8, Val Loss: 0.17658176, Val Accuracy: 0.97219731, Val F1 Score: 0.90095847
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.04862519, Train Accuracy: 0.99470899, Train F1 Score: 0.98043865
+Epoch 9, Val Loss: 0.19104181, Val Accuracy: 0.98116592, Val F1 Score: 0.92881356
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.03762049, Train Accuracy: 0.99711400, Train F1 Score: 0.98924731
+Epoch 10, Val Loss: 0.19615724, Val Accuracy: 0.98116592, Val F1 Score: 0.92881356
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAM_O, dataset: augmented_mixed_40 completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.98      0.98       966
+         1.0       0.88      0.93      0.91       149
+
+    accuracy                           0.97      1115
+   macro avg       0.93      0.96      0.95      1115
+weighted avg       0.97      0.97      0.97      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_50
+================================================================================
+Epoch 1, Train Loss: 0.89437920, Train Accuracy: 0.85455634, Train F1 Score: 0.07428571
+Epoch 1, Val Loss: 0.89500175, Val Accuracy: 0.85291480, Val F1 Score: 0.02380952
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.46061254, Train Accuracy: 0.90707766, Train F1 Score: 0.68934467
+Epoch 2, Val Loss: 0.25398297, Val Accuracy: 0.95426009, Val F1 Score: 0.84307692
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.20825036, Train Accuracy: 0.96034715, Train F1 Score: 0.86347244
+Epoch 3, Val Loss: 0.24662027, Val Accuracy: 0.95784753, Val F1 Score: 0.85358255
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.13594100, Train Accuracy: 0.98024839, Train F1 Score: 0.92841649
+Epoch 4, Val Loss: 0.16136781, Val Accuracy: 0.97937220, Val F1 Score: 0.92358804
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.09780937, Train Accuracy: 0.98653299, Train F1 Score: 0.95071194
+Epoch 5, Val Loss: 0.17635650, Val Accuracy: 0.98116592, Val F1 Score: 0.92783505
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.06780963, Train Accuracy: 0.99221906, Train F1 Score: 0.97127072
+Epoch 6, Val Loss: 0.18397480, Val Accuracy: 0.98206278, Val F1 Score: 0.93055556
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.04877471, Train Accuracy: 0.99506210, Train F1 Score: 0.98165648
+Epoch 7, Val Loss: 0.23622003, Val Accuracy: 0.98295964, Val F1 Score: 0.93559322
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.03608390, Train Accuracy: 0.99670807, Train F1 Score: 0.98776418
+Epoch 8, Val Loss: 0.17939909, Val Accuracy: 0.98116592, Val F1 Score: 0.93023256
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.02919594, Train Accuracy: 0.99730660, Train F1 Score: 0.98998888
+Epoch 9, Val Loss: 0.19147502, Val Accuracy: 0.98295964, Val F1 Score: 0.93602694
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAM_O, dataset: augmented_mixed_50 completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.91      0.93      0.92       149
+
+    accuracy                           0.98      1115
+   macro avg       0.95      0.96      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_60
+================================================================================
+Epoch 1, Train Loss: 0.87113884, Train Accuracy: 0.85355590, Train F1 Score: 0.17011129
+Epoch 1, Val Loss: 0.54007702, Val Accuracy: 0.89865471, Val F1 Score: 0.67055394
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.39187577, Train Accuracy: 0.92130734, Train F1 Score: 0.74087760
+Epoch 2, Val Loss: 0.28616270, Val Accuracy: 0.95336323, Val F1 Score: 0.83544304
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.19368551, Train Accuracy: 0.97292748, Train F1 Score: 0.90178117
+Epoch 3, Val Loss: 0.23541943, Val Accuracy: 0.97399103, Val F1 Score: 0.89824561
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.12150146, Train Accuracy: 0.98611306, Train F1 Score: 0.94867807
+Epoch 4, Val Loss: 0.22634360, Val Accuracy: 0.97757848, Val F1 Score: 0.91467577
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.08986753, Train Accuracy: 0.99018095, Train F1 Score: 0.96342738
+Epoch 5, Val Loss: 0.22020166, Val Accuracy: 0.98206278, Val F1 Score: 0.93103448
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.07069676, Train Accuracy: 0.99088231, Train F1 Score: 0.96616346
+Epoch 6, Val Loss: 0.17835846, Val Accuracy: 0.97847534, Val F1 Score: 0.92105263
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.04902631, Train Accuracy: 0.99424884, Train F1 Score: 0.97867915
+Epoch 7, Val Loss: 0.19763803, Val Accuracy: 0.98565022, Val F1 Score: 0.94444444
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.04906533, Train Accuracy: 0.99410857, Train F1 Score: 0.97819315
+Epoch 8, Val Loss: 0.21035871, Val Accuracy: 0.98565022, Val F1 Score: 0.94444444
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.03481700, Train Accuracy: 0.99635292, Train F1 Score: 0.98643006
+Epoch 9, Val Loss: 0.16988751, Val Accuracy: 0.98475336, Val F1 Score: 0.94197952
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.02058824, Train Accuracy: 0.99831673, Train F1 Score: 0.99371728
+Epoch 10, Val Loss: 0.20138255, Val Accuracy: 0.98026906, Val F1 Score: 0.92617450
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.02350718, Train Accuracy: 0.99663347, Train F1 Score: 0.98751301
+Epoch 11, Val Loss: 0.20971062, Val Accuracy: 0.97937220, Val F1 Score: 0.92203390
+--------------------------------------------------------------------------------
+Epoch 12, Train Loss: 0.03862251, Train Accuracy: 0.99368775, Train F1 Score: 0.97662338
+Epoch 12, Val Loss: 0.18867152, Val Accuracy: 0.98385650, Val F1 Score: 0.93918919
+--------------------------------------------------------------------------------
+Epoch 13, Train Loss: 0.00991305, Train Accuracy: 0.99901810, Train F1 Score: 0.99634083
+Epoch 13, Val Loss: 0.22618351, Val Accuracy: 0.96950673, Val F1 Score: 0.89240506
+--------------------------------------------------------------------------------
+Epoch 14, Train Loss: 0.02044860, Train Accuracy: 0.99509048, Train F1 Score: 0.98200514
+Epoch 14, Val Loss: 0.19913237, Val Accuracy: 0.98385650, Val F1 Score: 0.93959732
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAM_O, dataset: augmented_mixed_60 completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.96      0.93      0.94       149
+
+    accuracy                           0.98      1115
+   macro avg       0.97      0.96      0.97      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_70
+================================================================================
+Epoch 1, Train Loss: 0.89203700, Train Accuracy: 0.85174917, Train F1 Score: 0.12197029
+Epoch 1, Val Loss: 0.84266069, Val Accuracy: 0.84304933, Val F1 Score: 0.06417112
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.52912477, Train Accuracy: 0.88739274, Train F1 Score: 0.65811623
+Epoch 2, Val Loss: 0.42464484, Val Accuracy: 0.89865471, Val F1 Score: 0.70649351
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.40111259, Train Accuracy: 0.90613861, Train F1 Score: 0.72280702
+Epoch 3, Val Loss: 0.41405984, Val Accuracy: 0.94349776, Val F1 Score: 0.79069767
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.37356014, Train Accuracy: 0.90112211, Train F1 Score: 0.71852687
+Epoch 4, Val Loss: 0.35009472, Val Accuracy: 0.92466368, Val F1 Score: 0.76795580
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.44122486, Train Accuracy: 0.83577558, Train F1 Score: 0.59922680
+Epoch 5, Val Loss: 0.51948697, Val Accuracy: 0.81704036, Val F1 Score: 0.57322176
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.34646948, Train Accuracy: 0.88039604, Train F1 Score: 0.68143460
+Epoch 6, Val Loss: 0.32848606, Val Accuracy: 0.91569507, Val F1 Score: 0.74594595
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.22273665, Train Accuracy: 0.93689769, Train F1 Score: 0.80280528
+Epoch 7, Val Loss: 0.26251289, Val Accuracy: 0.97668161, Val F1 Score: 0.90579710
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.15036314, Train Accuracy: 0.97306931, Train F1 Score: 0.90573013
+Epoch 8, Val Loss: 0.26682041, Val Accuracy: 0.95695067, Val F1 Score: 0.85093168
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.16171298, Train Accuracy: 0.97122112, Train F1 Score: 0.89822596
+Epoch 9, Val Loss: 0.29211797, Val Accuracy: 0.96681614, Val F1 Score: 0.87017544
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.10787634, Train Accuracy: 0.98666667, Train F1 Score: 0.95118415
+Epoch 10, Val Loss: 0.22211784, Val Accuracy: 0.97130045, Val F1 Score: 0.89473684
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.07743367, Train Accuracy: 0.98996700, Train F1 Score: 0.96310680
+Epoch 11, Val Loss: 0.26504198, Val Accuracy: 0.97937220, Val F1 Score: 0.91872792
+--------------------------------------------------------------------------------
+Epoch 12, Train Loss: 0.06031130, Train Accuracy: 0.99168317, Train F1 Score: 0.96943231
+Epoch 12, Val Loss: 0.27605051, Val Accuracy: 0.98116592, Val F1 Score: 0.92631579
+--------------------------------------------------------------------------------
+Epoch 13, Train Loss: 0.04652036, Train Accuracy: 0.99498350, Train F1 Score: 0.98140900
+Epoch 13, Val Loss: 0.29794823, Val Accuracy: 0.97847534, Val F1 Score: 0.91780822
+--------------------------------------------------------------------------------
+Epoch 14, Train Loss: 0.03067864, Train Accuracy: 0.99603960, Train F1 Score: 0.98529412
+Epoch 14, Val Loss: 0.30449753, Val Accuracy: 0.97309417, Val F1 Score: 0.90196078
+--------------------------------------------------------------------------------
+Epoch 15, Train Loss: 0.03422665, Train Accuracy: 0.99577558, Train F1 Score: 0.98445092
+Epoch 15, Val Loss: 0.28582413, Val Accuracy: 0.97847534, Val F1 Score: 0.91946309
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAM_O, dataset: augmented_mixed_70 completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.98      0.98       966
+         1.0       0.88      0.91      0.89       149
+
+    accuracy                           0.97      1115
+   macro avg       0.93      0.95      0.94      1115
+weighted avg       0.97      0.97      0.97      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_80
+================================================================================
+Epoch 1, Train Loss: 0.82993603, Train Accuracy: 0.85860349, Train F1 Score: 0.28227848
+Epoch 1, Val Loss: 0.39415801, Val Accuracy: 0.94349776, Val F1 Score: 0.78929766
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.27933577, Train Accuracy: 0.94014963, Train F1 Score: 0.80503656
+Epoch 2, Val Loss: 0.26823522, Val Accuracy: 0.93811659, Val F1 Score: 0.80229226
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.16392167, Train Accuracy: 0.97605985, Train F1 Score: 0.91451469
+Epoch 3, Val Loss: 0.22548712, Val Accuracy: 0.95964126, Val F1 Score: 0.86068111
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.15811342, Train Accuracy: 0.97942643, Train F1 Score: 0.92469192
+Epoch 4, Val Loss: 0.18989181, Val Accuracy: 0.97937220, Val F1 Score: 0.92203390
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.10980324, Train Accuracy: 0.98266833, Train F1 Score: 0.93735917
+Epoch 5, Val Loss: 0.21876677, Val Accuracy: 0.96860987, Val F1 Score: 0.88745981
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.08543254, Train Accuracy: 0.98827930, Train F1 Score: 0.95711679
+Epoch 6, Val Loss: 0.20812382, Val Accuracy: 0.96771300, Val F1 Score: 0.88607595
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.05294768, Train Accuracy: 0.99301746, Train F1 Score: 0.97414589
+Epoch 7, Val Loss: 0.21170744, Val Accuracy: 0.96681614, Val F1 Score: 0.88253968
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.03846344, Train Accuracy: 0.99551122, Train F1 Score: 0.98334875
+Epoch 8, Val Loss: 0.23660370, Val Accuracy: 0.97130045, Val F1 Score: 0.89677419
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.02529689, Train Accuracy: 0.99812968, Train F1 Score: 0.99302650
+Epoch 9, Val Loss: 0.23800643, Val Accuracy: 0.97309417, Val F1 Score: 0.90259740
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAM_O, dataset: augmented_mixed_80 completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.93      0.91      0.92       149
+
+    accuracy                           0.98      1115
+   macro avg       0.96      0.95      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_90
+================================================================================
+Epoch 1, Train Loss: 0.73363654, Train Accuracy: 0.85542169, Train F1 Score: 0.43490305
+Epoch 1, Val Loss: 0.37406847, Val Accuracy: 0.93273543, Val F1 Score: 0.77611940
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.29578776, Train Accuracy: 0.94660997, Train F1 Score: 0.82020684
+Epoch 2, Val Loss: 0.24604226, Val Accuracy: 0.96950673, Val F1 Score: 0.88741722
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.15831631, Train Accuracy: 0.97732105, Train F1 Score: 0.91759657
+Epoch 3, Val Loss: 0.18284581, Val Accuracy: 0.98295964, Val F1 Score: 0.93515358
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.11425038, Train Accuracy: 0.98499882, Train F1 Score: 0.94499783
+Epoch 4, Val Loss: 0.20196240, Val Accuracy: 0.98385650, Val F1 Score: 0.93835616
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.09193396, Train Accuracy: 0.98747933, Train F1 Score: 0.95419188
+Epoch 5, Val Loss: 0.18496906, Val Accuracy: 0.98295964, Val F1 Score: 0.93559322
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.05351248, Train Accuracy: 0.99385778, Train F1 Score: 0.97723292
+Epoch 6, Val Loss: 0.18553396, Val Accuracy: 0.98565022, Val F1 Score: 0.94444444
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.03913778, Train Accuracy: 0.99704701, Train F1 Score: 0.98899163
+Epoch 7, Val Loss: 0.19707302, Val Accuracy: 0.98295964, Val F1 Score: 0.93559322
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.02330183, Train Accuracy: 0.99822821, Train F1 Score: 0.99339498
+Epoch 8, Val Loss: 0.20712382, Val Accuracy: 0.98654709, Val F1 Score: 0.94809689
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAM_O, dataset: augmented_mixed_90 completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.95      0.92      0.94       149
+
+    accuracy                           0.98      1115
+   macro avg       0.97      0.96      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OAM_O
+Dataset: augmented_mixed_100
+================================================================================
+Epoch 1, Train Loss: 0.73165032, Train Accuracy: 0.87354129, Train F1 Score: 0.40715413
+Epoch 1, Val Loss: 0.30276353, Val Accuracy: 0.95067265, Val F1 Score: 0.82758621
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.23002597, Train Accuracy: 0.96128815, Train F1 Score: 0.86570650
+Epoch 2, Val Loss: 0.24706616, Val Accuracy: 0.96591928, Val F1 Score: 0.87662338
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.15419553, Train Accuracy: 0.97284560, Train F1 Score: 0.90457413
+Epoch 3, Val Loss: 0.26142082, Val Accuracy: 0.96233184, Val F1 Score: 0.86538462
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.12084104, Train Accuracy: 0.98507630, Train F1 Score: 0.94506402
+Epoch 4, Val Loss: 0.22930074, Val Accuracy: 0.97578475, Val F1 Score: 0.90909091
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.08498509, Train Accuracy: 0.98911580, Train F1 Score: 0.95990079
+Epoch 5, Val Loss: 0.22355998, Val Accuracy: 0.98295964, Val F1 Score: 0.93425606
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.06434350, Train Accuracy: 0.99158438, Train F1 Score: 0.96902107
+Epoch 6, Val Loss: 0.23576096, Val Accuracy: 0.97847534, Val F1 Score: 0.91891892
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.03566291, Train Accuracy: 0.99573609, Train F1 Score: 0.98420615
+Epoch 7, Val Loss: 0.24762827, Val Accuracy: 0.98026906, Val F1 Score: 0.92567568
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.02731385, Train Accuracy: 0.99697038, Train F1 Score: 0.98875469
+Epoch 8, Val Loss: 0.25903671, Val Accuracy: 0.98295964, Val F1 Score: 0.93515358
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.02246346, Train Accuracy: 0.99842908, Train F1 Score: 0.99414716
+Epoch 9, Val Loss: 0.29595881, Val Accuracy: 0.98295964, Val F1 Score: 0.93425606
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.01554772, Train Accuracy: 0.99921454, Train F1 Score: 0.99706745
+Epoch 10, Val Loss: 0.27882977, Val Accuracy: 0.98116592, Val F1 Score: 0.92832765
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OAM_O, dataset: augmented_mixed_100 completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.96      0.91      0.93       149
+
+    accuracy                           0.98      1115
+   macro avg       0.97      0.95      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_AM_O
+Dataset: augmented_mixed_100
+================================================================================
+Epoch 1, Train Loss: 0.89351435, Train Accuracy: 0.84960718, Train F1 Score: 0.12303665
+Epoch 1, Val Loss: 0.89753147, Val Accuracy: 0.83228700, Val F1 Score: 0.05076142
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.64346605, Train Accuracy: 0.79865320, Train F1 Score: 0.47390029
+Epoch 2, Val Loss: 0.59554772, Val Accuracy: 0.79641256, Val F1 Score: 0.54509018
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.43978503, Train Accuracy: 0.90931538, Train F1 Score: 0.70851371
+Epoch 3, Val Loss: 0.44832363, Val Accuracy: 0.94260090, Val F1 Score: 0.76642336
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.26897186, Train Accuracy: 0.96610550, Train F1 Score: 0.87551525
+Epoch 4, Val Loss: 0.49578047, Val Accuracy: 0.93811659, Val F1 Score: 0.74909091
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.16139150, Train Accuracy: 0.97732884, Train F1 Score: 0.91861402
+Epoch 5, Val Loss: 0.33696207, Val Accuracy: 0.95964126, Val F1 Score: 0.84745763
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.15591969, Train Accuracy: 0.97620651, Train F1 Score: 0.91410049
+Epoch 6, Val Loss: 0.33340713, Val Accuracy: 0.95964126, Val F1 Score: 0.84641638
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.08990363, Train Accuracy: 0.98832772, Train F1 Score: 0.95716639
+Epoch 7, Val Loss: 0.69369931, Val Accuracy: 0.95246637, Val F1 Score: 0.79215686
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.10224982, Train Accuracy: 0.99034792, Train F1 Score: 0.96401674
+Epoch 8, Val Loss: 0.31547652, Val Accuracy: 0.96860987, Val F1 Score: 0.87889273
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.04643437, Train Accuracy: 0.99461279, Train F1 Score: 0.98006645
+Epoch 9, Val Loss: 0.40737129, Val Accuracy: 0.96860987, Val F1 Score: 0.87804878
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.03614285, Train Accuracy: 0.99708193, Train F1 Score: 0.98913952
+Epoch 10, Val Loss: 0.50128705, Val Accuracy: 0.96412556, Val F1 Score: 0.85714286
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.02480584, Train Accuracy: 0.99887767, Train F1 Score: 0.99580889
+Epoch 11, Val Loss: 0.61359113, Val Accuracy: 0.96233184, Val F1 Score: 0.84328358
+--------------------------------------------------------------------------------
+Epoch 12, Train Loss: 0.03642630, Train Accuracy: 0.99349046, Train F1 Score: 0.97613169
+Epoch 12, Val Loss: 0.47803504, Val Accuracy: 0.96771300, Val F1 Score: 0.86956522
+--------------------------------------------------------------------------------
+Epoch 13, Train Loss: 0.02667761, Train Accuracy: 0.99797980, Train F1 Score: 0.99246862
+Epoch 13, Val Loss: 0.45659977, Val Accuracy: 0.96771300, Val F1 Score: 0.87323944
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_AM_O, dataset: augmented_mixed_100 completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.98      0.99      0.98       966
+         1.0       0.91      0.85      0.88       149
+
+    accuracy                           0.97      1115
+   macro avg       0.94      0.92      0.93      1115
+weighted avg       0.97      0.97      0.97      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OGM_O
+Dataset: original
+================================================================================
+Epoch 1, Train Loss: 0.89223045, Train Accuracy: 0.85438636, Train F1 Score: 0.04418262
+Epoch 1, Val Loss: 0.88946759, Val Accuracy: 0.86098655, Val F1 Score: 0.00000000
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.57053349, Train Accuracy: 0.86695086, Train F1 Score: 0.57551897
+Epoch 2, Val Loss: 0.47363745, Val Accuracy: 0.88520179, Val F1 Score: 0.64640884
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.32111969, Train Accuracy: 0.92124748, Train F1 Score: 0.75437369
+Epoch 3, Val Loss: 0.28314596, Val Accuracy: 0.94618834, Val F1 Score: 0.82035928
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.21360875, Train Accuracy: 0.95737043, Train F1 Score: 0.85474006
+Epoch 4, Val Loss: 0.22157107, Val Accuracy: 0.97668161, Val F1 Score: 0.91156463
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.14669604, Train Accuracy: 0.98205071, Train F1 Score: 0.93464052
+Epoch 5, Val Loss: 0.20918031, Val Accuracy: 0.97488789, Val F1 Score: 0.90666667
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.08303790, Train Accuracy: 0.98833296, Train F1 Score: 0.95730706
+Epoch 6, Val Loss: 0.18580889, Val Accuracy: 0.98206278, Val F1 Score: 0.93103448
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.06784541, Train Accuracy: 0.99461521, Train F1 Score: 0.97989950
+Epoch 7, Val Loss: 0.18852767, Val Accuracy: 0.97847534, Val F1 Score: 0.91780822
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.07184017, Train Accuracy: 0.99057662, Train F1 Score: 0.96534653
+Epoch 8, Val Loss: 0.20307972, Val Accuracy: 0.98475336, Val F1 Score: 0.94117647
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.05262755, Train Accuracy: 0.99416648, Train F1 Score: 0.97833333
+Epoch 9, Val Loss: 0.19113073, Val Accuracy: 0.98475336, Val F1 Score: 0.94117647
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.03908604, Train Accuracy: 0.99618578, Train F1 Score: 0.98577406
+Epoch 10, Val Loss: 0.19603381, Val Accuracy: 0.98385650, Val F1 Score: 0.93793103
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.02696423, Train Accuracy: 0.99820507, Train F1 Score: 0.99329983
+Epoch 11, Val Loss: 0.22724684, Val Accuracy: 0.98475336, Val F1 Score: 0.94076655
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OGM_O, dataset: original completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.96      0.91      0.93       149
+
+    accuracy                           0.98      1115
+   macro avg       0.97      0.95      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OGM_O
+Dataset: generated_350_each
+================================================================================
+Epoch 1, Train Loss: 0.87875721, Train Accuracy: 0.80957921, Train F1 Score: 0.01405622
+Epoch 1, Val Loss: 0.75068711, Val Accuracy: 0.86367713, Val F1 Score: 0.01298701
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.71949794, Train Accuracy: 0.83789025, Train F1 Score: 0.45924968
+Epoch 2, Val Loss: 0.37767562, Val Accuracy: 0.88340807, Val F1 Score: 0.68292683
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.30476540, Train Accuracy: 0.92670157, Train F1 Score: 0.82000000
+Epoch 3, Val Loss: 0.22242394, Val Accuracy: 0.97488789, Val F1 Score: 0.90209790
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.17260431, Train Accuracy: 0.96994377, Train F1 Score: 0.92022645
+Epoch 4, Val Loss: 0.16193986, Val Accuracy: 0.98385650, Val F1 Score: 0.93793103
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.12894748, Train Accuracy: 0.97808804, Train F1 Score: 0.94160207
+Epoch 5, Val Loss: 0.18359217, Val Accuracy: 0.98116592, Val F1 Score: 0.92733564
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.08058572, Train Accuracy: 0.98778360, Train F1 Score: 0.96706743
+Epoch 6, Val Loss: 0.17920047, Val Accuracy: 0.98206278, Val F1 Score: 0.93006993
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.05714717, Train Accuracy: 0.99224355, Train F1 Score: 0.97892518
+Epoch 7, Val Loss: 0.16469190, Val Accuracy: 0.98565022, Val F1 Score: 0.94366197
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.05665454, Train Accuracy: 0.99088617, Train F1 Score: 0.97553358
+Epoch 8, Val Loss: 0.26997289, Val Accuracy: 0.97757848, Val F1 Score: 0.91039427
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.04287308, Train Accuracy: 0.99418266, Train F1 Score: 0.98421053
+Epoch 9, Val Loss: 0.19127654, Val Accuracy: 0.98295964, Val F1 Score: 0.93470790
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OGM_O, dataset: generated_350_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.96      0.91      0.94       149
+
+    accuracy                           0.98      1115
+   macro avg       0.98      0.95      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OGM_O
+Dataset: generated_500_each
+================================================================================
+Epoch 1, Train Loss: 0.86968303, Train Accuracy: 0.79439252, Train F1 Score: 0.00883392
+Epoch 1, Val Loss: 0.73716119, Val Accuracy: 0.86636771, Val F1 Score: 0.00000000
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.69517349, Train Accuracy: 0.82939344, Train F1 Score: 0.48249027
+Epoch 2, Val Loss: 0.31751201, Val Accuracy: 0.89237668, Val F1 Score: 0.70731707
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.24500762, Train Accuracy: 0.94245923, Train F1 Score: 0.86477175
+Epoch 3, Val Loss: 0.17870726, Val Accuracy: 0.94977578, Val F1 Score: 0.83333333
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.12803388, Train Accuracy: 0.97782664, Train F1 Score: 0.94586130
+Epoch 4, Val Loss: 0.15453738, Val Accuracy: 0.97130045, Val F1 Score: 0.89542484
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.08393384, Train Accuracy: 0.98735569, Train F1 Score: 0.96879240
+Epoch 5, Val Loss: 0.17225772, Val Accuracy: 0.96950673, Val F1 Score: 0.89032258
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.06044426, Train Accuracy: 0.99248671, Train F1 Score: 0.98133819
+Epoch 6, Val Loss: 0.15661618, Val Accuracy: 0.96591928, Val F1 Score: 0.88198758
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.05015349, Train Accuracy: 0.99468572, Train F1 Score: 0.98673983
+Epoch 7, Val Loss: 0.11970308, Val Accuracy: 0.98206278, Val F1 Score: 0.93243243
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.03912522, Train Accuracy: 0.99450247, Train F1 Score: 0.98631387
+Epoch 8, Val Loss: 0.17633287, Val Accuracy: 0.97309417, Val F1 Score: 0.90259740
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.04617123, Train Accuracy: 0.99102071, Train F1 Score: 0.97789806
+Epoch 9, Val Loss: 0.13302857, Val Accuracy: 0.97488789, Val F1 Score: 0.90909091
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.01759046, Train Accuracy: 0.99835074, Train F1 Score: 0.99589603
+Epoch 10, Val Loss: 0.16246042, Val Accuracy: 0.98026906, Val F1 Score: 0.92666667
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.01125221, Train Accuracy: 0.99853399, Train F1 Score: 0.99635701
+Epoch 11, Val Loss: 0.16297052, Val Accuracy: 0.98026906, Val F1 Score: 0.92810458
+--------------------------------------------------------------------------------
+Epoch 12, Train Loss: 0.00648423, Train Accuracy: 0.99945025, Train F1 Score: 0.99863326
+Epoch 12, Val Loss: 0.16385795, Val Accuracy: 0.98116592, Val F1 Score: 0.93159609
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OGM_O, dataset: generated_500_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.94      0.93      0.93       149
+
+    accuracy                           0.98      1115
+   macro avg       0.96      0.96      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OGM_O
+Dataset: generated_1000_each
+================================================================================
+Epoch 1, Train Loss: 0.84641216, Train Accuracy: 0.74833514, Train F1 Score: 0.01812689
+Epoch 1, Val Loss: 0.67785978, Val Accuracy: 0.86636771, Val F1 Score: 0.01324503
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.73823159, Train Accuracy: 0.78922100, Train F1 Score: 0.35344418
+Epoch 2, Val Loss: 0.44056172, Val Accuracy: 0.88520179, Val F1 Score: 0.65775401
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.25248231, Train Accuracy: 0.93340561, Train F1 Score: 0.87404804
+Epoch 3, Val Loss: 0.14229201, Val Accuracy: 0.96591928, Val F1 Score: 0.88198758
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.13257427, Train Accuracy: 0.97243302, Train F1 Score: 0.94553244
+Epoch 4, Val Loss: 0.12055251, Val Accuracy: 0.98116592, Val F1 Score: 0.92832765
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.10914472, Train Accuracy: 0.97692427, Train F1 Score: 0.95439241
+Epoch 5, Val Loss: 0.11984561, Val Accuracy: 0.98475336, Val F1 Score: 0.94117647
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.06104603, Train Accuracy: 0.99070776, Train F1 Score: 0.98127341
+Epoch 6, Val Loss: 0.13470398, Val Accuracy: 0.98385650, Val F1 Score: 0.93706294
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.05036354, Train Accuracy: 0.99241134, Train F1 Score: 0.98464431
+Epoch 7, Val Loss: 0.12930131, Val Accuracy: 0.98295964, Val F1 Score: 0.93515358
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.03740520, Train Accuracy: 0.99519901, Train F1 Score: 0.99029734
+Epoch 8, Val Loss: 0.12412837, Val Accuracy: 0.98385650, Val F1 Score: 0.93835616
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.02704057, Train Accuracy: 0.99736720, Train F1 Score: 0.99466918
+Epoch 9, Val Loss: 0.14109523, Val Accuracy: 0.98385650, Val F1 Score: 0.93793103
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.02308263, Train Accuracy: 0.99814155, Train F1 Score: 0.99623588
+Epoch 10, Val Loss: 0.13651062, Val Accuracy: 0.98475336, Val F1 Score: 0.94158076
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OGM_O, dataset: generated_1000_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      0.99       966
+         1.0       0.97      0.91      0.94       149
+
+    accuracy                           0.98      1115
+   macro avg       0.98      0.95      0.97      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OGM_O
+Dataset: generated_1500_each
+================================================================================
+Epoch 1, Train Loss: 0.82629035, Train Accuracy: 0.71637388, Train F1 Score: 0.00936768
+Epoch 1, Val Loss: 0.65302870, Val Accuracy: 0.86636771, Val F1 Score: 0.01324503
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.78825377, Train Accuracy: 0.73756202, Train F1 Score: 0.26950355
+Epoch 2, Val Loss: 0.52664405, Val Accuracy: 0.82242152, Val F1 Score: 0.47894737
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.31481518, Train Accuracy: 0.92061151, Train F1 Score: 0.86409550
+Epoch 3, Val Loss: 0.16978536, Val Accuracy: 0.95964126, Val F1 Score: 0.84320557
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.13652016, Train Accuracy: 0.97197264, Train F1 Score: 0.95048567
+Epoch 4, Val Loss: 0.10619623, Val Accuracy: 0.98026906, Val F1 Score: 0.92361111
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.07944579, Train Accuracy: 0.98404184, Train F1 Score: 0.97168689
+Epoch 5, Val Loss: 0.11142679, Val Accuracy: 0.97937220, Val F1 Score: 0.92150171
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.04646010, Train Accuracy: 0.99302669, Train F1 Score: 0.98758950
+Epoch 6, Val Loss: 0.13752919, Val Accuracy: 0.97309417, Val F1 Score: 0.90259740
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.03117921, Train Accuracy: 0.99503822, Train F1 Score: 0.99117156
+Epoch 7, Val Loss: 0.15970390, Val Accuracy: 0.97578475, Val F1 Score: 0.90322581
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.02878207, Train Accuracy: 0.99544053, Train F1 Score: 0.99188544
+Epoch 8, Val Loss: 0.11564411, Val Accuracy: 0.98206278, Val F1 Score: 0.93243243
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.02340133, Train Accuracy: 0.99570873, Train F1 Score: 0.99235547
+Epoch 9, Val Loss: 0.12169435, Val Accuracy: 0.97668161, Val F1 Score: 0.91612903
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OGM_O, dataset: generated_1500_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.98      0.99      0.99       966
+         1.0       0.96      0.89      0.92       149
+
+    accuracy                           0.98      1115
+   macro avg       0.97      0.94      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OGM_O
+Dataset: generated_2000_each
+================================================================================
+Epoch 1, Train Loss: 0.81141471, Train Accuracy: 0.68594064, Train F1 Score: 0.04115523
+Epoch 1, Val Loss: 0.68937959, Val Accuracy: 0.86457399, Val F1 Score: 0.02580645
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.70707437, Train Accuracy: 0.74482677, Train F1 Score: 0.36229314
+Epoch 2, Val Loss: 0.31442214, Val Accuracy: 0.91928251, Val F1 Score: 0.69178082
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.18876911, Train Accuracy: 0.95341138, Train F1 Score: 0.92509506
+Epoch 3, Val Loss: 0.12806482, Val Accuracy: 0.96502242, Val F1 Score: 0.87697161
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.07848932, Train Accuracy: 0.98332742, Train F1 Score: 0.97287940
+Epoch 4, Val Loss: 0.14068990, Val Accuracy: 0.97040359, Val F1 Score: 0.89320388
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.04660349, Train Accuracy: 0.99089512, Train F1 Score: 0.98518946
+Epoch 5, Val Loss: 0.11079780, Val Accuracy: 0.98026906, Val F1 Score: 0.92517007
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.02997775, Train Accuracy: 0.99444247, Train F1 Score: 0.99095284
+Epoch 6, Val Loss: 0.11806406, Val Accuracy: 0.97847534, Val F1 Score: 0.92156863
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.02302029, Train Accuracy: 0.99645264, Train F1 Score: 0.99421742
+Epoch 7, Val Loss: 0.12991924, Val Accuracy: 0.97937220, Val F1 Score: 0.92203390
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.01942477, Train Accuracy: 0.99692562, Train F1 Score: 0.99499422
+Epoch 8, Val Loss: 0.13106171, Val Accuracy: 0.97937220, Val F1 Score: 0.92203390
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.01463954, Train Accuracy: 0.99751685, Train F1 Score: 0.99595298
+Epoch 9, Val Loss: 0.13503026, Val Accuracy: 0.97937220, Val F1 Score: 0.92358804
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.00701763, Train Accuracy: 0.99929053, Train F1 Score: 0.99884482
+Epoch 10, Val Loss: 0.14245524, Val Accuracy: 0.97668161, Val F1 Score: 0.91333333
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OGM_O, dataset: generated_2000_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.94      0.91      0.93       149
+
+    accuracy                           0.98      1115
+   macro avg       0.96      0.95      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OGM_O
+Dataset: generated_2500_each
+================================================================================
+Epoch 1, Train Loss: 0.77234354, Train Accuracy: 0.67156604, Train F1 Score: 0.20643843
+Epoch 1, Val Loss: 0.79119444, Val Accuracy: 0.57488789, Val F1 Score: 0.36118598
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.31035136, Train Accuracy: 0.90906207, Train F1 Score: 0.86443884
+Epoch 2, Val Loss: 0.31608044, Val Accuracy: 0.91031390, Val F1 Score: 0.70588235
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.13346228, Train Accuracy: 0.96690282, Train F1 Score: 0.95011952
+Epoch 3, Val Loss: 0.12235229, Val Accuracy: 0.97578475, Val F1 Score: 0.90391459
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.06712326, Train Accuracy: 0.98614783, Train F1 Score: 0.97884709
+Epoch 4, Val Loss: 0.12593717, Val Accuracy: 0.97309417, Val F1 Score: 0.89932886
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.03986113, Train Accuracy: 0.99302104, Train F1 Score: 0.98933075
+Epoch 5, Val Loss: 0.10331241, Val Accuracy: 0.97847534, Val F1 Score: 0.91946309
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.02770169, Train Accuracy: 0.99555885, Train F1 Score: 0.99321267
+Epoch 6, Val Loss: 0.12260470, Val Accuracy: 0.97309417, Val F1 Score: 0.89510490
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.02707215, Train Accuracy: 0.99534736, Train F1 Score: 0.99288716
+Epoch 7, Val Loss: 0.13284460, Val Accuracy: 0.97668161, Val F1 Score: 0.91333333
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.01854172, Train Accuracy: 0.99640478, Train F1 Score: 0.99450904
+Epoch 8, Val Loss: 0.19697878, Val Accuracy: 0.96950673, Val F1 Score: 0.88194444
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.03186026, Train Accuracy: 0.99333827, Train F1 Score: 0.98982394
+Epoch 9, Val Loss: 0.13210623, Val Accuracy: 0.97668161, Val F1 Score: 0.91216216
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.00807522, Train Accuracy: 0.99894258, Train F1 Score: 0.99838501
+Epoch 10, Val Loss: 0.13675046, Val Accuracy: 0.97757848, Val F1 Score: 0.91525424
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OGM_O, dataset: generated_2500_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.92      0.92      0.92       149
+
+    accuracy                           0.98      1115
+   macro avg       0.95      0.95      0.95      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OGM_O
+Dataset: generated_3000_each
+================================================================================
+Epoch 1, Train Loss: 0.78916062, Train Accuracy: 0.64157980, Train F1 Score: 0.08540752
+Epoch 1, Val Loss: 0.65492129, Val Accuracy: 0.86905830, Val F1 Score: 0.03947368
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.43314274, Train Accuracy: 0.84115903, Train F1 Score: 0.73205356
+Epoch 2, Val Loss: 0.16205977, Val Accuracy: 0.95784753, Val F1 Score: 0.85173502
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.10886130, Train Accuracy: 0.97178923, Train F1 Score: 0.95938317
+Epoch 3, Val Loss: 0.09919832, Val Accuracy: 0.97937220, Val F1 Score: 0.92255892
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.05128793, Train Accuracy: 0.99005451, Train F1 Score: 0.98553144
+Epoch 4, Val Loss: 0.09669191, Val Accuracy: 0.98206278, Val F1 Score: 0.93103448
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.03873951, Train Accuracy: 0.99330592, Train F1 Score: 0.99025884
+Epoch 5, Val Loss: 0.09073536, Val Accuracy: 0.98475336, Val F1 Score: 0.94158076
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.02839289, Train Accuracy: 0.99560103, Train F1 Score: 0.99359688
+Epoch 6, Val Loss: 0.12345285, Val Accuracy: 0.98026906, Val F1 Score: 0.92465753
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.02435938, Train Accuracy: 0.99588792, Train F1 Score: 0.99402363
+Epoch 7, Val Loss: 0.11419986, Val Accuracy: 0.98475336, Val F1 Score: 0.94197952
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.01717608, Train Accuracy: 0.99693985, Train F1 Score: 0.99555309
+Epoch 8, Val Loss: 0.10672941, Val Accuracy: 0.98475336, Val F1 Score: 0.94076655
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.01246045, Train Accuracy: 0.99808741, Train F1 Score: 0.99721836
+Epoch 9, Val Loss: 0.10128225, Val Accuracy: 0.97937220, Val F1 Score: 0.92203390
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.00768580, Train Accuracy: 0.99933059, Train F1 Score: 0.99902629
+Epoch 10, Val Loss: 0.11238317, Val Accuracy: 0.98026906, Val F1 Score: 0.92517007
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OGM_O, dataset: generated_3000_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.96      0.92      0.94       149
+
+    accuracy                           0.98      1115
+   macro avg       0.98      0.96      0.97      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OGM_O
+Dataset: generated_3500_each
+================================================================================
+Epoch 1, Train Loss: 0.72408938, Train Accuracy: 0.67408571, Train F1 Score: 0.31985428
+Epoch 1, Val Loss: 0.39842447, Val Accuracy: 0.89775785, Val F1 Score: 0.60958904
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.26207694, Train Accuracy: 0.92502400, Train F1 Score: 0.89794464
+Epoch 2, Val Loss: 0.21867979, Val Accuracy: 0.93991031, Val F1 Score: 0.80579710
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.12626867, Train Accuracy: 0.96779262, Train F1 Score: 0.95553681
+Epoch 3, Val Loss: 0.14417015, Val Accuracy: 0.94529148, Val F1 Score: 0.82215743
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.07172183, Train Accuracy: 0.98507463, Train F1 Score: 0.97918949
+Epoch 4, Val Loss: 0.15312668, Val Accuracy: 0.95695067, Val F1 Score: 0.85628743
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.04932876, Train Accuracy: 0.99083530, Train F1 Score: 0.98718731
+Epoch 5, Val Loss: 0.13143338, Val Accuracy: 0.96950673, Val F1 Score: 0.89308176
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.03053859, Train Accuracy: 0.99493759, Train F1 Score: 0.99291127
+Epoch 6, Val Loss: 0.11888585, Val Accuracy: 0.97130045, Val F1 Score: 0.89743590
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.03695854, Train Accuracy: 0.99240639, Train F1 Score: 0.98938118
+Epoch 7, Val Loss: 0.10344218, Val Accuracy: 0.97130045, Val F1 Score: 0.89677419
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.02018424, Train Accuracy: 0.99624684, Train F1 Score: 0.99474777
+Epoch 8, Val Loss: 0.10719669, Val Accuracy: 0.97668161, Val F1 Score: 0.91503268
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.01270596, Train Accuracy: 0.99816706, Train F1 Score: 0.99743558
+Epoch 9, Val Loss: 0.09796193, Val Accuracy: 0.98206278, Val F1 Score: 0.93197279
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.01283962, Train Accuracy: 0.99790521, Train F1 Score: 0.99707103
+Epoch 10, Val Loss: 0.11951020, Val Accuracy: 0.98116592, Val F1 Score: 0.92832765
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.00928262, Train Accuracy: 0.99895261, Train F1 Score: 0.99853516
+Epoch 11, Val Loss: 0.11772852, Val Accuracy: 0.97847534, Val F1 Score: 0.91946309
+--------------------------------------------------------------------------------
+Epoch 12, Train Loss: 0.01416913, Train Accuracy: 0.99738151, Train F1 Score: 0.99633878
+Epoch 12, Val Loss: 0.13762372, Val Accuracy: 0.97399103, Val F1 Score: 0.90553746
+--------------------------------------------------------------------------------
+Epoch 13, Train Loss: 0.01106712, Train Accuracy: 0.99799249, Train F1 Score: 0.99719341
+Epoch 13, Val Loss: 0.10348211, Val Accuracy: 0.98026906, Val F1 Score: 0.92666667
+--------------------------------------------------------------------------------
+Epoch 14, Train Loss: 0.00669909, Train Accuracy: 0.99921445, Train F1 Score: 0.99890150
+Epoch 14, Val Loss: 0.10136145, Val Accuracy: 0.98206278, Val F1 Score: 0.93288591
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OGM_O, dataset: generated_3500_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.94      0.92      0.93       149
+
+    accuracy                           0.98      1115
+   macro avg       0.97      0.96      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OGM_O
+Dataset: generated_4000_each
+================================================================================
+Epoch 1, Train Loss: 0.63754367, Train Accuracy: 0.71012282, Train F1 Score: 0.49531796
+Epoch 1, Val Loss: 0.29279233, Val Accuracy: 0.91928251, Val F1 Score: 0.72392638
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.23511200, Train Accuracy: 0.93056113, Train F1 Score: 0.90918635
+Epoch 2, Val Loss: 0.20650264, Val Accuracy: 0.93811659, Val F1 Score: 0.79883382
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.10462172, Train Accuracy: 0.97495384, Train F1 Score: 0.96630670
+Epoch 3, Val Loss: 0.11905713, Val Accuracy: 0.97488789, Val F1 Score: 0.90604027
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.05785260, Train Accuracy: 0.98779803, Train F1 Score: 0.98344948
+Epoch 4, Val Loss: 0.11083579, Val Accuracy: 0.97399103, Val F1 Score: 0.90235690
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.04146471, Train Accuracy: 0.99108935, Train F1 Score: 0.98792297
+Epoch 5, Val Loss: 0.10829124, Val Accuracy: 0.98206278, Val F1 Score: 0.92957746
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.02685470, Train Accuracy: 0.99526371, Train F1 Score: 0.99357368
+Epoch 6, Val Loss: 0.10834280, Val Accuracy: 0.97578475, Val F1 Score: 0.90847458
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.01809781, Train Accuracy: 0.99654813, Train F1 Score: 0.99532049
+Epoch 7, Val Loss: 0.10176424, Val Accuracy: 0.98385650, Val F1 Score: 0.93877551
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.01801419, Train Accuracy: 0.99542426, Train F1 Score: 0.99379693
+Epoch 8, Val Loss: 0.11905517, Val Accuracy: 0.97219731, Val F1 Score: 0.90095847
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.02057747, Train Accuracy: 0.99582564, Train F1 Score: 0.99434537
+Epoch 9, Val Loss: 0.12127820, Val Accuracy: 0.97757848, Val F1 Score: 0.91638796
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.01151873, Train Accuracy: 0.99727061, Train F1 Score: 0.99630113
+Epoch 10, Val Loss: 0.17607369, Val Accuracy: 0.96771300, Val F1 Score: 0.88535032
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.00906020, Train Accuracy: 0.99823392, Train F1 Score: 0.99760661
+Epoch 11, Val Loss: 0.13917840, Val Accuracy: 0.98116592, Val F1 Score: 0.92881356
+--------------------------------------------------------------------------------
+Epoch 12, Train Loss: 0.00624612, Train Accuracy: 0.99895641, Train F1 Score: 0.99858557
+Epoch 12, Val Loss: 0.14625072, Val Accuracy: 0.97578475, Val F1 Score: 0.91029900
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OGM_O, dataset: generated_4000_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.95      0.93      0.94       149
+
+    accuracy                           0.98      1115
+   macro avg       0.97      0.96      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OGM_O
+Dataset: generated_4500_each
+================================================================================
+Epoch 1, Train Loss: 0.72506457, Train Accuracy: 0.63624879, Train F1 Score: 0.31490553
+Epoch 1, Val Loss: 0.32153190, Val Accuracy: 0.89417040, Val F1 Score: 0.66666667
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.19087683, Train Accuracy: 0.94389537, Train F1 Score: 0.92683400
+Epoch 2, Val Loss: 0.23804713, Val Accuracy: 0.94260090, Val F1 Score: 0.73553719
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.07551159, Train Accuracy: 0.98186817, Train F1 Score: 0.97602201
+Epoch 3, Val Loss: 0.10930489, Val Accuracy: 0.97399103, Val F1 Score: 0.89824561
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.04245811, Train Accuracy: 0.99152857, Train F1 Score: 0.98879717
+Epoch 4, Val Loss: 0.08973696, Val Accuracy: 0.98206278, Val F1 Score: 0.93103448
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.02963359, Train Accuracy: 0.99360927, Train F1 Score: 0.99155040
+Epoch 5, Val Loss: 0.10273498, Val Accuracy: 0.97847534, Val F1 Score: 0.91946309
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.02102717, Train Accuracy: 0.99554135, Train F1 Score: 0.99411072
+Epoch 6, Val Loss: 0.10375013, Val Accuracy: 0.97847534, Val F1 Score: 0.91946309
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.01753739, Train Accuracy: 0.99658170, Train F1 Score: 0.99548222
+Epoch 7, Val Loss: 0.13313580, Val Accuracy: 0.97040359, Val F1 Score: 0.89389068
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.01105036, Train Accuracy: 0.99754774, Train F1 Score: 0.99676439
+Epoch 8, Val Loss: 0.11337237, Val Accuracy: 0.98295964, Val F1 Score: 0.93515358
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.00687190, Train Accuracy: 0.99910827, Train F1 Score: 0.99882237
+Epoch 9, Val Loss: 0.10707450, Val Accuracy: 0.98385650, Val F1 Score: 0.93793103
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OGM_O, dataset: generated_4500_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.96      0.91      0.93       149
+
+    accuracy                           0.98      1115
+   macro avg       0.97      0.95      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_OGM_O
+Dataset: generated_5000_each
+================================================================================
+Epoch 1, Train Loss: 0.69495414, Train Accuracy: 0.64639967, Train F1 Score: 0.39802167
+Epoch 1, Val Loss: 0.45209989, Val Accuracy: 0.78565022, Val F1 Score: 0.51911469
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.17071768, Train Accuracy: 0.95407069, Train F1 Score: 0.94107206
+Epoch 2, Val Loss: 0.13619968, Val Accuracy: 0.96771300, Val F1 Score: 0.88079470
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.08646972, Train Accuracy: 0.97883378, Train F1 Score: 0.97270781
+Epoch 3, Val Loss: 0.10457589, Val Accuracy: 0.97488789, Val F1 Score: 0.90728477
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.04280969, Train Accuracy: 0.99128450, Train F1 Score: 0.98874196
+Epoch 4, Val Loss: 0.09285903, Val Accuracy: 0.98026906, Val F1 Score: 0.92465753
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.02863830, Train Accuracy: 0.99474303, Train F1 Score: 0.99321065
+Epoch 5, Val Loss: 0.10734277, Val Accuracy: 0.97937220, Val F1 Score: 0.92255892
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.02244112, Train Accuracy: 0.99584976, Train F1 Score: 0.99463999
+Epoch 6, Val Loss: 0.12343512, Val Accuracy: 0.96860987, Val F1 Score: 0.88745981
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.01455823, Train Accuracy: 0.99709483, Train F1 Score: 0.99624665
+Epoch 7, Val Loss: 0.12196235, Val Accuracy: 0.98206278, Val F1 Score: 0.93243243
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.01470780, Train Accuracy: 0.99702566, Train F1 Score: 0.99615694
+Epoch 8, Val Loss: 0.11476386, Val Accuracy: 0.97847534, Val F1 Score: 0.91549296
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.00944421, Train Accuracy: 0.99854742, Train F1 Score: 0.99812249
+Epoch 9, Val Loss: 0.11274472, Val Accuracy: 0.97757848, Val F1 Score: 0.91289199
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_OGM_O, dataset: generated_5000_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.99      0.99       966
+         1.0       0.94      0.91      0.92       149
+
+    accuracy                           0.98      1115
+   macro avg       0.96      0.95      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_O
+Dataset: generated_350_each
+================================================================================
+Epoch 1, Train Loss: 0.69693229, Train Accuracy: 0.51285714, Train F1 Score: 0.57534247
+Epoch 1, Val Loss: 0.81774597, Val Accuracy: 0.15336323, Val F1 Score: 0.23870968
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.58912142, Train Accuracy: 0.72285714, Train F1 Score: 0.76682692
+Epoch 2, Val Loss: 0.69242597, Val Accuracy: 0.63766816, Val F1 Score: 0.11013216
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.38006288, Train Accuracy: 0.84714286, Train F1 Score: 0.84194978
+Epoch 3, Val Loss: 1.32106424, Val Accuracy: 0.49147982, Val F1 Score: 0.30429448
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.22436170, Train Accuracy: 0.92285714, Train F1 Score: 0.92263610
+Epoch 4, Val Loss: 1.35008396, Val Accuracy: 0.57937220, Val F1 Score: 0.35488308
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.11906386, Train Accuracy: 0.96571429, Train F1 Score: 0.96571429
+Epoch 5, Val Loss: 0.70211179, Val Accuracy: 0.74529148, Val F1 Score: 0.34259259
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.06362960, Train Accuracy: 0.98571429, Train F1 Score: 0.98571429
+Epoch 6, Val Loss: 1.31646019, Val Accuracy: 0.68071749, Val F1 Score: 0.35971223
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.04339070, Train Accuracy: 0.99142857, Train F1 Score: 0.99142857
+Epoch 7, Val Loss: 1.29809332, Val Accuracy: 0.68520179, Val F1 Score: 0.36756757
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_O, dataset: generated_350_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.85      0.71      0.77       966
+         1.0       0.08      0.17      0.11       149
+
+    accuracy                           0.64      1115
+   macro avg       0.46      0.44      0.44      1115
+weighted avg       0.74      0.64      0.68      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_O
+Dataset: generated_500_each
+================================================================================
+Epoch 1, Train Loss: 0.65694692, Train Accuracy: 0.61300000, Train F1 Score: 0.61871921
+Epoch 1, Val Loss: 0.82945758, Val Accuracy: 0.50403587, Val F1 Score: 0.30614806
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.39946514, Train Accuracy: 0.83300000, Train F1 Score: 0.84019139
+Epoch 2, Val Loss: 1.33770725, Val Accuracy: 0.43139013, Val F1 Score: 0.31086957
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.23391601, Train Accuracy: 0.92200000, Train F1 Score: 0.92261905
+Epoch 3, Val Loss: 0.94889049, Val Accuracy: 0.69237668, Val F1 Score: 0.39076377
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.12858746, Train Accuracy: 0.95700000, Train F1 Score: 0.95634518
+Epoch 4, Val Loss: 1.21094977, Val Accuracy: 0.68430493, Val F1 Score: 0.37142857
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.07757288, Train Accuracy: 0.98100000, Train F1 Score: 0.98098098
+Epoch 5, Val Loss: 1.15933731, Val Accuracy: 0.74708520, Val F1 Score: 0.40000000
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.04399452, Train Accuracy: 0.99200000, Train F1 Score: 0.99200000
+Epoch 6, Val Loss: 1.14652472, Val Accuracy: 0.75156951, Val F1 Score: 0.39913232
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_O, dataset: generated_500_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.94      0.46      0.61       966
+         1.0       0.19      0.82      0.31       149
+
+    accuracy                           0.50      1115
+   macro avg       0.57      0.64      0.46      1115
+weighted avg       0.84      0.50      0.57      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_O
+Dataset: generated_1000_each
+================================================================================
+Epoch 1, Train Loss: 0.47769135, Train Accuracy: 0.77450000, Train F1 Score: 0.79052485
+Epoch 1, Val Loss: 1.52814127, Val Accuracy: 0.30852018, Val F1 Score: 0.27332705
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.21241782, Train Accuracy: 0.92600000, Train F1 Score: 0.92658730
+Epoch 2, Val Loss: 0.62814968, Val Accuracy: 0.78116592, Val F1 Score: 0.35449735
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.08759645, Train Accuracy: 0.97250000, Train F1 Score: 0.97251374
+Epoch 3, Val Loss: 1.40973527, Val Accuracy: 0.69955157, Val F1 Score: 0.44991790
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.05122085, Train Accuracy: 0.98550000, Train F1 Score: 0.98556496
+Epoch 4, Val Loss: 0.93214102, Val Accuracy: 0.79013453, Val F1 Score: 0.48458150
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.02686239, Train Accuracy: 0.99450000, Train F1 Score: 0.99449174
+Epoch 5, Val Loss: 1.25037651, Val Accuracy: 0.79103139, Val F1 Score: 0.51759834
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.01023618, Train Accuracy: 0.99900000, Train F1 Score: 0.99900000
+Epoch 6, Val Loss: 1.46612407, Val Accuracy: 0.77937220, Val F1 Score: 0.49173554
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.00695349, Train Accuracy: 0.99900000, Train F1 Score: 0.99900100
+Epoch 7, Val Loss: 1.26016705, Val Accuracy: 0.81165919, Val F1 Score: 0.52914798
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_O, dataset: generated_1000_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.91      0.83      0.87       966
+         1.0       0.29      0.45      0.35       149
+
+    accuracy                           0.78      1115
+   macro avg       0.60      0.64      0.61      1115
+weighted avg       0.83      0.78      0.80      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_O
+Dataset: generated_1500_each
+================================================================================
+Epoch 1, Train Loss: 0.39041542, Train Accuracy: 0.82733333, Train F1 Score: 0.82881692
+Epoch 1, Val Loss: 0.91536722, Val Accuracy: 0.60627803, Val F1 Score: 0.36652237
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.12555631, Train Accuracy: 0.95966667, Train F1 Score: 0.95978730
+Epoch 2, Val Loss: 0.78597881, Val Accuracy: 0.77040359, Val F1 Score: 0.36945813
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.06378196, Train Accuracy: 0.97900000, Train F1 Score: 0.97888032
+Epoch 3, Val Loss: 1.00890517, Val Accuracy: 0.76233184, Val F1 Score: 0.33915212
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.03044750, Train Accuracy: 0.99266667, Train F1 Score: 0.99265688
+Epoch 4, Val Loss: 1.13161539, Val Accuracy: 0.78923767, Val F1 Score: 0.44964871
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.01760246, Train Accuracy: 0.99633333, Train F1 Score: 0.99633211
+Epoch 5, Val Loss: 0.80899555, Val Accuracy: 0.82421525, Val F1 Score: 0.37179487
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.00932276, Train Accuracy: 0.99900000, Train F1 Score: 0.99899967
+Epoch 6, Val Loss: 1.30411625, Val Accuracy: 0.77488789, Val F1 Score: 0.41217799
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.00354002, Train Accuracy: 0.99933333, Train F1 Score: 0.99933333
+Epoch 7, Val Loss: 1.22695806, Val Accuracy: 0.79013453, Val F1 Score: 0.42079208
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_O, dataset: generated_1500_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.91      0.81      0.86       966
+         1.0       0.29      0.50      0.37       149
+
+    accuracy                           0.77      1115
+   macro avg       0.60      0.66      0.61      1115
+weighted avg       0.83      0.77      0.79      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_O
+Dataset: generated_2000_each
+================================================================================
+Epoch 1, Train Loss: 0.40123947, Train Accuracy: 0.80700000, Train F1 Score: 0.81253035
+Epoch 1, Val Loss: 0.59648985, Val Accuracy: 0.70852018, Val F1 Score: 0.44444444
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.09975949, Train Accuracy: 0.96900000, Train F1 Score: 0.96913888
+Epoch 2, Val Loss: 1.41410339, Val Accuracy: 0.70672646, Val F1 Score: 0.45950413
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.04543540, Train Accuracy: 0.98750000, Train F1 Score: 0.98749375
+Epoch 3, Val Loss: 0.90213484, Val Accuracy: 0.78385650, Val F1 Score: 0.53384913
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.01842221, Train Accuracy: 0.99500000, Train F1 Score: 0.99500250
+Epoch 4, Val Loss: 2.55395232, Val Accuracy: 0.61973094, Val F1 Score: 0.40112994
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.01380464, Train Accuracy: 0.99750000, Train F1 Score: 0.99750000
+Epoch 5, Val Loss: 2.17517362, Val Accuracy: 0.69506726, Val F1 Score: 0.45512821
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.00517310, Train Accuracy: 0.99875000, Train F1 Score: 0.99874906
+Epoch 6, Val Loss: 2.10455679, Val Accuracy: 0.70134529, Val F1 Score: 0.46203554
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_O, dataset: generated_2000_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.97      0.68      0.80       966
+         1.0       0.30      0.87      0.44       149
+
+    accuracy                           0.71      1115
+   macro avg       0.64      0.78      0.62      1115
+weighted avg       0.88      0.71      0.75      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_O
+Dataset: generated_2500_each
+================================================================================
+Epoch 1, Train Loss: 0.32150009, Train Accuracy: 0.85700000, Train F1 Score: 0.86522149
+Epoch 1, Val Loss: 0.61537441, Val Accuracy: 0.85739910, Val F1 Score: 0.05917160
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.08989844, Train Accuracy: 0.96980000, Train F1 Score: 0.96986629
+Epoch 2, Val Loss: 0.61683515, Val Accuracy: 0.86905830, Val F1 Score: 0.09876543
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.03536826, Train Accuracy: 0.98920000, Train F1 Score: 0.98917836
+Epoch 3, Val Loss: 0.71603975, Val Accuracy: 0.87264574, Val F1 Score: 0.27551020
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.01969800, Train Accuracy: 0.99480000, Train F1 Score: 0.99479167
+Epoch 4, Val Loss: 0.79149071, Val Accuracy: 0.87264574, Val F1 Score: 0.27551020
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.00805025, Train Accuracy: 0.99760000, Train F1 Score: 0.99759904
+Epoch 5, Val Loss: 0.77806751, Val Accuracy: 0.88789238, Val F1 Score: 0.60063898
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.00154720, Train Accuracy: 1.00000000, Train F1 Score: 1.00000000
+Epoch 6, Val Loss: 0.81211402, Val Accuracy: 0.89058296, Val F1 Score: 0.60897436
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_O, dataset: generated_2500_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.87      0.98      0.92       966
+         1.0       0.25      0.03      0.06       149
+
+    accuracy                           0.86      1115
+   macro avg       0.56      0.51      0.49      1115
+weighted avg       0.79      0.86      0.81      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_O
+Dataset: generated_3000_each
+================================================================================
+Epoch 1, Train Loss: 0.31938494, Train Accuracy: 0.86016667, Train F1 Score: 0.86663488
+Epoch 1, Val Loss: 0.54536409, Val Accuracy: 0.81614350, Val F1 Score: 0.33656958
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.08367591, Train Accuracy: 0.97083333, Train F1 Score: 0.97085762
+Epoch 2, Val Loss: 0.59537564, Val Accuracy: 0.85201794, Val F1 Score: 0.52722063
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.04130967, Train Accuracy: 0.98783333, Train F1 Score: 0.98782725
+Epoch 3, Val Loss: 0.66356402, Val Accuracy: 0.81973094, Val F1 Score: 0.48593350
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.02289333, Train Accuracy: 0.99300000, Train F1 Score: 0.99299533
+Epoch 4, Val Loss: 0.56000100, Val Accuracy: 0.86547085, Val F1 Score: 0.56140351
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.00798362, Train Accuracy: 0.99800000, Train F1 Score: 0.99799800
+Epoch 5, Val Loss: 1.26921231, Val Accuracy: 0.81793722, Val F1 Score: 0.51551313
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.00466272, Train Accuracy: 0.99883333, Train F1 Score: 0.99883275
+Epoch 6, Val Loss: 1.19750537, Val Accuracy: 0.83049327, Val F1 Score: 0.52631579
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_O, dataset: generated_3000_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.90      0.89      0.89       966
+         1.0       0.33      0.35      0.34       149
+
+    accuracy                           0.82      1115
+   macro avg       0.61      0.62      0.61      1115
+weighted avg       0.82      0.82      0.82      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_O
+Dataset: generated_3500_each
+================================================================================
+Epoch 1, Train Loss: 0.25416316, Train Accuracy: 0.89171429, Train F1 Score: 0.89492653
+Epoch 1, Val Loss: 0.97567662, Val Accuracy: 0.77847534, Val F1 Score: 0.53483992
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.05788075, Train Accuracy: 0.98100000, Train F1 Score: 0.98101356
+Epoch 2, Val Loss: 1.32067691, Val Accuracy: 0.73273543, Val F1 Score: 0.48972603
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.03538676, Train Accuracy: 0.98971429, Train F1 Score: 0.98970546
+Epoch 3, Val Loss: 1.48262577, Val Accuracy: 0.74260090, Val F1 Score: 0.50086957
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.01883219, Train Accuracy: 0.99485714, Train F1 Score: 0.99486008
+Epoch 4, Val Loss: 1.37120465, Val Accuracy: 0.76591928, Val F1 Score: 0.52110092
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.00839293, Train Accuracy: 0.99800000, Train F1 Score: 0.99800000
+Epoch 5, Val Loss: 0.77713145, Val Accuracy: 0.86188341, Val F1 Score: 0.62439024
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.00354240, Train Accuracy: 0.99928571, Train F1 Score: 0.99928561
+Epoch 6, Val Loss: 1.75313280, Val Accuracy: 0.78834081, Val F1 Score: 0.53725490
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.00946460, Train Accuracy: 0.99728571, Train F1 Score: 0.99728843
+Epoch 7, Val Loss: 0.72791313, Val Accuracy: 0.87533632, Val F1 Score: 0.64267352
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.00491788, Train Accuracy: 0.99885714, Train F1 Score: 0.99885714
+Epoch 8, Val Loss: 0.72286753, Val Accuracy: 0.90134529, Val F1 Score: 0.68926554
+--------------------------------------------------------------------------------
+Epoch 9, Train Loss: 0.00598157, Train Accuracy: 0.99814286, Train F1 Score: 0.99814259
+Epoch 9, Val Loss: 1.27983468, Val Accuracy: 0.82959641, Val F1 Score: 0.58695652
+--------------------------------------------------------------------------------
+Epoch 10, Train Loss: 0.00043820, Train Accuracy: 1.00000000, Train F1 Score: 1.00000000
+Epoch 10, Val Loss: 1.55279880, Val Accuracy: 0.82690583, Val F1 Score: 0.58672377
+--------------------------------------------------------------------------------
+Epoch 11, Train Loss: 0.00017233, Train Accuracy: 1.00000000, Train F1 Score: 1.00000000
+Epoch 11, Val Loss: 1.64283843, Val Accuracy: 0.82869955, Val F1 Score: 0.58924731
+--------------------------------------------------------------------------------
+Epoch 12, Train Loss: 0.00011913, Train Accuracy: 1.00000000, Train F1 Score: 1.00000000
+Epoch 12, Val Loss: 1.71634701, Val Accuracy: 0.82421525, Val F1 Score: 0.58474576
+--------------------------------------------------------------------------------
+Epoch 13, Train Loss: 0.00009934, Train Accuracy: 1.00000000, Train F1 Score: 1.00000000
+Epoch 13, Val Loss: 1.71588875, Val Accuracy: 0.82331839, Val F1 Score: 0.58350951
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_O, dataset: generated_3500_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.97      0.91      0.94       966
+         1.0       0.60      0.82      0.69       149
+
+    accuracy                           0.90      1115
+   macro avg       0.78      0.87      0.82      1115
+weighted avg       0.92      0.90      0.91      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_O
+Dataset: generated_4000_each
+================================================================================
+Epoch 1, Train Loss: 0.24238501, Train Accuracy: 0.88975000, Train F1 Score: 0.89277899
+Epoch 1, Val Loss: 0.49270535, Val Accuracy: 0.89237668, Val F1 Score: 0.48717949
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.05430306, Train Accuracy: 0.98325000, Train F1 Score: 0.98322904
+Epoch 2, Val Loss: 0.63031002, Val Accuracy: 0.87264574, Val F1 Score: 0.60335196
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.02862612, Train Accuracy: 0.99100000, Train F1 Score: 0.99099099
+Epoch 3, Val Loss: 0.59611697, Val Accuracy: 0.90044843, Val F1 Score: 0.59636364
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.01314442, Train Accuracy: 0.99700000, Train F1 Score: 0.99699775
+Epoch 4, Val Loss: 0.92438946, Val Accuracy: 0.86995516, Val F1 Score: 0.56716418
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.01688441, Train Accuracy: 0.99550000, Train F1 Score: 0.99549324
+Epoch 5, Val Loss: 1.04495371, Val Accuracy: 0.81524664, Val F1 Score: 0.54625551
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.01148206, Train Accuracy: 0.99700000, Train F1 Score: 0.99699700
+Epoch 6, Val Loss: 0.94415819, Val Accuracy: 0.85470852, Val F1 Score: 0.59701493
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_O, dataset: generated_4000_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.91      0.97      0.94       966
+         1.0       0.67      0.38      0.49       149
+
+    accuracy                           0.89      1115
+   macro avg       0.79      0.68      0.71      1115
+weighted avg       0.88      0.89      0.88      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_O
+Dataset: generated_4500_each
+================================================================================
+Epoch 1, Train Loss: 0.22161594, Train Accuracy: 0.90777778, Train F1 Score: 0.90934906
+Epoch 1, Val Loss: 0.59124803, Val Accuracy: 0.80717489, Val F1 Score: 0.50346420
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.05391885, Train Accuracy: 0.98233333, Train F1 Score: 0.98235490
+Epoch 2, Val Loss: 0.39886831, Val Accuracy: 0.87982063, Val F1 Score: 0.60818713
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.02880584, Train Accuracy: 0.99122222, Train F1 Score: 0.99121148
+Epoch 3, Val Loss: 0.67411261, Val Accuracy: 0.88430493, Val F1 Score: 0.66838046
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.01464562, Train Accuracy: 0.99588889, Train F1 Score: 0.99588386
+Epoch 4, Val Loss: 0.69829829, Val Accuracy: 0.89327354, Val F1 Score: 0.67217631
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.01378391, Train Accuracy: 0.99533333, Train F1 Score: 0.99533126
+Epoch 5, Val Loss: 0.62163969, Val Accuracy: 0.85650224, Val F1 Score: 0.60784314
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.00726343, Train Accuracy: 0.99788889, Train F1 Score: 0.99788772
+Epoch 6, Val Loss: 1.41942403, Val Accuracy: 0.83228700, Val F1 Score: 0.58719647
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.00338207, Train Accuracy: 0.99866667, Train F1 Score: 0.99866607
+Epoch 7, Val Loss: 1.41532822, Val Accuracy: 0.83228700, Val F1 Score: 0.58719647
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_O, dataset: generated_4500_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.95      0.91      0.93       966
+         1.0       0.54      0.70      0.61       149
+
+    accuracy                           0.88      1115
+   macro avg       0.75      0.80      0.77      1115
+weighted avg       0.90      0.88      0.89      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_O
+Dataset: generated_5000_each
+================================================================================
+Epoch 1, Train Loss: 0.20356808, Train Accuracy: 0.91260000, Train F1 Score: 0.91394250
+Epoch 1, Val Loss: 0.37759544, Val Accuracy: 0.86726457, Val F1 Score: 0.42187500
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.05241801, Train Accuracy: 0.98420000, Train F1 Score: 0.98420000
+Epoch 2, Val Loss: 0.39559086, Val Accuracy: 0.89237668, Val F1 Score: 0.49152542
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.02760492, Train Accuracy: 0.99180000, Train F1 Score: 0.99179179
+Epoch 3, Val Loss: 0.82906983, Val Accuracy: 0.86726457, Val F1 Score: 0.62436548
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.01527006, Train Accuracy: 0.99590000, Train F1 Score: 0.99589549
+Epoch 4, Val Loss: 1.06391313, Val Accuracy: 0.84573991, Val F1 Score: 0.58653846
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.01214035, Train Accuracy: 0.99680000, Train F1 Score: 0.99679680
+Epoch 5, Val Loss: 0.83547741, Val Accuracy: 0.85201794, Val F1 Score: 0.61358314
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.00713934, Train Accuracy: 0.99800000, Train F1 Score: 0.99799840
+Epoch 6, Val Loss: 0.89509723, Val Accuracy: 0.85919283, Val F1 Score: 0.61613692
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_O, dataset: generated_5000_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.91      0.95      0.93       966
+         1.0       0.50      0.36      0.42       149
+
+    accuracy                           0.87      1115
+   macro avg       0.71      0.65      0.67      1115
+weighted avg       0.85      0.87      0.86      1115
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_F
+Dataset: generated_350_each
+================================================================================
+Epoch 1, Train Loss: 0.68735812, Train Accuracy: 0.53428571, Train F1 Score: 0.61190476
+Epoch 1, Val Loss: 0.52992133, Val Accuracy: 0.86414214, Val F1 Score: 0.00525624
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.52388822, Train Accuracy: 0.74857143, Train F1 Score: 0.72500000
+Epoch 2, Val Loss: 1.39470441, Val Accuracy: 0.40183058, Val F1 Score: 0.26602070
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.37727430, Train Accuracy: 0.86000000, Train F1 Score: 0.86538462
+Epoch 3, Val Loss: 0.84488852, Val Accuracy: 0.62365398, Val F1 Score: 0.25293908
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.23024552, Train Accuracy: 0.92714286, Train F1 Score: 0.92765957
+Epoch 4, Val Loss: 0.83925452, Val Accuracy: 0.72236181, Val F1 Score: 0.19886069
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.14208498, Train Accuracy: 0.96000000, Train F1 Score: 0.96011396
+Epoch 5, Val Loss: 1.02483217, Val Accuracy: 0.74138550, Val F1 Score: 0.23228556
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.09527066, Train Accuracy: 0.97142857, Train F1 Score: 0.97167139
+Epoch 6, Val Loss: 0.95672971, Val Accuracy: 0.76507538, Val F1 Score: 0.21569802
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_F, dataset: generated_350_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.87      1.00      0.93      4825
+         1.0       0.14      0.00      0.01       747
+
+    accuracy                           0.86      5572
+   macro avg       0.50      0.50      0.47      5572
+weighted avg       0.77      0.86      0.80      5572
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_F
+Dataset: generated_500_each
+================================================================================
+Epoch 1, Train Loss: 0.61883449, Train Accuracy: 0.63100000, Train F1 Score: 0.67316209
+Epoch 1, Val Loss: 1.18306182, Val Accuracy: 0.35750179, Val F1 Score: 0.27822581
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.36413643, Train Accuracy: 0.85300000, Train F1 Score: 0.86066351
+Epoch 2, Val Loss: 1.99379941, Val Accuracy: 0.27351041, Val F1 Score: 0.26158336
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.20995141, Train Accuracy: 0.92700000, Train F1 Score: 0.92618807
+Epoch 3, Val Loss: 0.90580544, Val Accuracy: 0.68664752, Val F1 Score: 0.38303887
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.12530360, Train Accuracy: 0.96400000, Train F1 Score: 0.96378270
+Epoch 4, Val Loss: 1.22840410, Val Accuracy: 0.60355348, Val F1 Score: 0.36284973
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.06917104, Train Accuracy: 0.98200000, Train F1 Score: 0.98196393
+Epoch 5, Val Loss: 1.34954743, Val Accuracy: 0.53068916, Val F1 Score: 0.32897100
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.05768329, Train Accuracy: 0.99100000, Train F1 Score: 0.99097292
+Epoch 6, Val Loss: 1.44937544, Val Accuracy: 0.65703518, Val F1 Score: 0.38014921
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.02853427, Train Accuracy: 0.99400000, Train F1 Score: 0.99398798
+Epoch 7, Val Loss: 1.51970257, Val Accuracy: 0.66421393, Val F1 Score: 0.38955954
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.01809578, Train Accuracy: 0.99700000, Train F1 Score: 0.99699700
+Epoch 8, Val Loss: 1.50015484, Val Accuracy: 0.66708543, Val F1 Score: 0.39120446
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_F, dataset: generated_500_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.94      0.68      0.79      4825
+         1.0       0.26      0.73      0.38       747
+
+    accuracy                           0.69      5572
+   macro avg       0.60      0.70      0.59      5572
+weighted avg       0.85      0.69      0.74      5572
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_F
+Dataset: generated_1000_each
+================================================================================
+Epoch 1, Train Loss: 0.50219149, Train Accuracy: 0.74200000, Train F1 Score: 0.74975752
+Epoch 1, Val Loss: 1.18037109, Val Accuracy: 0.62742283, Val F1 Score: 0.33161623
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.20135398, Train Accuracy: 0.92850000, Train F1 Score: 0.92903226
+Epoch 2, Val Loss: 1.04386253, Val Accuracy: 0.74461594, Val F1 Score: 0.47779817
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.08570001, Train Accuracy: 0.96900000, Train F1 Score: 0.96918489
+Epoch 3, Val Loss: 0.88234635, Val Accuracy: 0.78463747, Val F1 Score: 0.49066214
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.03817608, Train Accuracy: 0.99100000, Train F1 Score: 0.99102692
+Epoch 4, Val Loss: 1.81759981, Val Accuracy: 0.66403446, Val F1 Score: 0.41132075
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.02446979, Train Accuracy: 0.99500000, Train F1 Score: 0.99500000
+Epoch 5, Val Loss: 1.44031694, Val Accuracy: 0.75771716, Val F1 Score: 0.48863636
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.01299063, Train Accuracy: 0.99800000, Train F1 Score: 0.99800200
+Epoch 6, Val Loss: 1.28107230, Val Accuracy: 0.79038047, Val F1 Score: 0.51735537
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.00928086, Train Accuracy: 0.99850000, Train F1 Score: 0.99850075
+Epoch 7, Val Loss: 1.56839651, Val Accuracy: 0.74784637, Val F1 Score: 0.48250460
+--------------------------------------------------------------------------------
+Epoch 8, Train Loss: 0.00739479, Train Accuracy: 0.99900000, Train F1 Score: 0.99900100
+Epoch 8, Val Loss: 1.45689409, Val Accuracy: 0.76525485, Val F1 Score: 0.49380805
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_F, dataset: generated_1000_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.96      0.79      0.86      4825
+         1.0       0.36      0.77      0.49       747
+
+    accuracy                           0.78      5572
+   macro avg       0.66      0.78      0.68      5572
+weighted avg       0.88      0.78      0.81      5572
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_F
+Dataset: generated_1500_each
+================================================================================
+Epoch 1, Train Loss: 0.37787297, Train Accuracy: 0.82866667, Train F1 Score: 0.83836478
+Epoch 1, Val Loss: 0.93769632, Val Accuracy: 0.66475233, Val F1 Score: 0.36934504
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.11735811, Train Accuracy: 0.95600000, Train F1 Score: 0.95588235
+Epoch 2, Val Loss: 0.61128119, Val Accuracy: 0.84493898, Val F1 Score: 0.38983051
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.04877170, Train Accuracy: 0.98600000, Train F1 Score: 0.98596257
+Epoch 3, Val Loss: 0.98633239, Val Accuracy: 0.80491744, Val F1 Score: 0.50297211
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.03522550, Train Accuracy: 0.98966667, Train F1 Score: 0.98967699
+Epoch 4, Val Loss: 0.92569264, Val Accuracy: 0.84296482, Val F1 Score: 0.54545455
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.02184067, Train Accuracy: 0.99466667, Train F1 Score: 0.99466311
+Epoch 5, Val Loss: 0.80337400, Val Accuracy: 0.84009332, Val F1 Score: 0.35574837
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.01193446, Train Accuracy: 0.99700000, Train F1 Score: 0.99699499
+Epoch 6, Val Loss: 1.59646023, Val Accuracy: 0.75376884, Val F1 Score: 0.47832700
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.01157792, Train Accuracy: 0.99766667, Train F1 Score: 0.99766900
+Epoch 7, Val Loss: 1.18739926, Val Accuracy: 0.80473798, Val F1 Score: 0.49676226
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_F, dataset: generated_1500_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.90      0.92      0.91      4825
+         1.0       0.41      0.37      0.39       747
+
+    accuracy                           0.84      5572
+   macro avg       0.66      0.64      0.65      5572
+weighted avg       0.84      0.84      0.84      5572
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_F
+Dataset: generated_2000_each
+================================================================================
+Epoch 1, Train Loss: 0.36469642, Train Accuracy: 0.82850000, Train F1 Score: 0.83874001
+Epoch 1, Val Loss: 0.64957264, Val Accuracy: 0.75628141, Val F1 Score: 0.35023923
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.08205862, Train Accuracy: 0.97100000, Train F1 Score: 0.97097097
+Epoch 2, Val Loss: 0.65629850, Val Accuracy: 0.72343862, Val F1 Score: 0.43491016
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.03764963, Train Accuracy: 0.98925000, Train F1 Score: 0.98924731
+Epoch 3, Val Loss: 1.08948394, Val Accuracy: 0.72936109, Val F1 Score: 0.45043732
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.01692153, Train Accuracy: 0.99575000, Train F1 Score: 0.99574681
+Epoch 4, Val Loss: 0.99602645, Val Accuracy: 0.77117732, Val F1 Score: 0.50253609
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.01349782, Train Accuracy: 0.99625000, Train F1 Score: 0.99625094
+Epoch 5, Val Loss: 1.11846946, Val Accuracy: 0.75448672, Val F1 Score: 0.49705882
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.00433770, Train Accuracy: 0.99950000, Train F1 Score: 0.99949975
+Epoch 6, Val Loss: 1.27985973, Val Accuracy: 0.73941134, Val F1 Score: 0.48510638
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_F, dataset: generated_2000_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.91      0.80      0.85      4825
+         1.0       0.27      0.49      0.35       747
+
+    accuracy                           0.76      5572
+   macro avg       0.59      0.64      0.60      5572
+weighted avg       0.82      0.76      0.78      5572
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_F
+Dataset: generated_2500_each
+================================================================================
+Epoch 1, Train Loss: 0.29829887, Train Accuracy: 0.86340000, Train F1 Score: 0.86968136
+Epoch 1, Val Loss: 0.48767216, Val Accuracy: 0.86288586, Val F1 Score: 0.54685647
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.07991665, Train Accuracy: 0.97300000, Train F1 Score: 0.97303775
+Epoch 2, Val Loss: 0.33293898, Val Accuracy: 0.91367552, Val F1 Score: 0.61795075
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.03532711, Train Accuracy: 0.98900000, Train F1 Score: 0.98898899
+Epoch 3, Val Loss: 0.60048894, Val Accuracy: 0.88406317, Val F1 Score: 0.64190687
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.01840181, Train Accuracy: 0.99540000, Train F1 Score: 0.99539540
+Epoch 4, Val Loss: 0.87177545, Val Accuracy: 0.79953338, Val F1 Score: 0.52244549
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.01346162, Train Accuracy: 0.99660000, Train F1 Score: 0.99659523
+Epoch 5, Val Loss: 1.01572008, Val Accuracy: 0.81622398, Val F1 Score: 0.53748871
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.00883856, Train Accuracy: 0.99780000, Train F1 Score: 0.99779868
+Epoch 6, Val Loss: 1.98515182, Val Accuracy: 0.72559225, Val F1 Score: 0.46482324
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.00346453, Train Accuracy: 0.99860000, Train F1 Score: 0.99860028
+Epoch 7, Val Loss: 1.95138971, Val Accuracy: 0.72200287, Val F1 Score: 0.46567782
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_F, dataset: generated_2500_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.93      0.97      0.95      4825
+         1.0       0.76      0.52      0.62       747
+
+    accuracy                           0.91      5572
+   macro avg       0.84      0.75      0.78      5572
+weighted avg       0.91      0.91      0.91      5572
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_F
+Dataset: generated_3000_each
+================================================================================
+Epoch 1, Train Loss: 0.27694702, Train Accuracy: 0.88416667, Train F1 Score: 0.88752225
+Epoch 1, Val Loss: 0.71608288, Val Accuracy: 0.84063173, Val F1 Score: 0.31901840
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.06804299, Train Accuracy: 0.97650000, Train F1 Score: 0.97648040
+Epoch 2, Val Loss: 0.50763280, Val Accuracy: 0.86611630, Val F1 Score: 0.53375000
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.03123305, Train Accuracy: 0.99133333, Train F1 Score: 0.99131597
+Epoch 3, Val Loss: 0.56260454, Val Accuracy: 0.81945441, Val F1 Score: 0.53683241
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.01326266, Train Accuracy: 0.99583333, Train F1 Score: 0.99583264
+Epoch 4, Val Loss: 1.40276863, Val Accuracy: 0.80258435, Val F1 Score: 0.52545298
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.01125233, Train Accuracy: 0.99650000, Train F1 Score: 0.99649825
+Epoch 5, Val Loss: 1.28807523, Val Accuracy: 0.77889447, Val F1 Score: 0.51572327
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.00995502, Train Accuracy: 0.99700000, Train F1 Score: 0.99700200
+Epoch 6, Val Loss: 0.71821203, Val Accuracy: 0.84601579, Val F1 Score: 0.56841046
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.01162079, Train Accuracy: 0.99716667, Train F1 Score: 0.99715957
+Epoch 7, Val Loss: 1.42083755, Val Accuracy: 0.77315147, Val F1 Score: 0.49801430
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_F, dataset: generated_3000_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.93      0.91      0.92      4825
+         1.0       0.50      0.57      0.53       747
+
+    accuracy                           0.87      5572
+   macro avg       0.72      0.74      0.73      5572
+weighted avg       0.87      0.87      0.87      5572
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_F
+Dataset: generated_3500_each
+================================================================================
+Epoch 1, Train Loss: 0.27707949, Train Accuracy: 0.87128571, Train F1 Score: 0.87236152
+Epoch 1, Val Loss: 0.51653728, Val Accuracy: 0.86521895, Val F1 Score: 0.17199559
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.05738581, Train Accuracy: 0.97985714, Train F1 Score: 0.97985426
+Epoch 2, Val Loss: 0.51628589, Val Accuracy: 0.88980617, Val F1 Score: 0.48833333
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.02830443, Train Accuracy: 0.99085714, Train F1 Score: 0.99085714
+Epoch 3, Val Loss: 0.77818114, Val Accuracy: 0.87580761, Val F1 Score: 0.55297158
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.00930813, Train Accuracy: 0.99742857, Train F1 Score: 0.99742784
+Epoch 4, Val Loss: 1.11892272, Val Accuracy: 0.83686289, Val F1 Score: 0.55022266
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.01422196, Train Accuracy: 0.99542857, Train F1 Score: 0.99542857
+Epoch 5, Val Loss: 0.77164307, Val Accuracy: 0.87796123, Val F1 Score: 0.62389381
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.00927545, Train Accuracy: 0.99757143, Train F1 Score: 0.99757039
+Epoch 6, Val Loss: 0.99905174, Val Accuracy: 0.87401292, Val F1 Score: 0.61300992
+--------------------------------------------------------------------------------
+Epoch 7, Train Loss: 0.00174277, Train Accuracy: 0.99985714, Train F1 Score: 0.99985712
+Epoch 7, Val Loss: 1.09760985, Val Accuracy: 0.86647523, Val F1 Score: 0.60298826
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_F, dataset: generated_3500_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.91      0.97      0.94      4825
+         1.0       0.65      0.39      0.49       747
+
+    accuracy                           0.89      5572
+   macro avg       0.78      0.68      0.71      5572
+weighted avg       0.88      0.89      0.88      5572
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_F
+Dataset: generated_4000_each
+================================================================================
+Epoch 1, Train Loss: 0.24601703, Train Accuracy: 0.88837500, Train F1 Score: 0.89108428
+Epoch 1, Val Loss: 0.56671602, Val Accuracy: 0.83776023, Val F1 Score: 0.45410628
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.05146871, Train Accuracy: 0.98350000, Train F1 Score: 0.98350412
+Epoch 2, Val Loss: 0.69124162, Val Accuracy: 0.85624551, Val F1 Score: 0.57730871
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.02709488, Train Accuracy: 0.99162500, Train F1 Score: 0.99161347
+Epoch 3, Val Loss: 0.77255771, Val Accuracy: 0.86755205, Val F1 Score: 0.59539474
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.02498961, Train Accuracy: 0.99500000, Train F1 Score: 0.99499875
+Epoch 4, Val Loss: 1.24664034, Val Accuracy: 0.77997128, Val F1 Score: 0.52700617
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.01096126, Train Accuracy: 0.99725000, Train F1 Score: 0.99725000
+Epoch 5, Val Loss: 1.33728788, Val Accuracy: 0.79684135, Val F1 Score: 0.54611067
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.00211807, Train Accuracy: 0.99975000, Train F1 Score: 0.99974994
+Epoch 6, Val Loss: 1.56876784, Val Accuracy: 0.77709978, Val F1 Score: 0.52667683
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_F, dataset: generated_4000_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.92      0.89      0.90      4825
+         1.0       0.41      0.50      0.45       747
+
+    accuracy                           0.84      5572
+   macro avg       0.67      0.70      0.68      5572
+weighted avg       0.85      0.84      0.84      5572
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_F
+Dataset: generated_4500_each
+================================================================================
+Epoch 1, Train Loss: 0.23660191, Train Accuracy: 0.89511111, Train F1 Score: 0.89578273
+Epoch 1, Val Loss: 0.58384144, Val Accuracy: 0.85086145, Val F1 Score: 0.57623661
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.06010150, Train Accuracy: 0.98122222, Train F1 Score: 0.98120343
+Epoch 2, Val Loss: 0.71606750, Val Accuracy: 0.87078248, Val F1 Score: 0.57193817
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.02451729, Train Accuracy: 0.99366667, Train F1 Score: 0.99365751
+Epoch 3, Val Loss: 0.74087365, Val Accuracy: 0.87167983, Val F1 Score: 0.58837075
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.01529272, Train Accuracy: 0.99622222, Train F1 Score: 0.99621718
+Epoch 4, Val Loss: 1.07214702, Val Accuracy: 0.83147882, Val F1 Score: 0.55811765
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.00887894, Train Accuracy: 0.99711111, Train F1 Score: 0.99711047
+Epoch 5, Val Loss: 0.92668380, Val Accuracy: 0.87311558, Val F1 Score: 0.62212720
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.00292218, Train Accuracy: 0.99933333, Train F1 Score: 0.99933319
+Epoch 6, Val Loss: 1.03547671, Val Accuracy: 0.86844939, Val F1 Score: 0.61723238
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_F, dataset: generated_4500_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.96      0.87      0.91      4825
+         1.0       0.47      0.76      0.58       747
+
+    accuracy                           0.85      5572
+   macro avg       0.71      0.81      0.74      5572
+weighted avg       0.89      0.85      0.86      5572
+
+================================================================================
+Model Name: LSTM
+Scenario: Scenario_GM_F
+Dataset: generated_5000_each
+================================================================================
+Epoch 1, Train Loss: 0.21245475, Train Accuracy: 0.90900000, Train F1 Score: 0.90984743
+Epoch 1, Val Loss: 0.41467071, Val Accuracy: 0.87024408, Val F1 Score: 0.40000000
+--------------------------------------------------------------------------------
+Epoch 2, Train Loss: 0.04915808, Train Accuracy: 0.98430000, Train F1 Score: 0.98430785
+Epoch 2, Val Loss: 0.44954190, Val Accuracy: 0.90272793, Val F1 Score: 0.59370315
+--------------------------------------------------------------------------------
+Epoch 3, Train Loss: 0.02159859, Train Accuracy: 0.99440000, Train F1 Score: 0.99439552
+Epoch 3, Val Loss: 0.55616785, Val Accuracy: 0.88783202, Val F1 Score: 0.61395923
+--------------------------------------------------------------------------------
+Epoch 4, Train Loss: 0.01347799, Train Accuracy: 0.99640000, Train F1 Score: 0.99639784
+Epoch 4, Val Loss: 1.04151207, Val Accuracy: 0.84117014, Val F1 Score: 0.56296296
+--------------------------------------------------------------------------------
+Epoch 5, Train Loss: 0.00834030, Train Accuracy: 0.99790000, Train F1 Score: 0.99789937
+Epoch 5, Val Loss: 0.61690392, Val Accuracy: 0.90344580, Val F1 Score: 0.64228723
+--------------------------------------------------------------------------------
+Epoch 6, Train Loss: 0.00425890, Train Accuracy: 0.99880000, Train F1 Score: 0.99879904
+Epoch 6, Val Loss: 0.72733308, Val Accuracy: 0.89052405, Val F1 Score: 0.64821223
+--------------------------------------------------------------------------------
+Training for LSTM under scenario: Scenario_GM_F, dataset: generated_5000_each completed.
+Evaluation Results:
+--------------------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         0.0       0.90      0.96      0.93      4825
+         1.0       0.53      0.32      0.40       747
+
+    accuracy                           0.87      5572
+   macro avg       0.71      0.64      0.66      5572
+weighted avg       0.85      0.87      0.86      5572
+

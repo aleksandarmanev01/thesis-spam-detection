@@ -1,0 +1,20 @@
+name: thesis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - lightgbm=3.3.5=py311h3c5d1ec_0
+  - matplotlib=3.7.2=py311hecd8cb5_0
+  - numpy=1.24.3=py311hd0e4f0d_0
+  - pandas=2.1.1=py311hdb55bb0_0
+  - pip=23.3=py311hecd8cb5_0
+  - python=3.11.5=hf27a42d_0
+  - scikit-learn=1.3.0=py311hdb55bb0_0
+  - pip:
+      - huggingface-hub==0.18.0
+      - nltk==3.8.1
+      - torch==2.1.0
+      - torchtext==0.16.0
+      - transformers==4.34.1
+      - xgboost==2.0.1
+prefix: /Users/aleksandarmanev/opt/anaconda3/envs/thesis
